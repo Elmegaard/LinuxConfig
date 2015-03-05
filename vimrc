@@ -1,0 +1,1 @@
+/home/elmegaard/LinuxConfig/vimrc
