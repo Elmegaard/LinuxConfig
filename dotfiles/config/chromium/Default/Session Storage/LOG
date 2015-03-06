@@ -3,3 +3,6 @@
 2015/03/06-09:06:41.765 19714 Level-0 table #52: started
 2015/03/06-09:06:41.824 19714 Level-0 table #52: 936069 bytes OK
 2015/03/06-09:06:41.840 19714 Delete type=0 #47
+2015/03/06-09:33:07.725 19931 Compacting 1@0 + 2@1 files
+2015/03/06-09:33:07.725 19931 compacted to: files[ 1 2 0 0 0 0 0 ]
+2015/03/06-09:33:07.725 19931 Compaction error: IO error: /home/elmegaard/.config/chromium/Default/Session Storage/000054.ldb: Unable to create writable file (ChromeMethodPFE: 9::NewWritableFile::4)

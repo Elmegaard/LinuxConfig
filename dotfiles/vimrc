@@ -47,8 +47,14 @@ filetype plugin indent on    " required
 "LaTeX
 let g:LatexBox_latexmk_options = "-pvc -pdfps"
 let g:LatexBox_latexmk_async=1
+let g:LatexBox_latexmk_preview_continuously=1
 "let g:Tex_CompileRule_pdf = 'latexmk -pdf'
 "let g:Tex_DefaultTargetFormat='pdf' 
+"Vim-LaTeX config:
+filetype plugin indent on
+set grepprg=grep\ -nH\ $*
+let g:tex_flavor = "latex"
+
 " Allow saving of files as sudo when I forgot to start vim using sudo.
 cmap w!! w !sudo tee > /dev/null % 
 cmap x!! x !sudo tee > /dev/null %
