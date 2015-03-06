@@ -1,1 +1,0 @@
-var decodeQueryString;(function(){decodeQueryString=function(d){for(var b={},e=/([^=&]+)(=([^&]*))?/g,a;a=e.exec(d);){var f=decodeURIComponent(a[1].replace(/\+/g," "));if(a[2]){var c="";a[3]&&(c=decodeURIComponent(a[3].replace(/\+/g," ")));b[f]=c}}return b};"undefined"!==typeof module&&module.exports&&(module.exports=decodeQueryString)})();

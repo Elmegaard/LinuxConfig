@@ -1,1 +1,0 @@
-var assertNotEquals=function(a,b,c){},assertNotNull=function(a,b){},assertNull=function(a,b){},assertUndefined=function(a,b){},assertTrue=function(a,b){},assertFalse=function(a,b){},fail=function(a){},assertEquals=function(a,b){},assertArrayEquals=function(a,b){},assertThrows=function(a){},assertObjectEquals=function(a,b){},assertContains=function(a,b,c){};

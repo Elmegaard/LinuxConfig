@@ -1,1 +1,0 @@
-var getCanonicalHost;(function(){getCanonicalHost=function(a){a=(new URI(a)).getAuthority();if(!a)return"";var b=a.indexOf(":");-1!==b&&(a=a.slice(0,b));return"www."===a.substring(0,4)?a.substring(4):a};"undefined"!==typeof module&&module.exports?module.exports.getCanonicalHost=getCanonicalHost:"undefined"!==typeof window&&(window.getCanonicalHost=getCanonicalHost)})();

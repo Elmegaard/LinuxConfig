@@ -1,1 +1,0 @@
-var REMOTE_INSTALL_PATH="/install.html",SIGNUP_PATH="html/signup.html",isInstallPage=function(a){return(a=new URI(a))&&a.getAuthority()&&a.getPath()&&a.getAuthority().match(/(^|\.)mitro\.co$/)&&a.getPath()===REMOTE_INSTALL_PATH},getInstallRedirectUrl=function(a){a=(a=new URI(a))&&a.getFragment()?"#"+a.getFragment():"";return helper.getURL(SIGNUP_PATH+a)};

@@ -1,1 +1,0 @@
-for(var keyczar=require("./keyczar"),NUM_KEYS=20,start=new Date,i=0;i<NUM_KEYS;i++)var privateKey=keyczar.create(keyczar.TYPE_RSA_PRIVATE,keyczar.PURPOSE_ENCRYPT_DECRYPT);var end=new Date,diff=end-start;console.log("diff: "+diff+" time per key: "+diff/NUM_KEYS);
