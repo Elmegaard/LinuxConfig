@@ -1,0 +1,11 @@
+{
+   "content_scripts": [ {
+      "js": [ "gotoWeek.js" ],
+      "matches": [ "http://www.tnb.aau.dk/fg_2012/skema/*" ]
+   } ],
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEDTXAUfdo2p2unPvNFOjSJWg4GMUxbH0rKwTGsRKOX7Bb2h9GFG80ycO7u2oKeRXoXB19ZrkrjjIc9ZLIXBAhdhSgKHJKRu6DdRpqXfbDcwgkvHzwbCo2Jksf0KRzw59XCzWxJvCYe44chaKUv500PeIpkUWPv9/aH8jaV9u9OQIDAQAB",
+   "manifest_version": 2,
+   "name": "AAU Skema",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.3"
+}

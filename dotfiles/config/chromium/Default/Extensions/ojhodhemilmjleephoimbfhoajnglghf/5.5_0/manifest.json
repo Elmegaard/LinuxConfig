@@ -1,0 +1,34 @@
+{
+   "background": {
+      "page": "html/bg.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "img/icon.png",
+      "default_popup": "html/popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "js/jquery.js", "js/live_query.js", "js/ad_block.js", "js/control_script.js" ],
+      "matches": [ "*://www.pandora.com/*", "*://www.pandora.com/" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "js/options.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self' ",
+   "description": "Removes Pandora Ads, Add Song Title to Title Bar and Gives You A Quick Access Bar.",
+   "icons": {
+      "128": "img/128.png",
+      "16": "img/16.png",
+      "48": "img/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCGZAmECeg11RvHXiqLwUvQcqV+KMpMqltHoe6r0Q8v+XOohH4GxqmhCESZH+hv/7+nQAheovhVqYtYuIXugzI74Oew/nUh//h/shkh3wHD8yy97h9zNg9k2IKE0lOWiM7/Lb64vDExNjcab0V55qMMaNyeM1EE+sAcj7SdwbJXbwIDAQAB",
+   "manifest_version": 2,
+   "name": "Pandora Audio Ad Remover",
+   "permissions": [ "\u003Call_urls>", "webRequest", "webRequestBlocking", "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.5"
+}

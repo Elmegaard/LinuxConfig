@@ -1,0 +1,5061 @@
+{
+   "1008774365351112026": {
+      "message": "Pievienot atribūtu “$REL_NO_FOLLOW$” ($LINK_START$uzzināt vairāk$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Parasts"
+   },
+   "1018015195679239708": {
+      "message": "Mūzikas augšupielāde"
+   },
+   "1026450251988549367": {
+      "message": "Nesen pārveidots"
+   },
+   "1035734413919296": {
+      "message": "Pievienot mūziku"
+   },
+   "1044946868924904798": {
+      "message": "Nav savienojuma"
+   },
+   "1047094450854611275": {
+      "message": "Izmantojot mini atskaņotāju, varat kontrolēt mūzikas atskaņošanu ārpus pārlūka loga, pievienot dziesmām atzīmes “Patīk” un atskaņot radiostaciju “Es ticu veiksmei!”."
+   },
+   "1052242579040192537": {
+      "message": "Kanādas iezemiešu"
+   },
+   "10524368647766690": {
+      "message": "Nr."
+   },
+   "1053534453293466081": {
+      "message": "Meklēt mūziku"
+   },
+   "1061567929494389534": {
+      "message": "Nevarēja izgūt radiostacijas. Lūdzu, mēģiniet vēlreiz."
+   },
+   "1061598772078003048": {
+      "message": "Rindstarpu anotācijas pārtraukšanas zīme"
+   },
+   "1065557748112539713": {
+      "message": "Tiek pārtraukta mūzikas lejupielāde"
+   },
+   "1072679467482196927": {
+      "message": "Sadaļā “Galvenā” jums tiek piedāvāta mūzika, kas atlasīta tieši jums, pamatojoties uz mūziku, kuru klausāties."
+   },
+   "108223358531234113": {
+      "message": "Skatīt ziņu"
+   },
+   "108743912460085743": {
+      "message": "Ignorēšana no kreisās puses uz labo"
+   },
+   "1105024870503318889": {
+      "message": "Pievienot manu mūziku"
+   },
+   "1112993314938741781": {
+      "message": "Īsinājumtaustiņi"
+   },
+   "1113263297279724213": {
+      "message": "Dzēst visu bibliotēku"
+   },
+   "1128573996588450958": {
+      "message": "{NUM_SONGS,plural, =1{Dziesma tika izlabota}zero{Dziesmas tika izlabotas}one{Dziesmas tika izlabotas}other{Dziesmas tika izlabotas}}"
+   },
+   "1128787885076347414": {
+      "message": "Uzziniet vairāk"
+   },
+   "113306301971655652": {
+      "message": "Atzīme no kreisās puses uz labo"
+   },
+   "1144407473317535723": {
+      "message": "Abonēt"
+   },
+   "1144614654642966892": {
+      "message": "Atceliet pirms nākamā rēķina saņemšanas. Līdz tam turpiniet klausīties."
+   },
+   "1145877575671354635": {
+      "message": "Atsvaidzināt bibliotēku"
+   },
+   "1147358182484006761": {
+      "message": "Veikals"
+   },
+   "1150285978886683433": {
+      "message": "Pārslēgt atkārtošanas režīmus: Izslēgt, Visu un Vienu."
+   },
+   "1152313922995021532": {
+      "message": "64 bitu .rpm (Fedora/openSUSE)"
+   },
+   "1154038900035351894": {
+      "message": "Kreisā bultiņa"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{Pievienota 1 dziesma}zero{Pievienotas {NUM_TRANSFERRED_TRACKS_2} dziesmas}one{Pievienota {NUM_TRANSFERRED_TRACKS_2} dziesma}other{Pievienotas {NUM_TRANSFERRED_TRACKS_2} dziesmas}}"
+   },
+   "1168628503345801417": {
+      "message": "Jūsu abonementam beidzies termiņš"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minūte}zero{{TEXT} minūšu}one{{TEXT} minūte}other{{TEXT} minūtes}}"
+   },
+   "117315057265021884": {
+      "message": "Meklēšanas rezultāti"
+   },
+   "1179345224084080955": {
+      "message": "Jūsu konta veids ir mainīts. Lūdzu, atsvaidziniet lapu, lai turpinātu."
+   },
+   "1180592962653525250": {
+      "message": "Sākt žanra radio"
+   },
+   "1182611188595867762": {
+      "message": "2. Kad tiek atvērta instalēšanas programma, izpildiet tajā sniegtos norādījumus, lai instalētu lietotni Mūzikas pārvaldnieks."
+   },
+   "1182777319789922853": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{1 dzēsta dziesma}zero{# dzēstu dziesmu}one{# dzēsta dziesma}other{# dzēstas dziesmas}}"
+   },
+   "1189933439482480473": {
+      "message": "Sasniegts dziesmu ierobežojums."
+   },
+   "119578115745431571": {
+      "message": "&lt;Shift&gt; kreisā bultiņa"
+   },
+   "1199404479601093922": {
+      "message": "Dzēst atskaņošanas sarakstu"
+   },
+   "1199508431214660096": {
+      "message": "Radiostacijas nosaukuma rediģēšana"
+   },
+   "120015775655919987": {
+      "message": "Videoklipi"
+   },
+   "1217488014235078691": {
+      "message": "Diemžēl radās kļūda. Lūdzu, vēlāk mēģiniet vēlreiz!"
+   },
+   "1218504303426384579": {
+      "message": "Albumi"
+   },
+   "1221013552116658505": {
+      "message": "Albuma apraksts"
+   },
+   "1227051853106034748": {
+      "message": "Nevar meklēt priekšskatījumus"
+   },
+   "1230154438678955604": {
+      "message": "Mainīt"
+   },
+   "1233161892151828431": {
+      "message": "Slīpraksts"
+   },
+   "1238301293250329924": {
+      "message": "Populārākās dziesmas"
+   },
+   "1238358838717941284": {
+      "message": "Paraugs"
+   },
+   "1248987958177161816": {
+      "message": "Rediģēt HTML avotu"
+   },
+   "1275783181441501836": {
+      "message": "Rindkopas atdalītājs"
+   },
+   "128003684539571261": {
+      "message": "Valūta"
+   },
+   "1285275266778940235": {
+      "message": "Saistīti izpildītāji"
+   },
+   "1288885129710503327": {
+      "message": "3. Atveriet mapi Lietojumprogrammas un veiciet dubultklikšķi uz vienuma Mūzikas pārvaldnieks."
+   },
+   "1291021741111868686": {
+      "message": "64 bitu .deb (Debian/Ubuntu)"
+   },
+   "1295614462098694869": {
+      "message": "Priekšskatījums"
+   },
+   "129672981680457789": {
+      "message": "Hanuno (filipīniešu rakstība)"
+   },
+   "129735259563363358": {
+      "message": "Jaunākie"
+   },
+   "1298977676518891693": {
+      "message": "Labā bultiņa"
+   },
+   "1303647473723340887": {
+      "message": "Izvēlieties vienumu virs pašreizējās atlases."
+   },
+   "131636849522359023": {
+      "message": "Saturs nodrošināts saskaņā ar licenci $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1322760568010635524": {
+      "message": "$XXX$ skatījums",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1323976084081772130": {
+      "message": "Atskaņot izpildītāja dziesmas jauktā secībā"
+   },
+   "1327813348141810372": {
+      "message": "Bamuma"
+   },
+   "1332300409905532739": {
+      "message": "Pievienot albumu rindai"
+   },
+   "1341185708905265042": {
+      "message": "#. disks"
+   },
+   "1345511732360402048": {
+      "message": "Senie turku"
+   },
+   "1357694012211254786": {
+      "message": "Jaunie ieraksti"
+   },
+   "1361015519033136245": {
+      "message": "Tagad Google Play mūzikas abonementā ir ietverts pakalpojums YouTube Music Key. Skatieties iecienītāko dziesmu videoklipus un izbaudiet atskaņošanu fonā un bezsaistes mūzikas videoklipus pakalpojumā YouTube bez reklāmām."
+   },
+   "1370021378292702047": {
+      "message": "Dziesma “$SONG_TITLE$” ir atzīmēta kā nepareiza atbilstība.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1371740036554737757": {
+      "message": "Nevarēja dzēst dziesmu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "1372720741032795625": {
+      "message": "Ieslēgt vai izslēgt atskaņošanu jauktā secībā."
+   },
+   "1372788343021542418": {
+      "message": "Lai izmantotu mini atskaņotāju, pierakstieties pakalpojumā Google Play mūzika tīmeklī."
+   },
+   "1378511101546569884": {
+      "message": "Platformā Google Play jūsu mūzikas atskaņošana tiks pārtraukta pēc vairāku stundu dīkstāves."
+   },
+   "1382005717519484629": {
+      "message": "Baltstarpas rakstzīme"
+   },
+   "1384629324383144300": {
+      "message": "Mūzika līdzīga izpildītājam $NAME$",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1390494944545164819": {
+      "message": "Pievienot atskaņošanas sarakstam"
+   },
+   "1393837337557373364": {
+      "message": "Albums"
+   },
+   "1400267981031628410": {
+      "message": "{NUM,plural, =1{1 komentārs}zero{{XXX} komentāru}one{{XXX} komentārs}other{{XXX} komentāri}}"
+   },
+   "1404225614691686373": {
+      "message": "Mūzika bez ierobežojumiem$START_BREAK$pakalpojumā Google Play",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1423982292412680326": {
+      "message": "Lai pievienotu mūziku no šī datora, pierakstieties pārlūkā Chrome ar lietotājvārdu $USER_EMAIL$.",
+      "placeholders": {
+         "USER_EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "142620397708685601": {
+      "message": "Ievadiet pielāgotu krāsu, t.i., rozā, #F00, #D015FF vai RGB (100, 50, 25)."
+   },
+   "1430061825590893722": {
+      "message": "Atvērt šo saiti jaunā logā"
+   },
+   "1432988087599368801": {
+      "message": "Neatgriezeniski dzēst visu iegādāto vai manā kontā augšupielādēto mūziku"
+   },
+   "1433391846042476830": {
+      "message": "Vakar"
+   },
+   "1435809990540516997": {
+      "message": "Notiek mūzikas pievienošana"
+   },
+   "1437711804178113227": {
+      "message": "Mūzikā sākotnēji bija ietverts necenzēts saturs, taču tas tika rediģēts."
+   },
+   "1441698742050996996": {
+      "message": "Ieslēgt līdzīgu dziesmu cenzūru"
+   },
+   "1444145448465775598": {
+      "message": "Atcelt"
+   },
+   "1453708590388513852": {
+      "message": "Tehniskās zīmes"
+   },
+   "1461565629721172513": {
+      "message": "Šo atskaņošanas sarakstu nevarēja atskaņot. Lūdzu, mēģiniet vēlreiz."
+   },
+   "1464072562214937907": {
+      "message": "Gads"
+   },
+   "1483596119706515744": {
+      "message": "Bugu"
+   },
+   "1486857306659217748": {
+      "message": "Izlaist"
+   },
+   "1487523984872879956": {
+      "message": "Lielā kvarta"
+   },
+   "1490665788833937521": {
+      "message": "Miniatskaņotāja iegūšana"
+   },
+   "1494946186465201682": {
+      "message": "Atcelt"
+   },
+   "1503651704846189916": {
+      "message": "Izpildītāju kolekcijas"
+   },
+   "1504214836895903832": {
+      "message": "Nevarēja izveidot savienojumu."
+   },
+   "1517865562673472241": {
+      "message": "1. Uzgaidiet, līdz instalēšana tiek pabeigta."
+   },
+   "15273314777805469": {
+      "message": "Pakalpojumā Google Play mūzika var tikt automātiski pievienota no šī datora."
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{Nevar lejupielādēt 1 dziesmu.}zero{Nevar lejupielādēt {NUM_FAILURES_2} dziesmas.}one{Nevar lejupielādēt {NUM_FAILURES_2} dziesmu.}other{Nevar lejupielādēt {NUM_FAILURES_2} dziesmas.}}"
+   },
+   "1536087519743707362": {
+      "message": "Nerādīt"
+   },
+   "1550551291259184128": {
+      "message": "Laboratorijas"
+   },
+   "1558113021895652337": {
+      "message": "Fails tiek aizsargāts ar DRM"
+   },
+   "1561656335740427643": {
+      "message": "Telugu"
+   },
+   "1567787058497621332": {
+      "message": "Glabājiet savu mūziku vienuviet. Klausieties to savā viedtālrunī, planšetdatorā vai tīmeklī."
+   },
+   "1573657685592390905": {
+      "message": "Atlasīt mapi..."
+   },
+   "1575810254412583888": {
+      "message": "Ieraksti"
+   },
+   "1577300263927664898": {
+      "message": "Jauns atskaņošanas saraksts"
+   },
+   "1589304529933994754": {
+      "message": "Meklēšanas rezultāti vaicājumam “$QUERY$”",
+      "placeholders": {
+         "QUERY": {
+            "content": "$1"
+         }
+      }
+   },
+   "1592343229807767687": {
+      "message": "Nevar pievienot šādas dziesmas..."
+   },
+   "1595478688335662057": {
+      "message": "Google lietotājs"
+   },
+   "1598061158801514509": {
+      "message": "Tiek atsākta mūzikas lejupielāde"
+   },
+   "1604878361972859546": {
+      "message": "Izpētīt"
+   },
+   "1607904075839741217": {
+      "message": "Atlasīt datorā"
+   },
+   "1608366254248420770": {
+      "message": "Labot nepareizu atbilstību"
+   },
+   "1615800076127848008": {
+      "message": "Tai lī"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{pēc # stundu}=1{pēc # stundas}zero{pēc # stundām}one{pēc # stundas}other{pēc # stundām}}"
+   },
+   "1635932785663944786": {
+      "message": "Skaitlis"
+   },
+   "1658346838703079243": {
+      "message": "Mainīt"
+   },
+   "1666765550993208796": {
+      "message": "Vai šo dziesmu atbilstība netika noteikta pareizi?"
+   },
+   "1686917835491599951": {
+      "message": "Nesen pievienots Manai bibliotēkai"
+   },
+   "1689044830718067443": {
+      "message": "Instalēšana automātiski sāksies pēc dažām sekundēm. Vai jums nepieciešama $START_LINK$palīdzība$END_LINK$?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1698114086921246480": {
+      "message": "Anulēt abonementu"
+   },
+   "1700078784075267898": {
+      "message": "Google Play mūzika"
+   },
+   "1703526101107748406": {
+      "message": "Notiek mūzikas pievienošana ..."
+   },
+   "1709114386311494800": {
+      "message": "Saistīt"
+   },
+   "1721299725717238391": {
+      "message": "Jūs jau esat abonents. Pašlaik kuponi ir pieejami tikai jauniem lietotājiem."
+   },
+   "1722592106949807025": {
+      "message": "Saglabāt atkļūdošanas žurnālus"
+   },
+   "172500938828303105": {
+      "message": "Bataku"
+   },
+   "1726363342938046830": {
+      "message": "Par"
+   },
+   "1729815731089690989": {
+      "message": "Pārbaudiet, vai ir izveidots savienojums ar internetu."
+   },
+   "1740651565757105206": {
+      "message": "Pēc tam lejupielādējiet utilītu “Mūzikas pārvaldnieks”, kuru izmantojot varat pievienot savu mūzikas kolekciju, lai klausītos to savā tālrunī, planšetdatorā vai galddatorā."
+   },
+   "1746899021995036865": {
+      "message": "Iegūt lietotni"
+   },
+   "1751129087972897649": {
+      "message": "Imperiālā aramiešu"
+   },
+   "1758518900736299270": {
+      "message": "Mūzika jebkuram noskaņojumam un visas jūsu iecienītākās Songza radiostacijas — tagad tas viss pieejams gan tiešsaistē, gan bezsaistē (tālrunī vai planšetdatorā), turklāt bez reklāmām."
+   },
+   "1763795268257640974": {
+      "message": "Nevarēja anulēt atskaņošanas saraksta abonementu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "1766895304137749560": {
+      "message": "Līdzīgas"
+   },
+   "1781759902625939771": {
+      "message": "Nezināms izpildītājs"
+   },
+   "1788638555470055224": {
+      "message": "Mēģināt vēlreiz"
+   },
+   "1790640569414740156": {
+      "message": "Žanri"
+   },
+   "1796035532941100403": {
+      "message": "Apraidīt"
+   },
+   "1796702769044958723": {
+      "message": "32 bitu .deb (Debian/Ubuntu)"
+   },
+   "1796718173266813947": {
+      "message": "YouTube videoklipa kopīgošana"
+   },
+   "1800484940259837633": {
+      "message": "Veicot šo darbību, tiks dzēsti arī atskaņošanas saraksti, radiostacijas, vērtējumi un informācija par atskaņošanas reižu skaitu."
+   },
+   "1800865039213871505": {
+      "message": "Atvērt saiti: "
+   },
+   "1803865475179910876": {
+      "message": "Google Play mūzika pārlūkam Chrome platformā $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1815215443377299510": {
+      "message": "Aizvērt"
+   },
+   "1819368767424033007": {
+      "message": "Vēsturiskās zīmes"
+   },
+   "1823843876735462104": {
+      "message": "Atskaņošanas saraksti"
+   },
+   "1825906878343405520": {
+      "message": "Ieteicamā ilustrācija"
+   },
+   "182621168783940405": {
+      "message": "Atzīme no labās puses uz kreiso"
+   },
+   "1831178715211281116": {
+      "message": "Diemžēl šis piedāvājums ir pieejams tikai noteiktās Chrome OS ierīcēs. Vai tik un tā vēlaties neierobežotu piekļuvi mūzikai?"
+   },
+   "1832150012773955797": {
+      "message": "Ieteiktās radiostacijas"
+   },
+   "1840907981785028220": {
+      "message": "Diemžēl esat atcēlis autorizāciju pārāk lielam skaitam ierīču."
+   },
+   "184252996364058487": {
+      "message": "0 minūšu"
+   },
+   "1850859858333664648": {
+      "message": "Visa mūzika"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Klausieties radio un pārslēdziet dziesmas$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1860075031180562077": {
+      "message": "Mūzikas simbols: beigu frāze"
+   },
+   "1872101028863972302": {
+      "message": "Lejupielādētas $NUM_TRANSFERRED_TRACKS$ dziesmas",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Izvēlieties vienumu zem pašreizējās atlases."
+   },
+   "1895431379485086633": {
+      "message": "Pievienot Manai bibliotēkai"
+   },
+   "190045585254551934": {
+      "message": "Silhetu nagri"
+   },
+   "1911052916191472518": {
+      "message": "Visas manas dziesmas"
+   },
+   "1914372876923825240": {
+      "message": "Saite uz:"
+   },
+   "1918365676009482319": {
+      "message": "Augstu novērtētās dziesmas tiek automātiski pievienotas šim atskaņošanas sarakstam."
+   },
+   "192481666606780833": {
+      "message": "Nevar atskaņot mūziku"
+   },
+   "1930217656128916980": {
+      "message": "Saglabājot izmaiņas, lapa tiks atsvaidzināta un mūzikas atskaņošana tiks pārtraukta."
+   },
+   "1933601237976602790": {
+      "message": "Autortiesības (&copy;) saistībā ar satura daļām pieder uzņēmumam Gracenote vai tā pakalpojumu sniedzējiem."
+   },
+   "193503854366151748": {
+      "message": "Novērtēt pašreizējo dziesmu negatīvi"
+   },
+   "1940036700249655109": {
+      "message": "Pakalpojumā Google+ kopīgojamā videoklipa izvēle"
+   },
+   "1945037339176024290": {
+      "message": "Apvilkts"
+   },
+   "1947306462789680361": {
+      "message": "pirms $NUM$ minūtēm",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Mūzikas simbols: sākuma frāze"
+   },
+   "1962559411793600980": {
+      "message": "Avestas"
+   },
+   "196613306402356666": {
+      "message": "Uzturēšanās valsts verificēšana"
+   },
+   "1980398532913758377": {
+      "message": "$NUM_COMPUTERS$ datori",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1981687300412326534": {
+      "message": "Hanu 9 vilkumu saknes"
+   },
+   "1989564869397178334": {
+      "message": "Virsraksts"
+   },
+   "1994426929514890878": {
+      "message": "Notīrīt rindu"
+   },
+   "199513751968160060": {
+      "message": "Lūdzu, atjauniniet Chrome lietotni Google Play mūzika, lai varētu izmantot mini atskaņotāju, kā arī augšupielādēt un lejupielādēt saturu."
+   },
+   "199551578154440068": {
+      "message": "Pārdēvēt"
+   },
+   "1996585593795647892": {
+      "message": "Pievienot vai noņemt saiti"
+   },
+   "2005272211699610673": {
+      "message": "Līdzīgas dziesmas"
+   },
+   "2006786763920466492": {
+      "message": "Dzēšanas datums"
+   },
+   "2026335465374096346": {
+      "message": "Noklikšķiniet, lai izslēgtu jaukšanu"
+   },
+   "2027937032666164176": {
+      "message": "Dzēst"
+   },
+   "2028747142234068875": {
+      "message": "Iesakām"
+   },
+   "2029955197089113110": {
+      "message": "Žanru stacijas"
+   },
+   "2029980907058777630": {
+      "message": "Pakalpojumu sniegšanas noteikumi"
+   },
+   "2032972931560484213": {
+      "message": "Autors: $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038339465785978681": {
+      "message": "Bez atstarpēm"
+   },
+   "2038618429165152799": {
+      "message": "Bez nosaukuma"
+   },
+   "2045779543869682721": {
+      "message": "Darba sākšana"
+   },
+   "2056726623536384731": {
+      "message": "Pāriet uz pakalpojumu Google Play mūzika"
+   },
+   "2071381219578485540": {
+      "message": "$XXX$ skatījums(-i)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "2076695218725590213": {
+      "message": "BEZMAKSAS ATSKAŅOŠANA DRAUGIEM"
+   },
+   "2080060559104348538": {
+      "message": "Dienvidāzijas raksti"
+   },
+   "2088175644103984799": {
+      "message": "Khmeru patskanis: raksturīgs Aq"
+   },
+   "2093026227428526289": {
+      "message": "Šis piedāvājums ir pieejams tikai noteiktiem jauniem Chromebook datoriem valstīs, kurās $START_LINK$ir pieejams$END_LINK$ Google Play mūzikas abonementa pakalpojums.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2094349866819883967": {
+      "message": "Vienotājdomuzīme"
+   },
+   "210173405987284279": {
+      "message": "Izmantojot Google Play, vienlaikus varat klausīties mūziku tikai vienā ierīcē. Mūzikas atskaņošana tika pārtraukta šajā ierīcē, jo nesen sākāt to klausīties citā ierīcē. $START_LINK$Uzziniet vairāk$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2102825898069375693": {
+      "message": "Izvēlne"
+   },
+   "2107375315384298887": {
+      "message": "Apakšraksts"
+   },
+   "2109622269343579329": {
+      "message": "Nederīga e-pasta adrese"
+   },
+   "2120603839336392434": {
+      "message": "Manas bibliotēkas dzēšana"
+   },
+   "2131661026923595624": {
+      "message": "Lūdzu, atjauniniet Chrome lietotni Google Play mūzika, lai atkārtoti iespējotu mūzikas augšupielādes."
+   },
+   "2133573431527952107": {
+      "message": "Pēc 60 dienām varēsiet turpināt klausīties mūziku tikai par $OFFER_PRICE$ mēnesī.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2139100152161431685": {
+      "message": "Šajā ierīcē mūzika īslaicīgi nav pieejama. Lūdzu, vēlāk mēģiniet vēlreiz. $START_LINK$Palīdzība$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Aizvērt"
+   },
+   "2149165958319691680": {
+      "message": "Pirkt"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 dziesmu}=1{1 dziesma}zero{{NUM_SONGS_2} songs}one{{NUM_SONGS_2} dziesma}other{{NUM_SONGS_2} dziesmas}}"
+   },
+   "2153379754636569844": {
+      "message": "Nevarēja atvērt šo žanru. Lūdzu, mēģiniet vēlreiz."
+   },
+   "2156158537955590658": {
+      "message": "Mūzika"
+   },
+   "2158830056128036057": {
+      "message": "Notiek jūsu mūzikas failu apstrāde..."
+   },
+   "2159130950882492111": {
+      "message": "Atcelt"
+   },
+   "216513153459932308": {
+      "message": "Daļskaitļi/saistīti"
+   },
+   "2173312720188441245": {
+      "message": "Koptu"
+   },
+   "2192133519993124370": {
+      "message": "Mana bibliotēka: atskaņot jauktā secībā"
+   },
+   "2203397136690479355": {
+      "message": "Failu nevar apstrādāt"
+   },
+   "2205522058604794595": {
+      "message": "Afrikāņu raksti"
+   },
+   "2209153283705342590": {
+      "message": "Kaithi"
+   },
+   "2220879710364134067": {
+      "message": "Rediģē pašlaik atlasītās dziesmas"
+   },
+   "2235236867069413571": {
+      "message": "Nē, paldies"
+   },
+   "223657394935715593": {
+      "message": "Mūzikas atskaņošana pārtraukta"
+   },
+   "2245840662151601141": {
+      "message": "Pievienot lietotni"
+   },
+   "2246437904181111020": {
+      "message": "Google Play mūzika: multivides failu mapju izvēle"
+   },
+   "2252825622480483246": {
+      "message": "Meroes kursīvs"
+   },
+   "2262446869382672016": {
+      "message": "Izmantojot lietotni Google Play mūzika, varat ērti klausīties savu iecienīto mūziku viedtālrunī, planšetdatorā un tīmeklī."
+   },
+   "2270666830264677427": {
+      "message": "Vienlaikus var lejupielādēt ne vairāk kā $MAX_TRACKS_IN_ZIP$ dziesmas. Lūdzu, atlasiet mazāku skaitu dziesmu un mēģiniet vēlreiz.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2271761332103964744": {
+      "message": "$XXX$ populārākie videoklipi, kas atbilst vaicājumam $QUERY$”:",
+      "placeholders": {
+         "QUERY": {
+            "content": "$1"
+         },
+         "XXX": {
+            "content": "$2"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Novērtēt pašreizējo dziesmu pozitīvi"
+   },
+   "2280774384387096759": {
+      "message": "Velciet dziesmas vai mapes šeit, lai pievienotu mūziku savā bibliotēkā."
+   },
+   "2281995310046063864": {
+      "message": "Labot atbilstību"
+   },
+   "2296431514706414883": {
+      "message": "1. Logā Downloads veiciet dubultklikšķi uz MusicManager.dmg."
+   },
+   "229748758179155728": {
+      "message": "Diemžēl Google Play mūzika jūsu valstī nav pieejama."
+   },
+   "2299183036960756600": {
+      "message": "pēc $NUM$ dienas",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "230183152536189382": {
+      "message": "Lai vilktu un nomestu mūzikas failus no šī datora, pierakstieties pārlūkā Chrome ar lietotājvārdu $USER_EMAIL$.",
+      "placeholders": {
+         "USER_EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "2301985851679003662": {
+      "message": "Ielādējot visu bibliotēkas saturu, radās kļūda. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "2303154715443443305": {
+      "message": "Notiek lietotnes Mūzikas pārvaldnieks lejupielāde..."
+   },
+   "2303727423829841771": {
+      "message": "Šķiet, ka jūsu pārlūkprogrammā ir izslēgta JavaScript. Lai pakalpojums Google Play darbotos pareizi, valodai JavaScript ir jābūt ieslēgtai."
+   },
+   "2304952649187656478": {
+      "message": "Dziesmas informācijas rediģēšana"
+   },
+   "2309894433432831059": {
+      "message": "Attēlojuma formāts vertikālai domuzīmei"
+   },
+   "2311151671924532713": {
+      "message": "Noņemt no atskaņošanas saraksta"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$%",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2318237673493031544": {
+      "message": "Aktīvs līdz:"
+   },
+   "231920238966427751": {
+      "message": "Kopīgots ar mani"
+   },
+   "2321398646644344846": {
+      "message": "Rīt"
+   },
+   "2323732734377122825": {
+      "message": "Radio: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2328554046256236832": {
+      "message": "Neatbalstīts FLAC fails"
+   },
+   "2328629775851907569": {
+      "message": "Google Play mūzika ir vienkāršs veids, kā klausīties savu iecienīto mūziku Android un iOS ierīcēs vai tīmeklī."
+   },
+   "2336107482253647902": {
+      "message": "Abonējiet pakalpojumu Google Play mūzika un lietojiet to 60 dienas bez maksas."
+   },
+   "2337021551804005568": {
+      "message": "Kopīgots ar mani"
+   },
+   "2339250039074511222": {
+      "message": "Šo saiti nevar pārbaudīt."
+   },
+   "2339750206850776348": {
+      "message": "Līciešu"
+   },
+   "2376735487384008742": {
+      "message": "Viļņota atdalāmā zīme"
+   },
+   "2378357177170124823": {
+      "message": "Decimāls"
+   },
+   "2382000105167193834": {
+      "message": "Gudžaratu"
+   },
+   "2389069046927902638": {
+      "message": "Google Play mūzika"
+   },
+   "2390557292924554291": {
+      "message": "Nulles platuma savienotājs"
+   },
+   "2392426018315003745": {
+      "message": "Izpildītāji"
+   },
+   "2395136813547607194": {
+      "message": "Google+"
+   },
+   "2395448436346696473": {
+      "message": "Skaidrs!"
+   },
+   "2404389883729405997": {
+      "message": "Diemžēl, dzēšot mūziku, radās problēma."
+   },
+   "2434131766046654438": {
+      "message": "B līnijraksts"
+   },
+   "2443885011055165607": {
+      "message": "Lūdzu, atlasiet lejupielādes pakotni:"
+   },
+   "2447745837421769983": {
+      "message": "Lai padarītu lejupielādi vēl ērtāku, iegūstiet Chrome lietotni Google Play mūzika."
+   },
+   "2461177781520343478": {
+      "message": "Nezināms ieraksts"
+   },
+   "247847652023697955": {
+      "message": "Mūzikas simbols: ligatūras sākums"
+   },
+   "2488986379365136440": {
+      "message": "Pievienot manu mūziku"
+   },
+   "249032153569378306": {
+      "message": "pirms $NUM$ stundas",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2491656925632304373": {
+      "message": "Veicot šo darbību, tiks dzēsti arī atskaņošanas saraksti, līdzīgās dziesmas, vērtējumi un informācija par atskaņošanas reižu skaitu."
+   },
+   "2492300395471245755": {
+      "message": "Izpildītājs"
+   },
+   "2498955825675345888": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Vai tiešām vēlaties {START_SPAN}neatgriezeniski dzēst{END_SPAN} atlasīto dziesmu?}zero{Vai tiešām vēlaties {START_SPAN}neatgriezeniski dzēst{END_SPAN} atlasītās dziesmas?}one{Vai tiešām vēlaties {START_SPAN}neatgriezeniski dzēst{END_SPAN} atlasītās dziesmas?}other{Vai tiešām vēlaties {START_SPAN}neatgriezeniski dzēst{END_SPAN} atlasītās dziesmas?}}"
+   },
+   "2506718393130237030": {
+      "message": "Neatbalstīts formāts"
+   },
+   "2510724428534433946": {
+      "message": "Nevarēja pievienot. Atskaņošanas sarakstos var pievienot ne vairāk kā$LIMIT$ dziesmas.",
+      "placeholders": {
+         "LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "2512060739274636260": {
+      "message": "Tai lī jaunā rakstība"
+   },
+   "2513370824993175045": {
+      "message": "pēc $NUM$ dienām",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Mūzikas simbols: slitas beigas"
+   },
+   "2529135098453595136": {
+      "message": "Atsvaidzināt"
+   },
+   "2529924385478060648": {
+      "message": "Buhida"
+   },
+   "2530473232691534250": {
+      "message": "E-pasta adrese"
+   },
+   "2534296837124481552": {
+      "message": "Mainiet savu maksājuma veidu — $START_LINK$uzziniet vairāk$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2538866057253567409": {
+      "message": "Dezeretas"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Pierakstieties$END_LINK$, lai uzzinātu, vai jums ir pieejami Chrome piedāvājumi.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Noteikumi"
+   },
+   "2549773720947796467": {
+      "message": "Nevarēja izgūt ieteikumus. Lūdzu, mēģiniet vēlreiz."
+   },
+   "2550362371114851075": {
+      "message": "Parasts"
+   },
+   "2552987871933535463": {
+      "message": "Veiksmīgi atjaunotas"
+   },
+   "2558836909854550547": {
+      "message": "Parasts"
+   },
+   "2565011230196288502": {
+      "message": "pēc $NUM$ minūtes",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2566834560864089198": {
+      "message": "N"
+   },
+   "2567679469483426925": {
+      "message": "Šis piedāvājums pašlaik nav pieejams."
+   },
+   "2570105377175439523": {
+      "message": "PIRKT"
+   },
+   "2586122888247175529": {
+      "message": "Vērtējums"
+   },
+   "2610851846609508423": {
+      "message": "Balstīts uz ASCII (Amerikas informācijas apmaiņas standartkods)"
+   },
+   "2611074766522572430": {
+      "message": "Jauniniet uz pakalpojumu Google+, lai kopīgotu YouTube videoklipus ar saviem draugiem."
+   },
+   "2629966744765630279": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{1 dzēsta dziesma}zero{# dzēstu dziesmu}one{# dzēsta dziesma}other{# dzēstas dziesmas}}"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ jaunas)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Pievienot komentāru"
+   },
+   "2665024517655486521": {
+      "message": "Nav atrasts neviens atbilstošs $START_LINK$YouTube$END_LINK$ videoklips.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2673412443855817873": {
+      "message": "Īkšķi uz leju"
+   },
+   "2676245835506244825": {
+      "message": "Saglabāt"
+   },
+   "2679420873065503350": {
+      "message": "Aizvērt"
+   },
+   "2691805793456744044": {
+      "message": "Atlasīt visas"
+   },
+   "2696899443781392801": {
+      "message": "Visas manas dziesmas"
+   },
+   "2707074873770010705": {
+      "message": "Jūsu ierīcē nevar izmantot šo piedāvājumu, taču joprojām varat bez ierobežojumiem piekļūt mūzikai, izmantojot pakalpojumu Google Play mūzika. 30 dienas tas ir pieejams bez maksas."
+   },
+   "2707450303555566442": {
+      "message": "Atjaunināt Google Play saturu, kad pievienoju jaunus mūzikas failus šīm mapēm"
+   },
+   "2714752802779336020": {
+      "message": "Google Play mūzika"
+   },
+   "2717327855942086699": {
+      "message": "Pievienot mūziku"
+   },
+   "2721786517672194900": {
+      "message": "Šis ierobežojums nav spēkā, ja lejupielādei izmantojat $START_SPAN$Chrome lietotni Google Play mūzika$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "2722441731984880542": {
+      "message": "Noklikšķiniet, lai ieslēgtu jaukšanu"
+   },
+   "272553825640256879": {
+      "message": "Pilna platuma mīnusa zīme"
+   },
+   "2728464858411473080": {
+      "message": "Patīk"
+   },
+   "2732888649509914313": {
+      "message": "Mongoļu"
+   },
+   "2734999151213839355": {
+      "message": "Atsākt atskaņošanu"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2752562541855123217": {
+      "message": "Nevarēja atvērt laboratorijas. Lūdzu, mēģiniet vēlreiz."
+   },
+   "2763267855550833920": {
+      "message": "Kontā ir pārāk daudz failu"
+   },
+   "2770700591250453244": {
+      "message": "Lai klausītos mūziku, ir jājaunina atskaņotājs Adobe Flash Player."
+   },
+   "2778112771759676135": {
+      "message": "Nevarēja atskaņot šo atskaņošanas sarakstu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "2785531700025651": {
+      "message": "Šo kartīti nevarēja atskaņot. Lūdzu, mēģiniet vēlreiz."
+   },
+   "2787148143326073325": {
+      "message": "Skaņas meklēšana"
+   },
+   "27898436551954837": {
+      "message": "Pakalpojuma Mūzika bibliotēkai varat piekļūt no jebkura datora, kā arī no maksimāli desmit ierīcēm."
+   },
+   "2797434867278219492": {
+      "message": "Notīrīt rindu"
+   },
+   "2801094315807039135": {
+      "message": "Vjetnamas taju"
+   },
+   "2809945145618753350": {
+      "message": "Ceturtdaļa no lielās atstarpes"
+   },
+   "2811509810457668932": {
+      "message": "Fonētika (X-IPA)"
+   },
+   "2818892450650920953": {
+      "message": "Saites iegūšana"
+   },
+   "2827984212740060090": {
+      "message": "Uzzināt vairāk"
+   },
+   "2834324594183341424": {
+      "message": "Pievienojiet savu esošo mūzikas kolekciju pakalpojumam Google Play"
+   },
+   "2840006222747077107": {
+      "message": "Mana bibliotēka ir tukša."
+   },
+   "2851432298645735760": {
+      "message": "Nevarēja atsvaidzināt bibliotēku. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "2853841969129372162": {
+      "message": "iTunes kolekcijas pievienošana"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{pirms # minūšu}=1{pirms # minūtes}zero{pirms # minūtēm}one{pirms # minūtes}other{pirms # minūtēm}}"
+   },
+   "2881621988818346391": {
+      "message": "Jā"
+   },
+   "2881776379326317082": {
+      "message": "Vienmēr izmantot šo atrašanās vietu"
+   },
+   "2885303282270615976": {
+      "message": "Šo albumu nevarēja atskaņot. Lūdzu, mēģiniet vēlreiz."
+   },
+   "2885588583451993603": {
+      "message": "Nepareizas atbilstības labošana"
+   },
+   "2896688457548770791": {
+      "message": "Ievietot citātu"
+   },
+   "2906835284923720614": {
+      "message": "Neaktivitātes dēļ mūzikas atskaņošana tika pārtraukta."
+   },
+   "2910989560121976550": {
+      "message": "Pārbaudīt šo saiti"
+   },
+   "2918448970074432239": {
+      "message": "Rediģēt HTML"
+   },
+   "2930779715184473252": {
+      "message": "Nevarēja izgūt populārāko vienumu sarakstus. Lūdzu, mēģiniet vēlreiz."
+   },
+   "29485262661698811": {
+      "message": "Arābu simbols: ajaha beigas"
+   },
+   "2954874827338778826": {
+      "message": "Tīmekļa adrese"
+   },
+   "2965210405599517454": {
+      "message": "Albumu stacijas"
+   },
+   "2968801718595938980": {
+      "message": "Hangul"
+   },
+   "2972470287059252937": {
+      "message": "Šaurā nepārtrauktā atstarpe"
+   },
+   "2973169743818593793": {
+      "message": "Hanu 5 vilkumu saknes"
+   },
+   "29734255682325103": {
+      "message": "Līdzināt pa labi"
+   },
+   "2980847012388128321": {
+      "message": "Nulles platuma atstarpe"
+   },
+   "2980874628825541087": {
+      "message": "Jauna lietotāju viktorīna"
+   },
+   "2980960654248329234": {
+      "message": "Ļoti šaura atstarpe"
+   },
+   "2982463607788408741": {
+      "message": "Esat atteicies savā Google kontā. Lūdzu, atsvaidziniet lapu, lai vēlreiz pierakstītos."
+   },
+   "2990982303071435342": {
+      "message": "Es vēl klausos"
+   },
+   "3000089550185074935": {
+      "message": "Par Google Play"
+   },
+   "3008573030448240863": {
+      "message": "Rediģēts"
+   },
+   "3010015422095710725": {
+      "message": "Dzēst visu manu bibliotēku, tostarp iegādāto mūziku un mūziku, kas tika pievienota, izmantojot Google Play mūzikas abonementu ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Izmantot piedāvājumu"
+   },
+   "3024429387570590252": {
+      "message": "Kopīgot atskaņošanas sarakstu"
+   },
+   "3036656187231107215": {
+      "message": "Pievienot Manai bibliotēkai"
+   },
+   "305389607483289974": {
+      "message": "Noklikšķiniet, lai pārtrauktu"
+   },
+   "3054851848337350805": {
+      "message": "Augšraksts"
+   },
+   "305815942371229357": {
+      "message": "Nav ieteikumu"
+   },
+   "3067310196368927236": {
+      "message": "Ivrita punktuācijas Maqaf"
+   },
+   "3068524180018122443": {
+      "message": "Nevarēja atvērt atskaņošanas sarakstu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "3072935047674817211": {
+      "message": "Mana bibliotēka"
+   },
+   "3084162955821317159": {
+      "message": "Atskaņošanas saraksta rediģēšana"
+   },
+   "308732574543176489": {
+      "message": "Nevarēja pārveidot atskaņošanas sarakstu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} stunda}zero{{TEXT} stundu}one{{TEXT} stunda}other{{TEXT} stundas}}"
+   },
+   "3099596419835786769": {
+      "message": "Vidējā matemātiskā atstarpe"
+   },
+   "3099741642167775297": {
+      "message": "Lejupielādēt"
+   },
+   "3109613844618178013": {
+      "message": "Dziesmas tiks izdzēstas no miskastes pēc 28 dienām."
+   },
+   "311577748341232969": {
+      "message": "Lai klausītos mūziku, ir nepieciešama jaunākā Adobe Flash Player versija."
+   },
+   "3117387872338548343": {
+      "message": "Populārākie žanri"
+   },
+   "3120895678678417608": {
+      "message": "Populārākās dziesmas"
+   },
+   "3125342991297920614": {
+      "message": "Nevarēja atvērt šo albumu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "3138864086144358473": {
+      "message": "Hanu 11–17 vilkumu saknes"
+   },
+   "314582171813087287": {
+      "message": "Nedalāmā defise"
+   },
+   "3154951825194528737": {
+      "message": "Tiek atcelta mūzikas lejupielāde"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Vai nezināt, ko ierakstīt lodziņā?$END_BOLD$ Vispirms atrodiet tīmekļa lapu, uz kuru vēlaties izveidot saiti. (Varat izmantot $SEARCH_ENGINE_LINK$meklētājprogrammu$END_LINK$.) Pēc tam kopējiet pārlūkprogrammas logā redzamo tīmekļa adresi un ielīmējiet to iepriekš esošajā lodziņā.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3161843313258545511": {
+      "message": "PARAUGS"
+   },
+   "3163044740176820503": {
+      "message": "Sākt"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Vai tiešām vēlaties dzēst atlasīto dziesmu?}zero{Vai tiešām vēlaties dzēst atlasītās dziesmas?}one{Vai tiešām vēlaties dzēst atlasītās dziesmas?}other{Vai tiešām vēlaties dzēst atlasītās dziesmas?}}"
+   },
+   "3167418181223330667": {
+      "message": "Modificētājs"
+   },
+   "3182977091552629211": {
+      "message": "Lai redzētu rakstzīmes nosaukumu, novietojiet kursoru virs attiecīgās šūnas."
+   },
+   "3185279424082070029": {
+      "message": "Datorā, kurā glabājat šo dziesmu, ir jābūt instalētam Mūzikas pārvaldniekam un izveidotam savienojumam ar internetu. Dziesma tiks augšupielādēta vēlreiz nākamās dienas laikā."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{pirms # dienu}=1{pirms # dienas}zero{pirms # dienām}one{pirms # dienas}other{pirms # dienām}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 dziesmu}=1{1 dziesma}zero{# songs}one{# dziesma}other{# dziesmas}}"
+   },
+   "3195918319788518487": {
+      "message": "Ieteiktās kolekcijas"
+   },
+   "3196641196902208501": {
+      "message": "Izveidojiet saiti ar e-pasta adresi."
+   },
+   "3198123723060667787": {
+      "message": "Kad"
+   },
+   "3199328506415818264": {
+      "message": "Pievienota no mana abonementa"
+   },
+   "3220162149541031829": {
+      "message": "Dziesmu vārdi"
+   },
+   "3224702327278720862": {
+      "message": "Mūzikas pārvaldnieks"
+   },
+   "3225804441370198247": {
+      "message": "Visas manas dziesmas — $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Yijing/Tai Xuan Jing"
+   },
+   "3234962763403901834": {
+      "message": "pēc $NUM$ minūtēm",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Nav"
+   },
+   "3237206613586329862": {
+      "message": "Līdiešu"
+   },
+   "3239052796417276147": {
+      "message": "Kopīgošana"
+   },
+   "3242312278127054660": {
+      "message": "Matemātika (burtciparu)"
+   },
+   "3245264696956198335": {
+      "message": "Formatēt"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Lejupielādei datorā neesat atlasījis nevienu dziesmu.}=1{Vai tiešām datorā vēlaties lejupielādēt atlasīto dziesmu?}zero{Are you sure you want to download the selected songs to your computer?}one{Vai tiešām datorā vēlaties lejupielādēt atlasītās dziesmas?}other{Vai tiešām datorā vēlaties lejupielādēt atlasītās dziesmas?}}"
+   },
+   "3255560926299154386": {
+      "message": "Piekļuve savai iTunes mūzikai no jebkuras vietas"
+   },
+   "32574714261860078": {
+      "message": "Klausīties"
+   },
+   "3259477051828347489": {
+      "message": "Ziņot par nederīgiem albuma metadatiem"
+   },
+   "3277302879023810531": {
+      "message": "Lai lejupielādētu mūziku, pierakstieties pārlūkā Chrome"
+   },
+   "3277700190370010726": {
+      "message": "Google Play mūzikas piedāvājums lietotājam $START_BOLD$$USER_EMAIL$$END_BOLD$ īslaicīgi nav pieejams. Lūdzu, vēlāk mēģiniet vēlreiz.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3283184310579712326": {
+      "message": "Lejupielādēt tūlīt"
+   },
+   "3292545361152652864": {
+      "message": "Pamatojoties uz jūsu mūzikas gaumi"
+   },
+   "3299099956700438963": {
+      "message": "Amerikāņu raksti"
+   },
+   "3311269073804742952": {
+      "message": "Klausīties tūlīt"
+   },
+   "3313128122800055613": {
+      "message": "Mana bibliotēka"
+   },
+   "3313264069529122414": {
+      "message": "Albumi"
+   },
+   "3315823618641326936": {
+      "message": "Abonementā ir iekļauta arī neierobežota mūzika pakalpojumā YouTube."
+   },
+   "3335728816495350082": {
+      "message": "Populārākās dziesmas — $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3370288955750739075": {
+      "message": "Abonējiet pakalpojumu “Google Play mūzika” un klausieties jebkuru dziesmu jebkurā laikā un jebkurā ierīcē. Klausieties jaunākās un populārākās dziesmas, par klasiku kļuvušus ierakstus, kā arī ērti atklājiet jaunu mūziku."
+   },
+   "3381844160250536550": {
+      "message": "Pierakstīšanās pārlūkā Chrome"
+   },
+   "3389797949812522362": {
+      "message": "Ivrits"
+   },
+   "3390725557414108843": {
+      "message": "Hanu 4 vilkumu saknes"
+   },
+   "3400388537748100977": {
+      "message": "Lejupielādēt"
+   },
+   "3410315382362912156": {
+      "message": "Atskaņošanas saraksts “$START_SPAN$$TITLE$$END_SPAN$” pašlaik ir privāts. Lai kopīgotu, iestatiet to kā publisku.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Atkritne"
+   },
+   "3419681791450150574": {
+      "message": "Norise"
+   },
+   "342127282404571667": {
+      "message": "Google Play mūzika operētājsistēmai Chrome OS"
+   },
+   "342945207977289986": {
+      "message": "Dzēst"
+   },
+   "3431116501598202644": {
+      "message": "Nezināms albums"
+   },
+   "3439291896675389753": {
+      "message": "Nko"
+   },
+   "3444326079109550157": {
+      "message": "Uz kādu URL ir jānovirza šai saitei?"
+   },
+   "3445096196133856884": {
+      "message": "Khmeru patskanis: raksturīgs Aa"
+   },
+   "3462013384451950074": {
+      "message": "pēc $NUM$ stundas",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3462291720620021793": {
+      "message": "Izveidoja: $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Klausieties savu mūzikas kolekciju jebkurā vietā. Pievienojiet mūzikas failus no datora pakalpojumam Google Play."
+   },
+   "3475469358093477644": {
+      "message": "Jaunumi"
+   },
+   "3479964965156370621": {
+      "message": "Punktuācija"
+   },
+   "3483193414050571677": {
+      "message": "Nepatīk"
+   },
+   "3483958460407305290": {
+      "message": "Pārsvītrot"
+   },
+   "3491417595697100862": {
+      "message": "Nodrošina $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Samazināt atskaņotāja skaļumu"
+   },
+   "3521819884110126543": {
+      "message": "Doties uz rindu"
+   },
+   "352192086869301337": {
+      "message": "Pievienoti $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ ieraksti no $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Google Play mūzikas kupona izmantošana"
+   },
+   "3532209277261496348": {
+      "message": "Kļūda. Lūdzu, mēģiniet vēlreiz."
+   },
+   "3545785371861413299": {
+      "message": "Lietot bezmaksas izmēģinājuma versiju"
+   },
+   "3547729876847212201": {
+      "message": "Vidēja lieluma atstarpe"
+   },
+   "3553729577029306739": {
+      "message": "Izveidoja $OWNER$",
+      "placeholders": {
+         "OWNER": {
+            "content": "$1"
+         }
+      }
+   },
+   "3561750501339236444": {
+      "message": "NECENZĒTA"
+   },
+   "3565556274692077023": {
+      "message": "Domuzīme"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3601632218457952692": {
+      "message": "Ji"
+   },
+   "3605470624800934973": {
+      "message": "Vai tiešām vēlaties dzēst atlasīto albumu?"
+   },
+   "3605957923037994993": {
+      "message": "Labi"
+   },
+   "3609204150605625912": {
+      "message": "Patīk"
+   },
+   "3624852760485534285": {
+      "message": "Radio"
+   },
+   "3624948107517969571": {
+      "message": "Saites iegūšana"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3645577032204040606": {
+      "message": "Google Play mūzikas mini atskaņotājs"
+   },
+   "3649938620817393740": {
+      "message": "Mazs"
+   },
+   "3650710698506236041": {
+      "message": "Heks. krāsa"
+   },
+   "3652624056593952591": {
+      "message": "Neizdevās mainīt laboratoriju iestatījumu. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "3658882581780638345": {
+      "message": "Izmantojot funkciju Klausīties tūlīt, varat ērti izvēlēties, kuru dziesmu atskaņot. Jo vairāk dziesmu noklausīsieties, jo precīzāk funkcijā Melomāns tiks atrastas jums tīkamas dziesmas."
+   },
+   "3688803517283872334": {
+      "message": "Pusplatuma Hangul aizpildītājs"
+   },
+   "3701910180379922299": {
+      "message": "Šarada"
+   },
+   "3704011894694447629": {
+      "message": "YouTube videoklips"
+   },
+   "3706222784708785028": {
+      "message": "Vērtējums"
+   },
+   "3722316429187303015": {
+      "message": "Noklikšķiniet uz izpildītājiem, kas jums patīk"
+   },
+   "3733379067640164677": {
+      "message": "Izveidot atskaņošanas sarakstu"
+   },
+   "3742493136298597541": {
+      "message": "Ielādējot YouTube videoklipu, radās kļūda."
+   },
+   "3748613043647922063": {
+      "message": "Neredzamais atdalītājs"
+   },
+   "3748893353086104812": {
+      "message": "Notīriet lokālo kešatmiņu un atsvaidziniet visu dziesmu un atskaņošanas sarakstu informāciju."
+   },
+   "3762887990641668199": {
+      "message": "Armēņu"
+   },
+   "3770594827970207417": {
+      "message": "Neliels virsraksts"
+   },
+   "3772706138160001780": {
+      "message": "Horizontāla josla"
+   },
+   "3774172828626803355": {
+      "message": "Čiroku"
+   },
+   "3782346097595894324": {
+      "message": "Neizdevās izveidot savienojumu ar serveri. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "3784429870217408370": {
+      "message": "Brahmi"
+   },
+   "3791537354650674912": {
+      "message": "Mūzikas lejupielāde"
+   },
+   "3795262960327716692": {
+      "message": "Lai pievienotu dziesmu, velciet to atskaņošanas saraksta nosaukumā, kas atrodas sānjoslā."
+   },
+   "3801288115809478084": {
+      "message": "Labi"
+   },
+   "3807050606425965472": {
+      "message": "Tiks aizvērti šādi logi:\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagolica"
+   },
+   "3839679337223320857": {
+      "message": "Pierakstījies kā $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Apmeklēt pakalpojumu Google Play mūzika"
+   },
+   "3867367359959377145": {
+      "message": "KĻŪDA: “$COLOR$” nav derīga krāsa.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Lai izmantotu lietotni Chrome, tīmeklī pierakstieties pakalpojumā “Google Play mūzika”."
+   },
+   "3873111853443561979": {
+      "message": "Pasvītrojums"
+   },
+   "3885497195825665706": {
+      "message": "Nākamā"
+   },
+   "3890078112831612818": {
+      "message": "Datorā, kurā glabājat šīs dziesmas, ir jābūt instalētam mūzikas pārvaldniekam un ir jābūt izveidotam savienojumam ar internetu. Dziesmas tiks vēlreiz augšupielādētas nākamās dienas laikā."
+   },
+   "3901889124080689046": {
+      "message": "Failu nevar atvērt"
+   },
+   "3904027274600624417": {
+      "message": "Ikviens var atrast un klausīties. Ideāla opcija kopīgošanai!"
+   },
+   "3905371920037624514": {
+      "message": "Retāki"
+   },
+   "3905423727983896706": {
+      "message": "Servera kļūda. Vēlāk mēģiniet vēlreiz."
+   },
+   "3927910032314162155": {
+      "message": "Lai izmantotu mini atskaņotāju, pierakstieties pārlūkā Chrome ar lietotājvārdu $USER_EMAIL$.",
+      "placeholders": {
+         "USER_EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3936240281193464170": {
+      "message": "Atsvaidzināt"
+   },
+   "3964523220682082212": {
+      "message": "Ielādējot bibliotēkas saturu, radās kļūda."
+   },
+   "3973260061047030021": {
+      "message": "Atskaņot vai apturēt mūziku"
+   },
+   "3975141127799341224": {
+      "message": "Izveidojiet saiti uz lapu vai failu citur tīmeklī."
+   },
+   "3979159028144896041": {
+      "message": "Radio"
+   },
+   "3982112843644394207": {
+      "message": "2. Pārlūkprogrammas sadaļā Lejupielādes veiciet dubultklikšķi uz faila musicmanagerinstaller.exe, lai to atvērtu."
+   },
+   "3988935995558346502": {
+      "message": "Kirilica"
+   },
+   "3996699777412450193": {
+      "message": "Bultiņas"
+   },
+   "3999655151577464071": {
+      "message": "Dzēšot līdzīgās dziesmas, radās problēma."
+   },
+   "4018505937276295756": {
+      "message": "No albuma $START_SPAN$$ALBUM_TITLE$$END_SPAN$",
+      "placeholders": {
+         "ALBUM_TITLE": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4018574576796390012": {
+      "message": "Vai tiešām vēlaties $START_SPAN$neatgriezeniski dzēst$END_SPAN$ atskaņošanas sarakstu “$PLAYLIST_NAME$”?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4034257783857644883": {
+      "message": "Hanu 6 vilkumu saknes"
+   },
+   "4044663630621281686": {
+      "message": "Arābu zīme Safha"
+   },
+   "4055580652532057510": {
+      "message": "bez nosaukuma"
+   },
+   "4061274470931156807": {
+      "message": "Santalu"
+   },
+   "4063027937991598166": {
+      "message": "Dzēst pašreizējo atlasi"
+   },
+   "4075286221500750156": {
+      "message": "Versija: $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Nevarēja identificēt jūsu datoru."
+   },
+   "4084952787153935401": {
+      "message": "Mans automātiskais atskaņošanas saraksts"
+   },
+   "4087074177670472082": {
+      "message": "Rindstarpu anotācijas enkurs"
+   },
+   "4087991212618724916": {
+      "message": "Klausieties Android un iOS ierīcēs vai tīmeklī."
+   },
+   "4095000796706848124": {
+      "message": "Populārāko dziesmu saraksti"
+   },
+   "4098039133485584046": {
+      "message": "Neierobežotais abonements tika atcelts"
+   },
+   "4110926661719376304": {
+      "message": "Uzziniet, kā ieslēgt valodu JavaScript"
+   },
+   "4117020323749523105": {
+      "message": "Pēdējās darbības"
+   },
+   "4117886182866316912": {
+      "message": "Pārtīt uz priekšu pašreizējo dziesmu"
+   },
+   "4129291319151029100": {
+      "message": "Pēc tam atskaņot atskaņošanas sarakstu"
+   },
+   "4141582858389779168": {
+      "message": "Reģistrējieties, lai varētu neierobežoti klausīties mūziku bez reklāmām un nekavējoties piekļūt miljoniem dziesmu. Maksa: tikai $OFFER_PRICE$ mēnesī.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Šī dziesma ir atzīmēta kā nepareiza atbilstība."
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Atlasītā dziesma tiks ielādēta no jūsu ierīces, nevis no servera.}zero{Atlasītās dziesmas tiks ielādētas no jūsu ierīces, nevis no servera.}one{Atlasītās dziesmas tiks ielādētas no jūsu ierīces, nevis no servera.}other{Atlasītās dziesmas tiks ielādētas no jūsu ierīces, nevis no servera.}}"
+   },
+   "4171773891797639122": {
+      "message": "Vārdu savienotājs"
+   },
+   "4183640380235728062": {
+      "message": "Atkārtošana izslēgta. Noklikšķiniet, lai mainītu atkārtošanas režīmu."
+   },
+   "4194375141064658954": {
+      "message": "Diemžēl radās tehniska problēma"
+   },
+   "4197649613867030676": {
+      "message": "Iepriekšējā dziesma"
+   },
+   "4204603140063905121": {
+      "message": "Hangul Jungseong aizpildītājs"
+   },
+   "4207298621447602833": {
+      "message": "Precīzākā atbilstība"
+   },
+   "421592645382251017": {
+      "message": "Atcelt autorizāciju"
+   },
+   "4220191761015564223": {
+      "message": "Atjaunināt"
+   },
+   "4220356809087746464": {
+      "message": "Dzēst atskaņošanas sarakstu"
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Atskaņojiet miljoniem dziesmu, kad vien vēlaties$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4232758301875768656": {
+      "message": "Nevarēja izgūt žanru datus. Lūdzu, mēģiniet vēlreiz."
+   },
+   "4242027248170465515": {
+      "message": "Divi atskaņošanas veidi"
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ reiz $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4263959392548297550": {
+      "message": "Atcelt"
+   },
+   "4267092206833736997": {
+      "message": "Radiostacijas"
+   },
+   "4270780207869579909": {
+      "message": "Atkārtot dziesmas"
+   },
+   "4272173055918340921": {
+      "message": "Notiek mūzikas bibliotēkas ielāde&hellip;"
+   },
+   "4275466320467620600": {
+      "message": "Vienmēr augšpusē"
+   },
+   "4285216590250755577": {
+      "message": "Jūsu ierīce ir jāatjaunina, lai mēs varētu pārbaudīt, vai tajā var izmantot šo piedāvājumu."
+   },
+   "4298797223016826648": {
+      "message": "Mani neinteresē"
+   },
+   "4307428996576001111": {
+      "message": "Doties uz iepriekšējo dziesmu"
+   },
+   "4315630325084748400": {
+      "message": "YouTube Music Key"
+   },
+   "4318639872744852657": {
+      "message": "Takri"
+   },
+   "4323470180912194028": {
+      "message": "Kopēt"
+   },
+   "4325930016698138077": {
+      "message": "Atskaņošanas saraksti"
+   },
+   "4326462735503400283": {
+      "message": "Parādāmais teksts:"
+   },
+   "4329609792835264496": {
+      "message": "Šaurā atstarpe"
+   },
+   "4330659086733805352": {
+      "message": "Apsveicam! Tagad varat ērti piekļūt miljoniem dziesmu. Izmantojot funkciju “Klausīties tūlīt”, jums ir vieglāk izlemt, kuru dziesmu atskaņot nākamo. Jo vairāk dziesmu klausāties, jo vairāk lielisku dziesmu atrod funkcija “Klausīties tūlīt”.\n\nLai sāktu, iepriekš meklējiet savu iecienītāko izpildītāju."
+   },
+   "4333644357236884202": {
+      "message": "Khmeru"
+   },
+   "4338950182024656659": {
+      "message": "Dzimums un ģenealoģija"
+   },
+   "4340616150909089613": {
+      "message": "Vai dziesmas nosaukums “$SONG_TITLE$” atbilda citai dziesmai?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "434404492084234684": {
+      "message": "Skaļums"
+   },
+   "4357737589458300153": {
+      "message": "Fraunhofer IIS un Thomson licencētā MPEG Layer-3 audio kodēšanas tehnoloģija. Uzlabotās audio kodēšanas (Advanced Audio Coding — AAC) licences lietojuma pārvaldību nodrošina Via Licensing Corporation. Pakalpojumā Google Play ir iekļauta noteikta trešās puses programmatūra, uz kuras lietojumu attiecas paziņojumi un/vai papildu pakalpojumu sniegšanas noteikumi. Šādi nepieciešamie trešās puses programmatūras paziņojumi un/vai papildu pakalpojumu sniegšanas noteikumi ir pieejami mūsu $START_LINK$trešās puses informatīvā dokumenta lapā$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4358547281205225229": {
+      "message": "Visaugstāk novērtētās"
+   },
+   "4373763311924773906": {
+      "message": "Pievienot mūziku no: $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "437655423845564400": {
+      "message": "Sasniegts dziesmu ierobežojums. Maksimālais augšupielādējamo dziesmu skaits ir $TRACK_LIMIT$.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4380903276097257721": {
+      "message": "Attēlojuma formāts vertikālai vienotājdomuzīmei"
+   },
+   "4383725505132456525": {
+      "message": "Tiek pārtraukta mūzikas pievienošana"
+   },
+   "4396890764725725469": {
+      "message": "Saglabāt"
+   },
+   "4405073953395157822": {
+      "message": "CJK vilkumi"
+   },
+   "4407723361680851334": {
+      "message": "Populārākās dziesmas"
+   },
+   "441479690225687264": {
+      "message": "Lejupielādēt albumu"
+   },
+   "4417144592785193889": {
+      "message": "Citi Austrumāzijas raksti"
+   },
+   "4439965029912183539": {
+      "message": "Latīņu 1 pielikums"
+   },
+   "4440466521156769623": {
+      "message": "Mūzikas simbols: slitas sākums"
+   },
+   "4443307407460224753": {
+      "message": "Dziesmas"
+   },
+   "4445783474627796041": {
+      "message": "Gatavs"
+   },
+   "4446046182674914304": {
+      "message": "Nesen atskaņots vai pievienots"
+   },
+   "445149490695787423": {
+      "message": "Pierakstīties vēlreiz"
+   },
+   "4451528286100219680": {
+      "message": "Iegulšana no kreisās puses uz labo"
+   },
+   "4453762904903445132": {
+      "message": "Pievienojot atskaņošanas sarakstam, radās kļūda."
+   },
+   "4456793125873199230": {
+      "message": "Radio “Es ticu veiksmei!”"
+   },
+   "4462494623248108758": {
+      "message": "Atskaņošanas saraksts"
+   },
+   "4478641030934315579": {
+      "message": "Vispārīgās"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Dažas dziesmas nepieciešams augšupielādēt vēlreiz."
+   },
+   "4494835774314426313": {
+      "message": "Nevar noņemt pēdējo sākotnējo vērtību."
+   },
+   "4518051085445745515": {
+      "message": "Noklikšķinot uz “Tālāk”, jūs piekrītat $START_LINK_1$pakalpojumu sniegšanas noteikumiem$END_LINK$ un $START_LINK_2$konfidencialitātes politikai$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "4521439405562358438": {
+      "message": "Atskaņot radio"
+   },
+   "4548656448943532301": {
+      "message": "Mūzikas augšupielāde ir pabeigta."
+   },
+   "4554520729383911291": {
+      "message": "Izveidot jaunu tūlītēju kolekciju, izmantojot atlasīto dziesmu"
+   },
+   "4563965495368336177": {
+      "message": "Izlaist"
+   },
+   "4571105317747127957": {
+      "message": "Defise ar diairēsi"
+   },
+   "4580988005648117665": {
+      "message": "Meklēt"
+   },
+   "4585012747839517803": {
+      "message": "Trīs atskaņošanas veidi"
+   },
+   "4590981840116960737": {
+      "message": "Formāts un baltstarpas rakstzīme"
+   },
+   "4604862300643180159": {
+      "message": "Klausieties jebkuram noskaņojumam un aktivitātēm piemērotas radiostacijas, kuras izveidojusi mūsu mūzikas ekspertu komanda."
+   },
+   "4607813303298554353": {
+      "message": "Taana"
+   },
+   "46135825491334308": {
+      "message": "Mūzikas dzēšana ir neatgriezeniska darbība."
+   },
+   "4624704164651982020": {
+      "message": "Notiek Chrome lietotnes Google Play mūzika iestatīšana..."
+   },
+   "4629182899853078878": {
+      "message": "Radiostacija"
+   },
+   "4629398054050196678": {
+      "message": "Lejupielādēt mūziku šajā atrašanās vietā:"
+   },
+   "4645609569705949286": {
+      "message": "Tikai es"
+   },
+   "4648993989034133051": {
+      "message": "Atver pašreiz atlasītās dziesmas izvēlni."
+   },
+   "4653542348713597484": {
+      "message": "Izmantot ieteikumus"
+   },
+   "4658362967039953209": {
+      "message": "Augšupielādēt mūziku"
+   },
+   "466976558518570343": {
+      "message": "Javiešu"
+   },
+   "4675864222674894697": {
+      "message": "Šova alfabēts"
+   },
+   "4687189636655044066": {
+      "message": "Atstarpēšanas taustiņš"
+   },
+   "4688350353916032040": {
+      "message": "Mūzika jebkuram noskaņojumam"
+   },
+   "4688946070631035536": {
+      "message": "Pareizrakstības pārbaude"
+   },
+   "4697182936858386680": {
+      "message": "Izmantojiet pakalpojumu YouTube Music Key"
+   },
+   "4700617948484087080": {
+      "message": "Albuma vāciņš"
+   },
+   "470296860672943171": {
+      "message": "Variantu atlasītājs"
+   },
+   "4706959263210678625": {
+      "message": "Variantu atlasītājs — $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4709553525160465770": {
+      "message": "Lai varētu ātri augšupielādēt mūziku, pakalpojumā Google Play tiek meklēta jūsu mūzikas failu atbilstība to kopijām mūsu serverī. Iespējams, dažkārt kā atbilstoša var tikt atrasta nepareiza dziesma. Ziņojiet par problēmu šeit, un dziesma tiks augšupielādēta vēlreiz."
+   },
+   "4712257992881677849": {
+      "message": "Neierobežots abonements"
+   },
+   "4719670020517267238": {
+      "message": "Bitu ātrums: $START_SPAN$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Atjaunināt Google Play saturu, kad es pievienoju jaunus mūzikas failus šajās vietās"
+   },
+   "4734868436850896882": {
+      "message": "Jauns atskaņošanas saraksts"
+   },
+   "4742106458669953927": {
+      "message": "Videoklipi"
+   },
+   "4742770396342457517": {
+      "message": "Klausīties pakalpojumā Google Play mūzika"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4750228681419116696": {
+      "message": "Malajalu"
+   },
+   "4754400438927203898": {
+      "message": "Mūzikas atskaņošana pārtraukta"
+   },
+   "4764935748877100361": {
+      "message": "Atskaņot visas jauktā secībā"
+   },
+   "4769763190685514776": {
+      "message": "Ieteikumi"
+   },
+   "4775550080689015987": {
+      "message": "Iemesls"
+   },
+   "4776903542722844646": {
+      "message": "Noklikšķiniet, lai atskaņotu"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{0 žanru}=1{1 žanrs}zero{# genres}one{# žanrs}other{# žanri}}"
+   },
+   "4784790100671753330": {
+      "message": "Noņemt no bibliotēkas"
+   },
+   "4805994444654440648": {
+      "message": "Pašlaik pakalpojums Google Play mūzika ir pieejams tikai noteiktās teritorijās. $START_LINK$Uzziniet vairāk$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4815033911915598343": {
+      "message": "Atstarpes"
+   },
+   "4816216590591222133": {
+      "message": "Iespējots"
+   },
+   "4816571345301008062": {
+      "message": "Pārdēvējot līdzīgo dziesmu sarakstu, radās problēma."
+   },
+   "4819116236257306760": {
+      "message": "Žanri"
+   },
+   "4830715100444503860": {
+      "message": "Kharosti"
+   },
+   "4834515902480994353": {
+      "message": "Nevarēja saglabāt izmaiņas. Lūdzu, mēģiniet vēlreiz."
+   },
+   "4852868472325373419": {
+      "message": "Ievadiet izpildītāja vārdu, dziesmas nosaukumu vai citu tekstu."
+   },
+   "4854398281969653625": {
+      "message": "Nevarēja koplietot albumu."
+   },
+   "4862238057869188402": {
+      "message": "Nevarēja izgūt līdzīgas dziesmas. Lūdzu, mēģiniet vēlreiz."
+   },
+   "4867246087786788222": {
+      "message": "Konta veids:"
+   },
+   "4874337908897060929": {
+      "message": "Mūzikas pievienošana apturēta"
+   },
+   "4878527640076219954": {
+      "message": "Tamilu"
+   },
+   "4882534557068236871": {
+      "message": "Visa pasaules mūzika"
+   },
+   "4886126295094352182": {
+      "message": "Google Play mūzika Chrome"
+   },
+   "4887472194021728050": {
+      "message": "Taju"
+   },
+   "4891880513108929293": {
+      "message": "Ziņot par nederīgiem ieraksta metadatiem"
+   },
+   "4902817035128594900": {
+      "message": "Apraksts"
+   },
+   "4912232926698971015": {
+      "message": "Lejupielāde sāksies pēc īsa brīža. Ja tā nenotiek, lūdzu, $START_LINK$noklikšķiniet šeit$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4916816672463415688": {
+      "message": "Izmēģināt Google Play mūziku"
+   },
+   "4920482241656423227": {
+      "message": "Teksta fona krāsa"
+   },
+   "4920946997448724158": {
+      "message": "Komponists"
+   },
+   "4921096453319030731": {
+      "message": "Sīriešu saīsinājuma zīme"
+   },
+   "4924253230856131215": {
+      "message": "Dienvidaustrumāzijas raksti"
+   },
+   "4930506384627295710": {
+      "message": "Iestatījumi"
+   },
+   "4962022175989879342": {
+      "message": "Necenzēts"
+   },
+   "496636435516411982": {
+      "message": "Nevarēja vērtēt dziesmu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "4968608861451065406": {
+      "message": "Pievienot rindai"
+   },
+   "4972659496812307928": {
+      "message": "Mūzikas lejupielāde apturēta"
+   },
+   "4978760297011594324": {
+      "message": "Konfigurēt"
+   },
+   "4980580439123922024": {
+      "message": "Izpildītāji"
+   },
+   "498913874005297914": {
+      "message": "Treknraksts"
+   },
+   "499152283823240992": {
+      "message": "Samārijas aramiešu"
+   },
+   "5003850562831597565": {
+      "message": "Nesen abonēts"
+   },
+   "5009452744789834383": {
+      "message": "Lai izmantotu mini atskaņotāju, pierakstieties pārlūkā Chrome"
+   },
+   "5009878480585609766": {
+      "message": "Hanu — cits"
+   },
+   "5012120303441725317": {
+      "message": "Atjaunojot saturu no atkritnes, radās kļūda."
+   },
+   "5015096128854741514": {
+      "message": "Transports un kartes"
+   },
+   "5018227417300461385": {
+      "message": "Mazā mīnusa zīme"
+   },
+   "5022153145769748172": {
+      "message": "Miskastē nav dziesmu."
+   },
+   "5030096791460456147": {
+      "message": "Attēlu, kuru mēģināt vilkt, ir bloķējusi mitināšanas vietne."
+   },
+   "5032188163864418301": {
+      "message": "Iegravējumu pehlevi"
+   },
+   "5043933900720743682": {
+      "message": "Albumi"
+   },
+   "5045200874122539692": {
+      "message": "Iziet"
+   },
+   "5049432650728491454": {
+      "message": "Pārlūkojiet jaunumus, populārāko dziesmu topus, atskaņošanas sarakstus un žanrus."
+   },
+   "504977212575871255": {
+      "message": "Nevarēja mainīt pasūtījumu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "5057515970652704627": {
+      "message": "Standarta"
+   },
+   "506090363255226122": {
+      "message": "Apvērsti/spoguļoti"
+   },
+   "5071594083516657121": {
+      "message": "Fails ir pārāk liels"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{0 albumu}=1{1 albums}zero{# albums}one{# albums}other{# albumi}}"
+   },
+   "5081090601358541148": {
+      "message": "Ierobežojums neattiecas uz Google Play veikalā iegādāto vai no pakalpojuma Google Play mūzika pievienoto mūziku."
+   },
+   "5094769877856014729": {
+      "message": "Mūzikas simbols: ligatūras beigas"
+   },
+   "5095388526557269967": {
+      "message": "Abonements ir aktivizēts."
+   },
+   "5103029066224104817": {
+      "message": "Izpildītāju stacijas"
+   },
+   "5105357319581293013": {
+      "message": "Jauna līdzīgo dziesmu kolekcija"
+   },
+   "5105404398573470156": {
+      "message": "Ģeometriskas formas"
+   },
+   "5113771261593769985": {
+      "message": "Čemu"
+   },
+   "5115900738857721327": {
+      "message": "Kombinēto grafēmu savienotājs"
+   },
+   "5119663120731608161": {
+      "message": "Jaunākās dziesmas skatiet atskaņošanas sarakstā $START_LINK$Pēdējās pievienotās$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125519453380212890": {
+      "message": "Palīdzība un atsauksmes"
+   },
+   "5128240607770067472": {
+      "message": "Par…"
+   },
+   "5141725357376719861": {
+      "message": "Lejupielādēti $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ ieraksti no $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Notiek meklēšana..."
+   },
+   "5161411570094992408": {
+      "message": "Vēlāk"
+   },
+   "5166520612019272178": {
+      "message": "Diemžēl ir radusies kļūda."
+   },
+   "5170992049958515620": {
+      "message": "Defise"
+   },
+   "5187212874644392331": {
+      "message": "Versija: $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "5189296983337794287": {
+      "message": "Pašlaik nav iespējams vilkt un nomest attēlu failus.\nLūdzu, ievelciet attēlu no savas tīmekļa pārlūkprogrammas."
+   },
+   "5189483014262344839": {
+      "message": "Nevarēja atvērt atskaņošanas sarakstu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "5194323427684547346": {
+      "message": "Lejupielādes atrašanās vieta"
+   },
+   "5199204386348402183": {
+      "message": "Osmaņu turku"
+   },
+   "5207635742003539443": {
+      "message": "Pierakstīties"
+   },
+   "5212776049596209141": {
+      "message": "Mūzika līdzīga izpildītāja $ARTIST$ albumam “$TITLE$”",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5218764702776228810": {
+      "message": "Pēc tam izveidojiet Google Play mūzikas kontu pārlūkam Chrome, lai pievienotu savu mūzikas kolekciju un klausītos to tālrunī, planšetdatorā un datorā."
+   },
+   "5219596981664772816": {
+      "message": "Hanu 3 vilkumu saknes"
+   },
+   "5231992454496384852": {
+      "message": "Laipni lūdzam Klausīties tūlīt!"
+   },
+   "5232157483592334572": {
+      "message": "Tifinagu"
+   },
+   "5255051784168449001": {
+      "message": "Šāda žanra mūzika: $GENRE$",
+      "placeholders": {
+         "GENRE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5256846847077792168": {
+      "message": "Rediģēt vārdu"
+   },
+   "5274506773583039432": {
+      "message": "Vai tiešām vēlaties $START_SPAN$neatgriezeniski dzēst$END_SPAN$ atlasīto atskaņošanas sarakstu?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5278374842872340790": {
+      "message": "Emocijzīmes"
+   },
+   "5288571118300787017": {
+      "message": "Dziesmā “$SONG_TITLE$” tika atklāta atšifrēšanas kļūda. Lūdzu, pārbaudiet sākotnējo failu un to atkārtoti augšupielādējiet. Dziesma izlaista.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5302287499843369186": {
+      "message": "Lietotnes Google Play mūzika iestatīšana"
+   },
+   "531478949469830505": {
+      "message": "Sorasompeņa"
+   },
+   "5315454967838901680": {
+      "message": "{NUM_DAYS,plural, =0{vairāk nekā 0 dienu}=1{vairāk nekā 1 diena}zero{over # days}one{vairāk nekā # diena}other{vairāk nekā # dienas}}"
+   },
+   "534536991450111663": {
+      "message": "Savu iTunes&reg;, Windows Media&reg; vai jebkuru citu kolekciju augšupielāde"
+   },
+   "5348600594194881699": {
+      "message": "Jums nav jāveic nekādas darbības — jūs jau esat Google Play mūzikas abonents."
+   },
+   "5359972686439530616": {
+      "message": "Laipni lūdzam sadaļā “Galvenā”!"
+   },
+   "536459166857647880": {
+      "message": "Tagalu"
+   },
+   "5373550672011878193": {
+      "message": "Rūnu"
+   },
+   "537543696442379345": {
+      "message": "Sākt atskaņot līdzīgas dziesmas"
+   },
+   "5378532290721565403": {
+      "message": "Dziesma tika iegādāta, izmantojot citu Google Play mūzikas kontu"
+   },
+   "538743482909979705": {
+      "message": "Rinda"
+   },
+   "5393158295657392839": {
+      "message": "Dziesmas, kuras atzīmētas kā nepareizas atbilstības"
+   },
+   "5394098606689330359": {
+      "message": "Rinda pašlaik ir tukša."
+   },
+   "5394607018657314633": {
+      "message": "Līniju atdalītājs"
+   },
+   "5402470227536486835": {
+      "message": "Mazā domuzīme"
+   },
+   "5404910277282887798": {
+      "message": "Feniķiešu"
+   },
+   "5408241503383428945": {
+      "message": "Citi eiropiešu raksti"
+   },
+   "5410695385284979104": {
+      "message": "Kolekcija: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5432330868773114140": {
+      "message": "Klausīties radio"
+   },
+   "5451692331472585782": {
+      "message": "Visas dziesmas"
+   },
+   "5452036681614307719": {
+      "message": "Neredzamā pluszīme"
+   },
+   "5452218284042451605": {
+      "message": "Lai izmantotu kuponu e-pasta adresei $START_SPAN$$USER_EMAIL$$END_SPAN$, tālāk ievadiet savu kodu.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5455360062863417200": {
+      "message": "Nākamā dziesma"
+   },
+   "5464364716831469679": {
+      "message": "Nezināms albums"
+   },
+   "5476151303062271370": {
+      "message": "Atskaņošanas saraksta saturu atskaņot jauktā secībā"
+   },
+   "5480320305561124595": {
+      "message": "Mana bibliotēka"
+   },
+   "548482866113095251": {
+      "message": "Dziesmu stacijas"
+   },
+   "548629550059508920": {
+      "message": "Nevar augšupielādēt, jo jūs jau veicat augšupielādi no diviem kontiem."
+   },
+   "5492320356892382782": {
+      "message": "Neatgriezeniski dzēst"
+   },
+   "5497512316841934820": {
+      "message": "Es ticu veiksmei — līdzīgas dziesmas"
+   },
+   "5497627646066282315": {
+      "message": "Notiek savienojuma izveide..."
+   },
+   "5501301484140201550": {
+      "message": "Radio “Es ticu veiksmei!”"
+   },
+   "550380163414655031": {
+      "message": "Pēc tam mēs uzdosim dažus jautājumus par jūsu gaumi, lai palīdzētu jums atklāt atbilstošu ierakstus."
+   },
+   "5507175884847381808": {
+      "message": "Saistīti izpildītāji"
+   },
+   "5507336088013774210": {
+      "message": "Pārlūkā Chrome esat pierakstījies ar lietotājvārdu $CHROME_PROFILE_EMAIL$, taču pakalpojumā Google Play mūzika pierakstījāties ar lietotājvārdu $USER_EMAIL$.",
+      "placeholders": {
+         "CHROME_PROFILE_EMAIL": {
+            "content": "$1"
+         },
+         "USER_EMAIL": {
+            "content": "$2"
+         }
+      }
+   },
+   "5518817744725858296": {
+      "message": "Izpildītājs uzstāsies netālu no jums"
+   },
+   "5519639242240450328": {
+      "message": "Izmantot standarta pakalpojumu"
+   },
+   "5529194084754296998": {
+      "message": "Sestdaļa no lielās atstarpes"
+   },
+   "5535160370665610524": {
+      "message": "Pārtīt atpakaļ pašreizējo dziesmu"
+   },
+   "5541835554879897802": {
+      "message": "Dažus ierakstus neizdevās pievienot kolekcijai. Lūdzu, mēģiniet vēlreiz."
+   },
+   "5551042708089914130": {
+      "message": "Ikviena persona, ar kuru kopīgosiet šo mūzikas failu, varēs to pilnībā noklausīties vienu reizi. Ja izvēlēsieties kopīgošanas iestatījumu Publisks, ārpus jūsu lokiem esošās personas varēs noklausīties tikai faila fragmentu."
+   },
+   "555316695189058055": {
+      "message": "Nevarēja atvērt sadaļu Iestatījumi. Lūdzu, mēģiniet vēlreiz."
+   },
+   "5555584444056851324": {
+      "message": "Pārsūtīšanas norise"
+   },
+   "5562067436939843837": {
+      "message": "Klausieties jebkādu mūziku no mūsu kataloga, kurā ir miljoniem dziesmu, — bez reklāmām."
+   },
+   "5575972129483350476": {
+      "message": "Varat klausīties dziesmas, tiklīdz tās ir pievienotas. Ja jūsu mūzikas kolekcija ir ļoti liela, process var ilgt kādu brīdi. Skatiet norises joslu kreisajā apakšējā stūrī (zem atskaņošanas sarakstiem)."
+   },
+   "5578390534357178026": {
+      "message": "Pierakstieties lietotnē Chrome, izmantojot to pašu Google kontu."
+   },
+   "5584189341216439776": {
+      "message": "Pievienot mūziku"
+   },
+   "5584467594910303696": {
+      "message": "Meroes hieroglifi"
+   },
+   "5588779305431701422": {
+      "message": "Līdzīgas dziesmas"
+   },
+   "5593214348786423371": {
+      "message": "Lai sāktu darbu, noklikšķiniet uz iepriekš esošā vienuma $START_SPAN$Jauna stacija$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5593848105713936399": {
+      "message": "Rinda"
+   },
+   "5594762259680838005": {
+      "message": "Nesen iegādāts"
+   },
+   "5599239366255984375": {
+      "message": "Notiek gatavošanās visas bibliotēkas dzēšanai..."
+   },
+   "5601530442010506564": {
+      "message": "Sapratu!"
+   },
+   "5605692130698677333": {
+      "message": "Vai jums ir nepieciešama palīdzība, pievienojot mūziku no datora, kurā jau ir instalēta lietojumprogramma Google Play mūzikas pārvaldnieks?"
+   },
+   "5607000992339442129": {
+      "message": "Lai varētu sākt savas mūzikas kolekcijas augšupielādi vietnē Google Play, būs nepieciešamas tikai dažas minūtes."
+   },
+   "5612959352951118540": {
+      "message": "pēc $NUM$ stundām",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5618830577398814421": {
+      "message": "Noņemot no miskastes, radās kļūda."
+   },
+   "5629201590189718876": {
+      "message": "Formāts"
+   },
+   "5643561794785412000": {
+      "message": "Nav pieejama"
+   },
+   "5653588624985073807": {
+      "message": "Gurmuki"
+   },
+   "5665391621751941927": {
+      "message": "Nevarēja izgūt žanrus. Lūdzu, mēģiniet vēlreiz."
+   },
+   "5669572958528616663": {
+      "message": "Klausoties radio, bloķēt necenzētas dziesmas"
+   },
+   "5670660788317776030": {
+      "message": "Nevarēja izgūt jaunos ierakstus. Lūdzu, mēģiniet vēlreiz."
+   },
+   "5671499827182863671": {
+      "message": "Jūs tikāt izrakstīts no šī konta. Lūdzu, noklikšķiniet uz tālāk esošās pogas, lai atgrieztos pie savas mūzikas."
+   },
+   "5672179805519539136": {
+      "message": "Glabājiet savu mūziku vienuviet. Klausieties to Android un iOS ierīcēs, kā arī tīmeklī."
+   },
+   "5674048882417502526": {
+      "message": "Ignorēšana no labās puses uz kreiso"
+   },
+   "5677606995605741055": {
+      "message": "Dzēšot radiostaciju, radās problēma."
+   },
+   "5683437508504624331": {
+      "message": "Apakšžanri"
+   },
+   "569766142833422558": {
+      "message": "Chrome lietotne Google Play mūzika ir jājaunina. Tas notiks automātiski."
+   },
+   "5700613377997995103": {
+      "message": "Rakstzīmes platuma atdalāmā zīme"
+   },
+   "5703992909435466308": {
+      "message": "Bring it on!"
+   },
+   "5714766227503719125": {
+      "message": "Laboratoriju izmaiņas netika saglabātas."
+   },
+   "5728756163322931984": {
+      "message": "Klausieties miljoniem dziesmu par viena albuma cenu."
+   },
+   "5729194176998322121": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Vai tiešām vēlaties {START_SPAN}neatgriezeniski dzēst{END_SPAN} atlasīto dziesmu?}zero{Vai tiešām vēlaties {START_SPAN}neatgriezeniski dzēst{END_SPAN} atlasītās dziesmas?}one{Vai tiešām vēlaties {START_SPAN}neatgriezeniski dzēst{END_SPAN} atlasītās dziesmas?}other{Vai tiešām vēlaties {START_SPAN}neatgriezeniski dzēst{END_SPAN} atlasītās dziesmas?}}"
+   },
+   "5729733224544981434": {
+      "message": "Pievienojiet Chrome lietotni Google Play mūzika, lai iespējotu vilkšanu un nomešanu."
+   },
+   "5751667025812029962": {
+      "message": "Ielādējot šī izpildītāja dziesmas, radās kļūda."
+   },
+   "5755038562791065032": {
+      "message": "Trešdaļa no lielās atstarpes"
+   },
+   "5761798931116026691": {
+      "message": "Neizdevās konvertēt uz MP3"
+   },
+   "5768452316770116077": {
+      "message": "Pievienot atskaņošanas sarakstu citam atskaņošanas sarakstam"
+   },
+   "5769292297914455214": {
+      "message": "Atspējots"
+   },
+   "5769804815976568558": {
+      "message": "Izvēlēties lejupielādes vietu"
+   },
+   "5773750119871048451": {
+      "message": "Atcelt"
+   },
+   "5775493454862732930": {
+      "message": "Armēņu defise"
+   },
+   "5779551937076403073": {
+      "message": "Pievienot"
+   },
+   "5779714939512088425": {
+      "message": "Visi"
+   },
+   "5784007894878825338": {
+      "message": "Nedalāmā atstarpe"
+   },
+   "5788505296455738987": {
+      "message": "Nevarēja atvērt miskasti. Lūdzu, mēģiniet vēlreiz."
+   },
+   "5804623124207295942": {
+      "message": "Dzēst manu bibliotēku..."
+   },
+   "5808071648737378605": {
+      "message": "Uzzināt vairāk"
+   },
+   "5839871767935988444": {
+      "message": "Nevarēja noņemt dziesmu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "5847831848437057583": {
+      "message": "Skatīt visu"
+   },
+   "5851160910663331658": {
+      "message": "Aizverot lietotni “Google Play mūzika”, tiks atcelta nepabeigta mūzikas failu augšupielāde."
+   },
+   "5854032765214514265": {
+      "message": "Iegūt lietotni"
+   },
+   "5863523793538309428": {
+      "message": "Notiek mūzikas dzēšana. Lūdzu, uzgaidiet pāris stundas, līdz tiks noņemta visa mūzika."
+   },
+   "5871378571594262100": {
+      "message": "Albuma informācijas rediģēšana"
+   },
+   "5889126665299129466": {
+      "message": "Lai izmantotu mini atskaņotāju, jums ir jāpierakstās pārlūkprogrammā Chrome."
+   },
+   "5889904821719049150": {
+      "message": "Klausieties mūziku gan jebkurā datorā, gan arī pat desmit citās ierīcēs. Mūzikas augšupielāde un lejupielāde, izmantojot mūzikas pārvaldnieku vai lietotni “Google Play mūzika Chrome”, tiek pieskaitīta jūsu ierīces ierobežojumam."
+   },
+   "5890243856676178044": {
+      "message": "Bengāļu"
+   },
+   "5891064527381218201": {
+      "message": "Bezmaksas"
+   },
+   "5894119135072469147": {
+      "message": "Miskaste"
+   },
+   "5914500973755757025": {
+      "message": "Laosiešu"
+   },
+   "5918806792833250096": {
+      "message": "Ķīļraksts"
+   },
+   "5923830678189377717": {
+      "message": "Hmm..."
+   },
+   "5926827060047510764": {
+      "message": "Neizdevās kopīgot dziesmu."
+   },
+   "5930857699885919881": {
+      "message": "Neatbalstīts ALAC fails"
+   },
+   "5938910520038805938": {
+      "message": "Saglabāt tūlīt"
+   },
+   "595142360727489397": {
+      "message": "Diemžēl šobrīd nevarēja saglabāt iestatījumus. Lūdzu, vēlāk mēģiniet vēlreiz."
+   },
+   "5969115558488445506": {
+      "message": "Apakšvirsraksts"
+   },
+   "5969558996711203863": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Viena no šīm dziesmām jau atrodas šajā atskaņošanas sarakstā.}zero{Dažas no šīm dziesmām jau atrodas šajā atskaņošanas sarakstā.}one{Dažas no šīm dziesmām jau atrodas šajā atskaņošanas sarakstā.}other{Dažas no šīm dziesmām jau atrodas šajā atskaņošanas sarakstā.}}"
+   },
+   "5971001229987621398": {
+      "message": "Ieteicams jaunums"
+   },
+   "5972155237671313809": {
+      "message": "Žanri"
+   },
+   "5980105177694529181": {
+      "message": "Piekrītu, turpināt"
+   },
+   "5987565417212088924": {
+      "message": "Lietotnes “Skaņas meklēšana” atskaņošanas saraksts"
+   },
+   "5994979002322984985": {
+      "message": "Iegādājieties jaunu mūziku pakalpojumā Google Play."
+   },
+   "5999302874230425830": {
+      "message": "Neatgriezeniski dzēst"
+   },
+   "5999484363963634214": {
+      "message": "Mandeju"
+   },
+   "601150082487101480": {
+      "message": "Pēdējās pievienotās"
+   },
+   "6011656414766760165": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Dzēst dziesmu}zero{Dzēst dziesmas}one{Dzēst dziesmas}other{Dzēst dziesmas}}"
+   },
+   "6028312506269896318": {
+      "message": "Vai tiešām vēlaties atcelt autorizāciju tālāk norādītajai ierīcei, kas paredzēta mūzikas atskaņošanai?"
+   },
+   "6028482253716695635": {
+      "message": "Radio"
+   },
+   "6031749391396582225": {
+      "message": "Hangul aizpildītājs"
+   },
+   "60369026765465265": {
+      "message": "Atsvaidzināt staciju"
+   },
+   "6040359253838854794": {
+      "message": "Šim atskaņošanas sarakstam tiek automātiski pievienota mūzika, kas ir kopīgota ar jums pakalpojumā Google+."
+   },
+   "6042091568356544470": {
+      "message": "Funkcijas lietošana"
+   },
+   "6044756873503608227": {
+      "message": "Labi"
+   },
+   "6055232846439667799": {
+      "message": "Doties uz albumu"
+   },
+   "6068863249628617875": {
+      "message": "Izmēģināt tūlīt"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Šis atskaņošanas saraksts pašlaik ir tukšs."
+   },
+   "6082719810989622649": {
+      "message": "Noklikšķiniet uz žanriem, kas jums patīk"
+   },
+   "609463966491943885": {
+      "message": "Atlasīt mapes"
+   },
+   "6098416614935833721": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{Varat arī {START_SPAN_1}lejupielādēt tieši no tīmekļa{END_SPAN}, taču {START_SPAN_2}katru dziesmu var lejupielādēt tikai vienu reizi{END_SPAN}.}zero{Varat arī {START_SPAN_1}lejupielādēt tieši no tīmekļa{END_SPAN}, taču {START_SPAN_2}katru dziesmu var lejupielādēt tikai {DOWNLOAD_COUNT_MAX_2} reižu{END_SPAN}.}one{Varat arī {START_SPAN_1}lejupielādēt tieši no tīmekļa{END_SPAN}, taču {START_SPAN_2}katru dziesmu var lejupielādēt tikai {DOWNLOAD_COUNT_MAX_2} reizi{END_SPAN}.}other{Varat arī {START_SPAN_1}lejupielādēt tieši no tīmekļa{END_SPAN}, taču {START_SPAN_2}katru dziesmu var lejupielādēt tikai {DOWNLOAD_COUNT_MAX_2} reizes{END_SPAN}.}}"
+   },
+   "6104044107385556653": {
+      "message": "Kuponu kodi ir reģistrjutīgi."
+   },
+   "610635793308893528": {
+      "message": "Iegulšana no labās puses uz kreiso"
+   },
+   "6107320076776413191": {
+      "message": "Jums vēl nav nevienas stacijas."
+   },
+   "6115840172404094036": {
+      "message": "Doties uz nākamo dziesmu"
+   },
+   "6119356595466013484": {
+      "message": "Dzēšot stacijas sākotnējo vērtību, radās kļūda."
+   },
+   "6125785068086103357": {
+      "message": "Nevarēja noņemt dziesmu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "6134905866550808378": {
+      "message": "Visas manas dziesmas — $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "616810943412555780": {
+      "message": "Kas var klausīties šo atskaņošanas sarakstu?"
+   },
+   "6179363104414627697": {
+      "message": "Diemžēl pakalpojumā “Google Play mūzika” ir radušās kļūdas. Lūdzu, pēc dažām minūtēm mēģiniet vēlreiz."
+   },
+   "6184352869080100584": {
+      "message": "Daļiņas"
+   },
+   "6187941731632492288": {
+      "message": "Tālāk"
+   },
+   "619567867822601036": {
+      "message": "Abonējot pakalpojumu Google Play mūzika, saņemsiet piekļuvi vairāk nekā 30 miljoniem dziesmu un neierobežotam radio pakalpojumam."
+   },
+   "619598118465142912": {
+      "message": "Notiek mūzikas pievienošana pakalpojumam Google Play&hellip;"
+   },
+   "6198275839871689123": {
+      "message": "Notiek gatavošanās augšupielādētās mūzikas dzēšanai..."
+   },
+   "6205568685279927986": {
+      "message": "Redžangas"
+   },
+   "6211429203092739745": {
+      "message": "Iepriekšējā dziesma"
+   },
+   "6211690508928257569": {
+      "message": "Sīriešu"
+   },
+   "6214362172197372800": {
+      "message": "Pirms turpināt, pārliecinieties, ka datorā ir lejupielādētas jebkādu vietnē Google Play veiktu pirkumu kopijas."
+   },
+   "6223255458060266606": {
+      "message": "Koplietot albumu"
+   },
+   "6223487594388109285": {
+      "message": "Pārdēvējot radiostaciju, radās problēma."
+   },
+   "6233107584508657559": {
+      "message": "Nevarēja izveidot savienojumu ar Google."
+   },
+   "6238576599909606924": {
+      "message": "nederīgs URL"
+   },
+   "6242354668932209396": {
+      "message": "Ieslēgta visu dziesmu atkārtošana. Noklikšķiniet, lai mainītu atkārtošanas režīmu."
+   },
+   "624368563085644372": {
+      "message": "Neredzamais reižu simbols"
+   },
+   "6244700457503819244": {
+      "message": "Augšupielādēto mūziku var kopīgot tikai pakalpojumā YouTube"
+   },
+   "624560585652958729": {
+      "message": "Atcelt autorizāciju"
+   },
+   "6254019915482435769": {
+      "message": "Diski"
+   },
+   "6263911096488435737": {
+      "message": "Atsvaidzināt līdzīgās dziesmas"
+   },
+   "6264257099423315684": {
+      "message": "Uz kādu e-pasta adresi ir jānovirza šai saitei?"
+   },
+   "6295365017215525026": {
+      "message": "Pirkt"
+   },
+   "630414199054820482": {
+      "message": "Punktuācijas atstarpe"
+   },
+   "6324364209944131864": {
+      "message": "Nevarēja noņemt dziesmu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "6334800505555910746": {
+      "message": "Nodrošina $XXX_1$ saskaņā ar licenci $XXX_2$",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Augšupielādes kļūda"
+   },
+   "6342787164312491730": {
+      "message": "Laikapstākļi, ainas un zodiaka zīmes"
+   },
+   "6348993545995904615": {
+      "message": "Shuffle"
+   },
+   "6351675712334656593": {
+      "message": "Pievienot albumu atskaņošanas sarakstam"
+   },
+   "6352462755178724841": {
+      "message": "Noņemt formatējumu"
+   },
+   "6360176193794906710": {
+      "message": "Nevarēja pievienot atskaņošanas sarakstam. Lūdzu, mēģiniet vēlreiz."
+   },
+   "6360340926892934518": {
+      "message": "Pievienot mapi"
+   },
+   "6360600151505327572": {
+      "message": "Pēdējoreiz izmantota"
+   },
+   "6364574881720306543": {
+      "message": "Vai jūs vēl klausāties?"
+   },
+   "6366709732825379801": {
+      "message": "$BIT_RATE$ (VBR)",
+      "placeholders": {
+         "BIT_RATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6368701791080208899": {
+      "message": "Nav atrasts neviens rezultāts."
+   },
+   "6376260854549568083": {
+      "message": "Populārākās dziesmas"
+   },
+   "6376633306429460166": {
+      "message": "Saurastru"
+   },
+   "6385045613512910273": {
+      "message": "Atskaņot izpildītāja dziesmas jauktā secībā"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Nav nevienas dziesmas, kurai būtu atlikusi tikai viena lejupielāde.}=1{Dziesmai “{XXX_1}” ir atlikusi tikai viena lejupielāde.}=2{Dziesmām “{XXX_1}” un “{XXX_2}” ir atlikusi tikai viena lejupielāde.}=3{Dziesmām “{XXX_1}”, “{XXX_2}” un “{XXX_3}” ir atlikusi tikai viena lejupielāde.}=4{Dziesmām “{XXX_1}”, “{XXX_2}”, “{XXX_3}” un vēl vienai atlasītajai dziesmai ir atlikusi tikai viena lejupielāde.}zero{\"{XXX_1},\" \"{XXX_2},\" \"{XXX_3},\" and {XXX_4} other selected songs have only 1 download remaining.}one{Dziesmām “{XXX_1}”, “{XXX_2}”, “{XXX_3}” un vēl {XXX_4} atlasītajai dziesmai ir atlikusi tikai viena lejupielāde.}other{Dziesmām “{XXX_1}”, “{XXX_2}”, “{XXX_3}” un vēl {XXX_4} atlasītajām dziesmām ir atlikusi tikai viena lejupielāde.}}"
+   },
+   "6390744057286457578": {
+      "message": "Līdzināt centrā"
+   },
+   "6392918669949841614": {
+      "message": "Pievienošanas datums"
+   },
+   "6397906195939852735": {
+      "message": "Kannadu"
+   },
+   "6397910887534888858": {
+      "message": "Teksta krāsa"
+   },
+   "6400942092837891083": {
+      "message": "Klausīties tūlīt"
+   },
+   "6401504435764250548": {
+      "message": "Kopīgojiet Google Play veikalā iegādāto dziesmu un albumu bezmaksas atskaņošanu. Lai sāktu kopīgošanu ar draugiem, jauniniet uz pakalpojumu Google+."
+   },
+   "6401620758535187625": {
+      "message": "Atjaunināt maksājumu informāciju"
+   },
+   "64105085985943447": {
+      "message": "Notiek Google Play mūzikas iestatīšana..."
+   },
+   "6421892043518687943": {
+      "message": "Saņemiet piekļuvi vairāk nekā 30 miljoniem dziesmu un neierobežotam radio pakalpojumam."
+   },
+   "6425912931786223127": {
+      "message": "priekšpusdienā"
+   },
+   "6427041476637425542": {
+      "message": "Apakšraksts"
+   },
+   "6434502180830126486": {
+      "message": "Mūzika līdzīga izpildītāja $ARTIST$ dziesmai “$TITLE$”",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "6438224032526722328": {
+      "message": "Manas radiostacijas"
+   },
+   "6439365426343089851": {
+      "message": "Vispārīgi"
+   },
+   "6447846965513034625": {
+      "message": "Objekti"
+   },
+   "6448771309160517960": {
+      "message": "Sākt lietot bez maksas"
+   },
+   "6452850149519075219": {
+      "message": "Vēlāk"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Izbaudiet mūsu melomānu atskaņošanas sarakstus$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455550894777387014": {
+      "message": "Birmiešu"
+   },
+   "6455589326534311330": {
+      "message": "Šis ierobežojums nav spēkā, ja izmantojat $START_SPAN$mūzikas pārvaldnieku$END_SPAN$, lai datorā lejupielādētu visu bibliotēku.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Necenzēts: saturs, iespējams, nav piemērots bērniem."
+   },
+   "6482036697464831271": {
+      "message": "Lai ātrāk augšupielādētu jūsu mūziku, Google Play atrod jūsu mūzikas failiem atbilstošās kopijas pakalpojuma serverī. Dažkārt dziesmas atbilstība var tikt noteikta kļūdaini. Ziņojiet par problēmu šeit, un dziesmām atbilstības kopiju vietā tiks izmantotas jūsu kopijas."
+   },
+   "6482815137654580311": {
+      "message": "Rediģēt informāciju"
+   },
+   "6486528140836362182": {
+      "message": "Atsaucot dzēšanu, radās kļūda."
+   },
+   "6488707262592852720": {
+      "message": "2. Instalēšanas programmas logā velciet mūzikas pārvaldnieka ikonu uz mapes ikonu Applications."
+   },
+   "6502885021177224543": {
+      "message": "Google Play mūzika: lejupielādes mapes izvēle"
+   },
+   "6504449653938065974": {
+      "message": "Ieteikts atskaņošanas saraksts"
+   },
+   "6510962485068569110": {
+      "message": "Atsaukt"
+   },
+   "6531109671848395983": {
+      "message": "Lai pievienotu mūziku, instalējiet lietotni “Google Play mūzika Chrome”."
+   },
+   "653219508056341533": {
+      "message": "Cilvēki un emocijas"
+   },
+   "6536321501157888512": {
+      "message": "Videoklipi"
+   },
+   "6538565185460307864": {
+      "message": "Oriju"
+   },
+   "6562996658473327600": {
+      "message": "Atskaņo no:"
+   },
+   "6568036879894576496": {
+      "message": "Mūzika no šīm mapēm tiks pievienota pakalpojumam Google Play mūzika"
+   },
+   "6568649140210842427": {
+      "message": "Atsaukt"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{Katru dziesmu no tīmekļa var lejupielādēt vienu reizi.}zero{Katru dziesmu no tīmekļa var lejupielādēt {DOWNLOAD_COUNT_MAX_2} reižu.}one{Katru dziesmu no tīmekļa var lejupielādēt {DOWNLOAD_COUNT_MAX_2} reizi.}other{Katru dziesmu no tīmekļa var lejupielādēt {DOWNLOAD_COUNT_MAX_2} reizes.}}"
+   },
+   "6588162415744257525": {
+      "message": "Iestatījumi ir saglabāti."
+   },
+   "6591282200798732887": {
+      "message": "Vidējā kvarta"
+   },
+   "6593026033315842198": {
+      "message": "Pēc tam atskaņot albumu"
+   },
+   "6593910762276333113": {
+      "message": "Lejupielādēt Flash"
+   },
+   "66116513409922755": {
+      "message": "Nē"
+   },
+   "6612115524763399815": {
+      "message": "Devanāgarī"
+   },
+   "6630542439744320847": {
+      "message": "Kopīgojot videoklipu, radās kļūda. Lūdzu, mēģiniet vēlreiz."
+   },
+   "6634231960955145278": {
+      "message": "Dziesma"
+   },
+   "6641147067989080704": {
+      "message": "Kajahu"
+   },
+   "664634122823041615": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{1 noņemta dziesma}zero{# noņemtu dziesmu}one{# noņemta dziesma}other{# noņemtas dziesmas}}"
+   },
+   "6648321575857011667": {
+      "message": "Now you can upload up to 50,000 of your favorite songs and listen to them on your phone or on the web."
+   },
+   "6650633628037596693": {
+      "message": "Mēģiniet vēlreiz"
+   },
+   "6650888720096194474": {
+      "message": "Lai izmantotu mini atskaņotāju, jums ir jāizveido $START_SPAN$$EMAIL$$END_SPAN$ konts pakalpojumā Google Play mūzika.",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652787256443519035": {
+      "message": "Bez atzīmēm"
+   },
+   "6656247331101810021": {
+      "message": "{NUM_ADDED_1,plural, =1{Pakalpojumā Google Play ir pievienota 1 dziesma.}zero{Pakalpojumā Google Play ir pievienotas {NUM_ADDED_2} dziesmas.}one{Pakalpojumā Google Play ir pievienota {NUM_ADDED_2} dziesma.}other{Pakalpojumā Google Play ir pievienotas {NUM_ADDED_2} dziesmas.}}"
+   },
+   "6662785925286272592": {
+      "message": "Atlasīts: $NUMBER$",
+      "placeholders": {
+         "NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6678540854255099584": {
+      "message": "Klausieties mūziku $START_SPAN_1$Android$END_SPAN$, $START_SPAN_2$iOS$END_SPAN$ ierīcēs un tīmeklī",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN_1": {
+            "content": "$2"
+         },
+         "START_SPAN_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "66820157572867378": {
+      "message": "Samazināt atkāpi"
+   },
+   "6689623864271696040": {
+      "message": "Pārnesuma zīme"
+   },
+   "6703947649972852818": {
+      "message": "Piedāvātie"
+   },
+   "6711475260919070872": {
+      "message": "Senpersiešu"
+   },
+   "6714404182584858617": {
+      "message": "Mūzikas augšupielāde"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Iesakām"
+   },
+   "6719382961812623394": {
+      "message": "Iestatot lietotni, radās problēma."
+   },
+   "6722174221321515493": {
+      "message": "Nulles platuma nesavienotājs"
+   },
+   "67267580465432054": {
+      "message": "Vēl $COUNT$ vienumi",
+      "placeholders": {
+         "COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6732797853205065184": {
+      "message": "Ignorēt"
+   },
+   "6750258767236131097": {
+      "message": "Tuvo Austrumu raksti"
+   },
+   "6752036923690894812": {
+      "message": "Ieteicams: $SUGGESTED_VALUE$",
+      "placeholders": {
+         "SUGGESTED_VALUE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6752949968973984824": {
+      "message": "Noņemt no rindas"
+   },
+   "6767840363712402525": {
+      "message": "Veidojot jaunas līdzīgās dziesmas, radās kļūda."
+   },
+   "6768967544887679189": {
+      "message": "Viļņotā atdalāmā zīme"
+   },
+   "6776938678957039239": {
+      "message": "{NUM_ARTISTS,plural, =0{0 izpildītāju}=1{1 izpildītājs}zero{# artists}one{# izpildītājs}other{# izpildītāji}}"
+   },
+   "6781720087622180098": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Neatgriezeniski dzēst dziesmu}zero{Neatgriezeniski dzēst dziesmas}one{Neatgriezeniski dzēst dziesmas}other{Neatgriezeniski dzēst dziesmas}}"
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "Labi"
+   },
+   "6815887358797696163": {
+      "message": "Veidojot jaunu radio staciju, radās kļūda."
+   },
+   "6820635381009519748": {
+      "message": "Noņemt no rindas"
+   },
+   "6821274223204126521": {
+      "message": "Mūzika"
+   },
+   "683078734522991365": {
+      "message": "Pievienot atskaņošanas sarakstu rindai"
+   },
+   "6839273670547667172": {
+      "message": "Dažādi"
+   },
+   "6840919594921167668": {
+      "message": "Lejupielādētās dziesmas skatiet datora mapē “Lejupielādes”."
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6852978731943767591": {
+      "message": "3. Kad tiek atvērta instalēšanas programma, izpildiet tajā sniegtos norādījumus, lai instalētu lietotni Mūzikas pārvaldnieks."
+   },
+   "6863919832612121551": {
+      "message": "Nevarēja atvērt meklēšanas rezultātus. Lūdzu, mēģiniet vēlreiz."
+   },
+   "6887831882226099905": {
+      "message": "Vai tiešām vēlaties atcelt autorizāciju šai mūzikas pievienošanai paredzētajai ierīcei:"
+   },
+   "6898179631823558149": {
+      "message": "Neizdevās konvertēt failu izmantojamā formātā"
+   },
+   "6906297334127711451": {
+      "message": "Augstu novērtētie"
+   },
+   "6922232441378354878": {
+      "message": "$TRACK_COUNT$ (maks. $MAX_TRACKS$)",
+      "placeholders": {
+         "MAX_TRACKS": {
+            "content": "$1"
+         },
+         "TRACK_COUNT": {
+            "content": "$2"
+         }
+      }
+   },
+   "6922894402169620811": {
+      "message": "Manu ierīču pārvaldība"
+   },
+   "6930531446322391145": {
+      "message": "Attēls"
+   },
+   "6932708032906445463": {
+      "message": "$DATE$: rinda",
+      "placeholders": {
+         "DATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6958966284437922286": {
+      "message": "Vaju"
+   },
+   "6962699013778688473": {
+      "message": "Turpināt"
+   },
+   "697012819930063829": {
+      "message": "Savas iTunes mūzikas klausīšanās pakalpojumā Google Play mūzika"
+   },
+   "6990699195498598876": {
+      "message": "Lai sāktu darbu, lejupielādējiet tālāk redzamo lietojumprogrammu Mūzikas pārvaldnieks. Mūzikas pārvaldnieks ir vienkārša lietojumprogramma mūzikas failu pievienošanai platformā Google Play, izmantojot datoru."
+   },
+   "6998235550776058897": {
+      "message": "Skaņas meklēšana"
+   },
+   "699971906528455934": {
+      "message": "Nezināms izpildītājs"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7000649363168371045": {
+      "message": "Saglabāt izmaiņas"
+   },
+   "7002955679222677443": {
+      "message": "Uzziniet vairāk"
+   },
+   "7009828133009731416": {
+      "message": "Google bezmaksas piedāvājums"
+   },
+   "7015870297337540921": {
+      "message": "Mjao"
+   },
+   "7019115336138470191": {
+      "message": "Abonēts"
+   },
+   "7020161279392960480": {
+      "message": "Formāts"
+   },
+   "7022070615528435141": {
+      "message": "Dzēst"
+   },
+   "7029749611952268902": {
+      "message": "Trūkst atskaņotāja Flash Player"
+   },
+   "7034479228356652023": {
+      "message": "Hanu 1 vilkuma saknes"
+   },
+   "7035822615949880851": {
+      "message": "Jūsu mūzika šajā ierīcē īslaicīgi nav pieejama. Lūdzu, vēlāk mēģiniet vēlreiz. Kļūda 442."
+   },
+   "7043080825985118397": {
+      "message": "Atsaukt dzēšanu"
+   },
+   "7046172769056716709": {
+      "message": "ATSKAŅOT VISU"
+   },
+   "7049182394855721704": {
+      "message": "Gotiskais raksts"
+   },
+   "7054091192371222228": {
+      "message": " no "
+   },
+   "7062695654404914711": {
+      "message": "Līdzīgas dziesmas"
+   },
+   "7070096119512751511": {
+      "message": "Google Play mūzikas laboratorijas ir platforma, kas paredzēta, lai testētu izmēģinājuma funkcijas, kuras vēl nav gatavas ieviešanai. Šīs funkcijas jebkurā brīdī var tikt mainītas, noņemtas vai var nedarboties. Patīkamu lietošanu!"
+   },
+   "7071666053441099517": {
+      "message": "1. Atveriet failu MusicManager.dmg, kas atrodas pārlūkprogrammas loga apakšdaļā pa kreisi."
+   },
+   "7074455848199596542": {
+      "message": "Pirkt"
+   },
+   "7080245643233785574": {
+      "message": "Chrome lietotnē “Google Play mūzika” ir radusies problēma, tādēļ jums ir jāpierakstās vēlreiz."
+   },
+   "7090368974279082159": {
+      "message": "Ak, vai!"
+   },
+   "709740537382334098": {
+      "message": "Dzēst visu manu bibliotēku, tostarp iegādāto mūziku ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7100404876663103497": {
+      "message": "Hangul Choseong aizpildītājs"
+   },
+   "7100567566985297322": {
+      "message": "Lielā atstarpe"
+   },
+   "7102126384411654213": {
+      "message": "Nevarēja pievienot kolekcijai. Lūdzu, mēģiniet vēlreiz."
+   },
+   "7104210472412766015": {
+      "message": "Rindstarpu anotācijas atdalītājs"
+   },
+   "7111181959300196580": {
+      "message": "Palielināt atkāpi"
+   },
+   "7116872031464114568": {
+      "message": "Atpazīts lietotnē Skaņas meklēšana"
+   },
+   "7127937208951634191": {
+      "message": "Simbols"
+   },
+   "7132453172532202734": {
+      "message": "Nevar atvērt Google Play"
+   },
+   "7136816542440442290": {
+      "message": "Ielādējot radiostaciju, radās problēma."
+   },
+   "7142318371157627900": {
+      "message": "Albuma saturu atskaņot jauktā secībā"
+   },
+   "7144282148069290569": {
+      "message": "Google Play mūzika: ievadiet kupona kodu"
+   },
+   "716550293954822096": {
+      "message": "Singāļu"
+   },
+   "7182974689040833178": {
+      "message": "Atsākt"
+   },
+   "7192513315706728552": {
+      "message": "Servera kļūda. Vēlāk mēģiniet vēlreiz."
+   },
+   "7193246324319119024": {
+      "message": "Abonēt pakalpojumu Google Play mūzika"
+   },
+   "7193968696947634147": {
+      "message": "Atsvaidzināt lapu"
+   },
+   "7194376132387780145": {
+      "message": "Šo datoru nevarēja autorizēt, jo jums jau ir desmit ierīces."
+   },
+   "7194651457266894775": {
+      "message": "Tālāk"
+   },
+   "7200522943394315316": {
+      "message": "32 bitu .rpm (Fedora/openSUSE)"
+   },
+   "7202681158267340446": {
+      "message": "Fonts"
+   },
+   "720381800527728702": {
+      "message": "Sports, svinības un aktivitātes"
+   },
+   "7212676589977202933": {
+      "message": "Pievienotas $NUM_TRANSFERRED_TRACKS$ dziesmas",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7222550745296256302": {
+      "message": "Laboratorijas"
+   },
+   "7224832103566723854": {
+      "message": "Nevarēja atvērt šo atskaņošanas sarakstu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "7228054090343921088": {
+      "message": "Ar mūzikas failiem saistītās tiesības atšķiras atkarībā no valsts. Ja vēlaties veikt ar mūzikas failiem saistītus darījumus, jums ir jāreģistrē maksājuma veids, lai apstiprinātu savu uzturēšanās valsti."
+   },
+   "7228343081607279547": {
+      "message": "Zundu"
+   },
+   "7229202390260081051": {
+      "message": "Ļoti liels"
+   },
+   "7255910479290222342": {
+      "message": "Nevarēja izgūt jaunos ierakstus. Lūdzu, mēģiniet vēlreiz."
+   },
+   "7262284142845767114": {
+      "message": "Patīk"
+   },
+   "7268431229079263776": {
+      "message": "Žanru stacijas"
+   },
+   "7272102605534721713": {
+      "message": "Bezmaksas un iegādātās dziesmas tiek automātiski pievienotas šim atskaņošanas sarakstam."
+   },
+   "7275701957875197537": {
+      "message": "Rediģēt informāciju"
+   },
+   "7277107746269610906": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Uzglabājiet līdz pat 20 000 dziesmām vietnē Google Play bez maksas.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Papildiniet savu kolekciju no programmām iTunes, Windows Media Player vai mapēm.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Klausieties tīmeklī vai savās mobilajās ierīcēs, neizmantojot vadus.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "START_DIV_1": {
+            "content": "$5"
+         },
+         "START_DIV_2": {
+            "content": "$6"
+         },
+         "START_DIV_3": {
+            "content": "$7"
+         },
+         "START_ITEM": {
+            "content": "$8"
+         },
+         "START_SPAN": {
+            "content": "$9"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$10"
+         }
+      }
+   },
+   "7277852420688818723": {
+      "message": "Dzēst atskaņošanas sarakstu"
+   },
+   "7281847881697831326": {
+      "message": "Atsaucot dzēšanu, radās kļūda."
+   },
+   "7282565673166392948": {
+      "message": "Ideogrāfisks apraksts"
+   },
+   "7283335227149007409": {
+      "message": "Google Play mūzika"
+   },
+   "7287006426755387074": {
+      "message": "Palielināt atskaņotāja skaļumu"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minūšu}=1{1 minūte}zero{# minutes}one{# minūte}other{# minūtes}}"
+   },
+   "7292902857194439444": {
+      "message": "Ierīce"
+   },
+   "7293925053370285812": {
+      "message": "Ieslēgta šīs dziesmas atkārtošana. Noklikšķiniet, lai mainītu atkārtošanas režīmu."
+   },
+   "730022297859142476": {
+      "message": "Instant mix"
+   },
+   "7305444542671206121": {
+      "message": "Kopīgoja:"
+   },
+   "7305504256207181669": {
+      "message": "Saraksts ar aizzīmēm"
+   },
+   "7307135409747066409": {
+      "message": "Automātiskie atskaņošanas saraksti"
+   },
+   "7310668544702677420": {
+      "message": "Lūdzu, atsvaidziniet šo lapu savā pārlūkprogrammā, lai turpinātu klausīties mūziku. Ja problēma nav atrisināta, nodrošiniet, lai programma Flash būtu iespējota un darbotos."
+   },
+   "7320133162875658022": {
+      "message": "Augšupielādēt jaunas dziesmas ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7327031758797800144": {
+      "message": "Dziesmu kolekcijas"
+   },
+   "7331328794127852355": {
+      "message": "Emocijzīmes"
+   },
+   "7335080673788704461": {
+      "message": "Transports, kartes un ceļrāži"
+   },
+   "7347179017294066771": {
+      "message": "Pievienot vai noņemt mapes"
+   },
+   "7354536653016090160": {
+      "message": "Populārākie"
+   },
+   "7354691783317064273": {
+      "message": "Notiek savienojuma izveide ar lietotni Chrome..."
+   },
+   "7362511410853739189": {
+      "message": "{NUM_SONGS_NOT_ADDED,plural, =1{Jūsu bibliotēkai netika pievienota 1 dziesma, jo tās apjoms bija pārāk liels.}zero{Jūsu bibliotēkai netika pievienota # dziesmu, jo to apjoms bija pārāk liels.}one{Jūsu bibliotēkai netika pievienota # dziesma, jo to apjoms bija pārāk liels.}other{Jūsu bibliotēkai netika pievienotas # dziesmas, jo to apjoms bija pārāk liels.}}"
+   },
+   "7365831156994997199": {
+      "message": "&lt;Shift&gt; labā bultiņa"
+   },
+   "7366108491311712519": {
+      "message": "Atpakaļ"
+   },
+   "7376787658603979700": {
+      "message": "Iegādājieties miljoniem dziesmu, tostarp simtiem bezmaksas ierakstu."
+   },
+   "7396303606473621591": {
+      "message": "Visi"
+   },
+   "7398835787232710199": {
+      "message": "Skatīt izpildītāja lapu"
+   },
+   "7399163462822414616": {
+      "message": "Notiek albuma pievienošana..."
+   },
+   "7410432243549869948": {
+      "message": "Ilgums"
+   },
+   "7411932913365107274": {
+      "message": "Gada laikā var deautorizēt četras ierīces."
+   },
+   "741454111929523251": {
+      "message": "Vai domājāt: $START_LINK$$SUGGESTED_QUERY$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Atlasīt mapes..."
+   },
+   "7417681439425233312": {
+      "message": "Kuponi ir derīgi tikai jauniem Google Play mūzikas abonentiem."
+   },
+   "7419704019640008953": {
+      "message": "Kopīgot"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{pēc # dienu}=1{pēc # dienas}zero{pēc # dienām}one{pēc # dienas}other{pēc # dienām}}"
+   },
+   "7428886958457484779": {
+      "message": "Pauze"
+   },
+   "7433525020249318208": {
+      "message": "Mūzikas kopīgošana"
+   },
+   "7437894509168051348": {
+      "message": "Hanu 7 vilkumu saknes"
+   },
+   "7443973086288693076": {
+      "message": "Lai lejupielādētu mūziku no pakalpojuma Google Play, pierakstieties pārlūkā Chrome ar lietotājvārdu $USER_EMAIL$.",
+      "placeholders": {
+         "USER_EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "7467710920158412786": {
+      "message": "Privāts atskaņošanas saraksts tikai jums."
+   },
+   "7473408832817075473": {
+      "message": "Dzēst albumu"
+   },
+   "747583939629659293": {
+      "message": "Pievienot krāsu"
+   },
+   "7480960100390206139": {
+      "message": "Dažādi"
+   },
+   "7485182386135797326": {
+      "message": "Atvērt rindu"
+   },
+   "7507545027173669965": {
+      "message": "Pēdējās darbības"
+   },
+   "7512291922236002631": {
+      "message": "Kopējiet un ielīmējiet šo saiti, lai kopīgotu šo ierakstu: $START_SPAN$$TITLE$$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7518985049277038044": {
+      "message": "Saistīti izpildītāji"
+   },
+   "7529798479468856973": {
+      "message": "pirms $NUM$ stundām",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7532438019512459575": {
+      "message": "Dziesmu atskaņošana jauktā secībā"
+   },
+   "7536172317066333802": {
+      "message": "Ievietot attēlu"
+   },
+   "7553888571924937876": {
+      "message": "Bez maksas pievienojiet vietnei Google Play pat 20 000 dziesmu no savas kolekcijas."
+   },
+   "7555213274234328374": {
+      "message": "Ierīces autorizācijas atcelšana"
+   },
+   "7559266156388225108": {
+      "message": "Kaithi cipara zīme"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7568923695537347038": {
+      "message": "Nevarēja dzēst atskaņošanas sarakstu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "7570731911896608225": {
+      "message": "Mongoļu patskaņu atdalītājs"
+   },
+   "7572946295452220765": {
+      "message": "Instalēšanas norādījumi"
+   },
+   "7580882342112737846": {
+      "message": "Lai sāktu darbu, noklikšķiniet uz iepriekš esošā vienuma $START_SPAN$Jauna līdzīgo dziesmu kolekcija$END_SPAN$.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "7586136400217442714": {
+      "message": "Hmm... Radās kļūda."
+   },
+   "7588107080089998106": {
+      "message": "Atkārtoti abonēt"
+   },
+   "7596816553523902619": {
+      "message": "Šodien"
+   },
+   "7599424290971072767": {
+      "message": "Žanrs"
+   },
+   "7601688284754148415": {
+      "message": "Matemātika"
+   },
+   "7604883230326131491": {
+      "message": "Atskaņošanas saraksts: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "Lejupielāde sāksies pēc īsa brīža. Ja tā nenotiek, lūdzu, $START_LINK$noklikšķiniet šeit$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7617664217221228040": {
+      "message": "Balinēziešu"
+   },
+   "762389150316771008": {
+      "message": "Es ticu veiksmei — radio"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Lejupielādei datorā neesat atlasījis nevienu dziesmu.}=1{Ir sasniegts atlasītās dziesmas lejupielāžu skaita ierobežojums.}zero{The selected songs have already been downloaded the maximum number of times.}one{Ir sasniegts atlasīto dziesmu lejupielāžu skaita ierobežojums.}other{Ir sasniegts atlasīto dziesmu lejupielāžu skaita ierobežojums.}}"
+   },
+   "7631480327394084350": {
+      "message": "Vadīklu attēli"
+   },
+   "7646200109051419926": {
+      "message": "Labi"
+   },
+   "7649914623897629491": {
+      "message": "Noņemt no Manas bibliotēkas"
+   },
+   "7664246845088850317": {
+      "message": "Neizdevās izveidot savienojumu ar serveri. Kļūdas kods: "
+   },
+   "7680909305037351509": {
+      "message": "Aizvērt"
+   },
+   "7697058485679231601": {
+      "message": "Atkārtoti ielādējiet lapu un mēģiniet vēlreiz."
+   },
+   "7704516203792990151": {
+      "message": "Pagājušais laiks"
+   },
+   "7709119284546787990": {
+      "message": "No labās uz kreiso"
+   },
+   "7711713319832787051": {
+      "message": "Pārī"
+   },
+   "7730109880037106848": {
+      "message": "Simboli"
+   },
+   "7736581252844206600": {
+      "message": "Grieķu"
+   },
+   "7737642252665507180": {
+      "message": "Heksadecimāla ievade"
+   },
+   "7743528314734813641": {
+      "message": "Ielādējot līdzīgās dziesmas, radās problēma."
+   },
+   "7756401573104983978": {
+      "message": "Datora lietotne"
+   },
+   "7760426006262447033": {
+      "message": "Rindā vairs nav vietas."
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{0 dziesmu}=1{1 dziesma}zero{# songs}one{# dziesma}other{# dziesmas}}"
+   },
+   "7774266771623079214": {
+      "message": "Play mūzika"
+   },
+   "7776111286341041808": {
+      "message": "No kreisās uz labo"
+   },
+   "7776418505159373818": {
+      "message": "Nevarēja atvērt šī izpildītāja lapu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "7779944073321183286": {
+      "message": "Izmantojot mūsu bezmaksas pakalpojumu, varat veikt tālāk norādītās darbības."
+   },
+   "7783345534551124847": {
+      "message": "Dziesmas"
+   },
+   "7790071770903633750": {
+      "message": "Pirkt šī izpildītāja ierakstus"
+   },
+   "779262212811541732": {
+      "message": "Senais dienvidarābu raksts"
+   },
+   "7794028797375406235": {
+      "message": "$COUNT$ dziesmas",
+      "placeholders": {
+         "COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7796823105130976412": {
+      "message": "Šis atskaņošanas saraksts pašlaik ir tukšs."
+   },
+   "7800122803571674150": {
+      "message": "Laipni lūdzam pakalpojumā Google Play mūzika!"
+   },
+   "7801884781403562273": {
+      "message": "Izpirkt"
+   },
+   "78091647859265514": {
+      "message": "$COUNT$ dziesma",
+      "placeholders": {
+         "COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7816161180678740448": {
+      "message": "Braila raksts"
+   },
+   "7819314041543176992": {
+      "message": "Aizvērt"
+   },
+   "7834872082445723495": {
+      "message": "Tiek atcelta mūzikas pievienošana"
+   },
+   "7837658598263941553": {
+      "message": "Atskaņošanas saraksti"
+   },
+   "7846689234809169417": {
+      "message": "Dzīvnieki, augi un pārtika"
+   },
+   "7852251570584764233": {
+      "message": "Nākamā dziesma"
+   },
+   "7872232444995028156": {
+      "message": "Miskaste"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 stundu}=1{1 stunda}zero{# hours}one{# stunda}other{# stundas}}"
+   },
+   "7878031641910175480": {
+      "message": "Pēdējās atlases:"
+   },
+   "7888286842234266048": {
+      "message": "Apvilkts/punktēts"
+   },
+   "7890898412210650236": {
+      "message": "Rediģēt atskaņošanas sarakstu"
+   },
+   "7898792314887900865": {
+      "message": "Kipriešu"
+   },
+   "7911416166208830577": {
+      "message": "Palīdzība"
+   },
+   "7927039504440585569": {
+      "message": "Latīņu"
+   },
+   "7930381906669528420": {
+      "message": "Nevarēja atskaņot dziesmu “$SONG_TITLE$”; tā tika izlaista.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7931527771588976000": {
+      "message": "Fonētika (IPA)"
+   },
+   "7938108963036654993": {
+      "message": "$COUNT$ ATSKAŅOŠANAS REIZE",
+      "placeholders": {
+         "COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7944852703436298311": {
+      "message": "Pārlūkot stacijas"
+   },
+   "7947294997516635657": {
+      "message": "Mūzikas faili sinhronizēti"
+   },
+   "7952631219945281814": {
+      "message": "Atskaņot"
+   },
+   "7954850519963017242": {
+      "message": "pirms $NUM$ dienas",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Arābu zīme Sanah"
+   },
+   "7971435248407627299": {
+      "message": "Pirkt šī izpildītāja ierakstus"
+   },
+   "7973992586253470062": {
+      "message": "Varat atjaunot visas savas dziesmas, atskaņošanas sarakstus un radiostacijas, atkārtoti abonējot pakalpojumu Google Play mūzika."
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 mapju}=1{1 mape}zero{# mapju}one{# mape}other{# mapes}}"
+   },
+   "7980428538910137664": {
+      "message": "Bezmaksas un iegādātās"
+   },
+   "7984622936663451936": {
+      "message": "Tastatūra un lietotāja saskarne"
+   },
+   "7985095810697977698": {
+      "message": "Nevarēja atskaņot dziesmu; tā tika izlaista."
+   },
+   "7985393396166342590": {
+      "message": "Tiek atsākta mūzikas pievienošana"
+   },
+   "7986036379595086541": {
+      "message": "Lejupielādēt Flash"
+   },
+   "7993253982214922593": {
+      "message": "Nevarēja pārveidot atskaņošanas sarakstu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "8001758142015238809": {
+      "message": "Pagaidu kļūda. Tiks vēlreiz mēģināts augšupielādēt."
+   },
+   "8019982600883750632": {
+      "message": "Taisnot"
+   },
+   "8020892463961333112": {
+      "message": "Mūzikas simbols: līgas beigas"
+   },
+   "8024675506077392847": {
+      "message": "Nevarēja ielādēt nākamo dziesmu."
+   },
+   "8030037581414873660": {
+      "message": "Hanu 2 vilkumu saknes"
+   },
+   "803032414305825807": {
+      "message": "Fonta lielums"
+   },
+   "803376120920513357": {
+      "message": "pirms $NUM$ dienām",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Nevarēja abonēt atskaņošanas sarakstu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "8045052194324740729": {
+      "message": "Nevar atskaņot miskastē esošās dziesmas."
+   },
+   "8066747296553908214": {
+      "message": "Dubultā ieslīpā defise"
+   },
+   "8068927414377765815": {
+      "message": "Neierobežotā abonementa bezmaksas periods"
+   },
+   "8079910440926315659": {
+      "message": "Manas kolekcijas"
+   },
+   "8082269310659310085": {
+      "message": "Pievienojiet savu mūzikas bibliotēku pakalpojumam Google Play bez maksas, lai varētu piekļūt visām savām dziesmām un atskaņošanas sarakstiem no jebkuras vietas."
+   },
+   "8090573223674035778": {
+      "message": "Nav atrasta neviena dziesma."
+   },
+   "8091296789916436542": {
+      "message": "Augšupvērsta bultiņa"
+   },
+   "8091730284748549858": {
+      "message": "Augšupielādētās dziesmas:"
+   },
+   "8103896406469064157": {
+      "message": "Pirkt albumu"
+   },
+   "8108269900031160878": {
+      "message": "Jauna radiostacija"
+   },
+   "8117334786308416184": {
+      "message": "Jums nebūs jāmaksā par standarta pakalpojumu."
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Nevienai dziesmai nav pārsniegts lejupielādes ierobežojums.}=1{Dziesma “{XXX_1}” jau ir lejupielādēta {DOWNLOAD_COUNT_MAX} reizi, un tā netiks lejupielādēta vēlreiz.}=2{Dziesmas “{XXX_1}” un “{XXX_2}” jau ir lejupielādētas {DOWNLOAD_COUNT_MAX} reizes, un tās netiks lejupielādētas vēlreiz.}=3{Dziesmas “{XXX_1}”, “{XXX_2}” un “{XXX_3}” jau ir lejupielādētas {DOWNLOAD_COUNT_MAX} reizes, un tās netiks lejupielādētas vēlreiz.}=4{Dziesmas “{XXX_1}”, “{XXX_2}” un “{XXX_3}” un vēl viena atlasītā dziesma jau ir lejupielādēta {DOWNLOAD_COUNT_MAX} reizes, un tās netiks lejupielādētas vēlreiz.}zero{\"{XXX_1},\" \"{XXX_2},\" \"{XXX_3},\" and {XXX_4} other selected songs have already been downloaded {DOWNLOAD_COUNT_MAX} times and will not be downloaded.}one{Dziesmas “{XXX_1}”, “{XXX_2}” un “{XXX_3}” un vēl {XXX_4} atlasītā dziesma jau ir lejupielādēta {DOWNLOAD_COUNT_MAX} reizi, un tās netiks lejupielādētas vēlreiz.}other{Dziesmas “{XXX_1}”, “{XXX_2}” un “{XXX_3}” un vēl {XXX_4} atlasītās dziesmas jau ir lejupielādētas {DOWNLOAD_COUNT_MAX} reizes, un tās netiks lejupielādētas vēlreiz.}}"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8140841959031615975": {
+      "message": "Informēt mani par jaunumiem un piedāvājumiem pakalpojumā Google Play mūzika"
+   },
+   "8144474297019493415": {
+      "message": "Pēdējās pievienotās"
+   },
+   "8146596754377240594": {
+      "message": "Iegādāta un augšupielādēta"
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} diena}zero{{TEXT} dienu}one{{TEXT} diena}other{{TEXT} dienas}}"
+   },
+   "8159976291123989327": {
+      "message": "Saites rediģēšana"
+   },
+   "8164181638219836623": {
+      "message": "Klausieties šo un miljoniem citu dziesmu par viena albuma cenu."
+   },
+   "8164274980045228173": {
+      "message": "Uznires virziena formatēšana"
+   },
+   "8164897103619368290": {
+      "message": "Numurēts saraksts"
+   },
+   "8165704157728763113": {
+      "message": "Atsaukt"
+   },
+   "8174689178967388837": {
+      "message": "#. ieraksts"
+   },
+   "8189292800881030056": {
+      "message": "Iestatījumi"
+   },
+   "8191208612330635266": {
+      "message": "Tibetiešu"
+   },
+   "8192298658946835992": {
+      "message": "Nulles platuma nedalāmā atstarpe"
+   },
+   "8193509313274135818": {
+      "message": "Arābu kājenes atzīme"
+   },
+   "819996403327805209": {
+      "message": "Uzzināt vairāk"
+   },
+   "8206726262986846319": {
+      "message": "Pievienojiet aprakstu..."
+   },
+   "8211291274045842022": {
+      "message": "Saglabāt"
+   },
+   "8218742086474913860": {
+      "message": "Iestatījumi"
+   },
+   "8221494968176924260": {
+      "message": "Mans atskaņošanas saraksts"
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{Nevar pievienot 1 dziesmu.}zero{Nevar pievienot {NUM_FAILURES_2} dziesmas.}one{Nevar pievienot {NUM_FAILURES_2} dziesmu.}other{Nevar pievienot {NUM_FAILURES_2} dziesmas.}}"
+   },
+   "823405029831570152": {
+      "message": "Etiopiešu"
+   },
+   "8239380670132570074": {
+      "message": "Pagaidu failu nevar atvērt"
+   },
+   "8249329268828083858": {
+      "message": "Katakana-hiragana dubultā defise"
+   },
+   "8270050108993507863": {
+      "message": "Īslaicīga kļūda"
+   },
+   "8275689791574630480": {
+      "message": "Ogamiskā atstarpes atzīme"
+   },
+   "8277279706638733641": {
+      "message": "Zvaigznītes"
+   },
+   "8286384050114068255": {
+      "message": "NaCl versija: $NACL_VERSION$",
+      "placeholders": {
+         "NACL_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "828700836558117968": {
+      "message": "Google Play mūzika"
+   },
+   "8300572760144032022": {
+      "message": "Izveidojiet jaunu radiostaciju, pamatojoties uz atlasīto dziesmu."
+   },
+   "8318351532672778337": {
+      "message": "Meklējot līdzīgas dziesmas, radās kļūda."
+   },
+   "8325100368677049569": {
+      "message": "Jaunas mūzikas atklāšana"
+   },
+   "8325448456109367196": {
+      "message": "Ieteicams: $FIRST$ no $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "83269369505381942": {
+      "message": "Rādīt mini atskaņotāju"
+   },
+   "832937245462232146": {
+      "message": "Mūzikas pārvaldnieks ir pieejams tikai operētājsistēmās Windows un Mac."
+   },
+   "8332701383328442759": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Vai pievienot dublētu dziesmu?}zero{Vai pievienot dublētas dziesmas?}one{Vai pievienot dublētas dziesmas?}other{Vai pievienot dublētas dziesmas?}}"
+   },
+   "8338465287076872825": {
+      "message": "Nevar nolasīt mūziku no faila"
+   },
+   "8345920736862214017": {
+      "message": "Sūtīt man pa e-pastu Google Play jaunumus un piedāvājumus"
+   },
+   "8354485392494886744": {
+      "message": "Meklējot radiostaciju, radās kļūda."
+   },
+   "8358697777226306085": {
+      "message": "Ēģiptiešu hieroglifi"
+   },
+   "8363930857329550333": {
+      "message": "Gruzīnu"
+   },
+   "8373317019673128487": {
+      "message": "Nevarēja izgūt populārāko dziesmu sarakstus. Lūdzu, mēģiniet vēlreiz."
+   },
+   "838509699315651621": {
+      "message": "Šī dziesma jau atrodas šajā atskaņošanas sarakstā."
+   },
+   "8385464685117997940": {
+      "message": "Nesen atskaņots"
+   },
+   "8386555666648700714": {
+      "message": "Populārākās dziesmas"
+   },
+   "8391581291751536341": {
+      "message": "Lai pievienotu mūziku, pierakstieties pārlūkā Chrome"
+   },
+   "839191432326662975": {
+      "message": "Jaunināt tagad"
+   },
+   "8395180429531273524": {
+      "message": "Kādēļ manā ierīcē nevar izmantot šo piedāvājumu?"
+   },
+   "8405156617531647050": {
+      "message": "Šķiet, ka jūs jau esat izmēģinājis pakalpojumu Google Play mūzika."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Pierakstīties"
+   },
+   "8412726756889279816": {
+      "message": "Čakma"
+   },
+   "8421838551605999158": {
+      "message": "1. Saglabājiet failu musicmanagerinstaller.exe."
+   },
+   "8424326418312855409": {
+      "message": "Iestatot lietotni Google Play mūzika, radās problēma."
+   },
+   "842631328362018283": {
+      "message": "Liels"
+   },
+   "8428663377262400192": {
+      "message": "Atsaukt dzēšanu"
+   },
+   "8432562579042371182": {
+      "message": "Opcijas"
+   },
+   "8437015452970026040": {
+      "message": "Ir sasniegts kolekcijas ierobežojums. Lūdzu, noņemiet dažas dziesmas, ja vēlaties pievienot jaunas."
+   },
+   "8439955599488894226": {
+      "message": "Konf. politika"
+   },
+   "8440128775129354214": {
+      "message": "Konfidencialitāte"
+   },
+   "8454237498473122184": {
+      "message": "Mīnusa zīme"
+   },
+   "8455204924704616723": {
+      "message": "Fails"
+   },
+   "8458476427655018512": {
+      "message": "Atstarpe"
+   },
+   "8473179749546646244": {
+      "message": "Rediģēt atskaņošanas sarakstu"
+   },
+   "8475200466049973862": {
+      "message": "Palīdzība un atsauksmes"
+   },
+   "8482517151370142670": {
+      "message": "Cits"
+   },
+   "848933194605193751": {
+      "message": "Nesen skatītie videoklipi pakalpojumā YouTube"
+   },
+   "8492241415183649700": {
+      "message": "Kāriešu"
+   },
+   "8499447471548910222": {
+      "message": "Vislabākais no pakalpojumiem Google Play mūzika un Songza"
+   },
+   "8524322739067915993": {
+      "message": "pēcpusdienā"
+   },
+   "8534388655421912616": {
+      "message": "Izveidot atskaņošanas sarakstu"
+   },
+   "8534560073330554352": {
+      "message": "Atskaņošanas reižu skaits"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8555110612122470863": {
+      "message": "Vai, atrodoties ārpus mājas, dzirdat dziesmu, kas jums patīk? Android tālruņa vai planšetdatora sākuma ekrānā pieskarieties mikrofonam. Google Play atpazīs dziesmu un pievienos to atskaņošanas sarakstam “Skaņas meklēšana”. Varat arī izmantot lietotni “Google skaņas meklēšana”."
+   },
+   "8564202903947049539": {
+      "message": "Atskaņot"
+   },
+   "8569810095307793307": {
+      "message": "Kopīgot"
+   },
+   "85722067506930001": {
+      "message": "Mūzika no šī datora"
+   },
+   "8574837452871464527": {
+      "message": "Dziesmas, kas nesen pievienotas jūsu kolekcijai, tiek automātiski pievienotas šim atskaņošanas sarakstam."
+   },
+   "8589312850222732709": {
+      "message": "Nepiekrītu"
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Saņemiet palīdzību par lietotnes Mūzikas pārvaldnieks noņemšanu$END_LINK$ no datora.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8606325754052632992": {
+      "message": "Lai varētu ātri augšupielādēt mūziku, pakalpojumā Google Play tiek meklēta jūsu mūzikas failu atbilstība to kopijām mūsu serverī. Iespējams, dažkārt kā atbilstoša var tikt atrasta nepareiza dziesma. Ziņojiet par problēmu šeit, un dziesmas tiks augšupielādētas vēlreiz."
+   },
+   "8608281335099046628": {
+      "message": "Notiek mūzikas failu apstrāde..."
+   },
+   "8619410898472620495": {
+      "message": "Lai atsāktu atskaņošanu, tīmeklī apmeklējiet pakalpojumu Google Play mūzika."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{pēc # minūšu}=1{pēc # minūtes}zero{pēc # minūtēm}one{pēc # minūtes}other{pēc # minūtēm}}"
+   },
+   "8628766851955432422": {
+      "message": "Noņemt"
+   },
+   "8630028808550905639": {
+      "message": "Saglabāt nosaukumu"
+   },
+   "8637643428005590282": {
+      "message": "Zīmes"
+   },
+   "8638658475445596481": {
+      "message": "Skatīties videoklipu"
+   },
+   "8639048757911329468": {
+      "message": "NaCl versija: $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8653280996780422242": {
+      "message": "Kopīgošana pakalpojumā Google+"
+   },
+   "8664627357655793747": {
+      "message": "Noņemt albumu no Manas bibliotēkas"
+   },
+   "8665018009183785397": {
+      "message": "Automātisko atskaņošanas sarakstu nevarēja atvērt. Lūdzu, mēģiniet vēlreiz."
+   },
+   "8666351791312579381": {
+      "message": "Noņemt no atskaņošanas saraksta"
+   },
+   "8668688673488857062": {
+      "message": "Izmēģināt tūlīt"
+   },
+   "8671684945688802001": {
+      "message": "Radio"
+   },
+   "8674371043496677979": {
+      "message": "No šāda albuma: $START_LINK$$TITLE$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679801900555683146": {
+      "message": "Populārākās dziesmas — $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Mēģināt vēlreiz"
+   },
+   "8714704615820746714": {
+      "message": "Pievienot albumu Manai bibliotēkai"
+   },
+   "8728114267472692076": {
+      "message": "Kolekcija: $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "8733921970136713647": {
+      "message": "Atcelt abonementu"
+   },
+   "8741366833297918126": {
+      "message": "Dziesmas ilgums"
+   },
+   "8745106958984934964": {
+      "message": "Albuma dzēšana"
+   },
+   "875046332706257024": {
+      "message": "Automātisks atskaņošanas saraksts"
+   },
+   "8755406602135059846": {
+      "message": "Nākamā rēķina datums:"
+   },
+   "8763647985340267403": {
+      "message": "Spēļu figūras"
+   },
+   "8764339661945610128": {
+      "message": "Rādīt citus izpildītājus"
+   },
+   "8766543515727166681": {
+      "message": "Statuss:"
+   },
+   "8768143964455071187": {
+      "message": "Ogamiskais raksts"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanua"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{pirms # stundu}=1{pirms # stundas}zero{pirms # stundām}one{pirms # stundas}other{pirms # stundām}}"
+   },
+   "8783860497272382218": {
+      "message": "Mūzikas konts"
+   },
+   "8787014632487519603": {
+      "message": "Tika atklāta atšifrēšanas kļūda. Lūdzu, pārbaudiet sākotnējo failu un to atkārtoti augšupielādējiet. Dziesma izlaista."
+   },
+   "8801527171487571079": {
+      "message": "Lanna"
+   },
+   "8801801881586334412": {
+      "message": "Populārākie albumi"
+   },
+   "880592275679936810": {
+      "message": "Pievienoti $START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ ieraksti",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8818387952529569142": {
+      "message": "Šodien"
+   },
+   "8819361322041128714": {
+      "message": "Ugaritiešu"
+   },
+   "8833465340266211620": {
+      "message": "Visa mūzika"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Esiet uzmanīgs!$POSTB$ Ņemiet vērā, ka ikreiz, kad ievietojat e-pasta adresi tīmekļa lapā, to var atrast arī nevēlami mēstuļu sūtītāji.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Arābu cipara zīme"
+   },
+   "8851087571415944440": {
+      "message": "Kopīgot izpildītāja lapu"
+   },
+   "8858058202463451164": {
+      "message": "Līdzināt pa kreisi"
+   },
+   "8868784738343119594": {
+      "message": "pirms $NUM$ minūtes",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8871219022895015530": {
+      "message": "Pievieno pašreiz atlasītās dziesmas rindai"
+   },
+   "8878672521198764118": {
+      "message": "Atskaņot nākamo"
+   },
+   "8890553633144307762": {
+      "message": "Atpakaļ"
+   },
+   "8892247938951013000": {
+      "message": "Nevarēja pievienot atskaņošanas sarakstam. Lūdzu, mēģiniet vēlreiz."
+   },
+   "8894377483833272091": {
+      "message": "Cena"
+   },
+   "8896073810838561095": {
+      "message": "Hanu 8 vilkumu saknes"
+   },
+   "8899085282664652923": {
+      "message": "Pievienot karti"
+   },
+   "8901076355007755806": {
+      "message": "Lepča"
+   },
+   "8910998670732377227": {
+      "message": "Mēģināt vēlreiz"
+   },
+   "8925271759659767084": {
+      "message": "Bezmaksas un iegādātās"
+   },
+   "8927347742340521388": {
+      "message": "Saglabāt rindu"
+   },
+   "8928637810128871106": {
+      "message": "Biogrāfija"
+   },
+   "8928816882866356838": {
+      "message": "Publiski"
+   },
+   "8931700495296520714": {
+      "message": "Aizvērt mini atskaņotāju"
+   },
+   "8934299821763129489": {
+      "message": "Senitāļu"
+   },
+   "8935906689399307581": {
+      "message": "Jums vēl nav nevienas līdzīgo dziesmu kolekcijas."
+   },
+   "8936704404804793618": {
+      "message": "Videoklipi"
+   },
+   "8953033926734869941": {
+      "message": "Nosaukums"
+   },
+   "8958033065100662697": {
+      "message": "Rādīt mini atskaņotāju"
+   },
+   "8958381934236197373": {
+      "message": "Rakstzīmes platuma atstarpe"
+   },
+   "8961985815150856927": {
+      "message": "Nesen izveidots"
+   },
+   "8967493310012272750": {
+      "message": "Radiostacija “$NAME$”",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8969573585280830171": {
+      "message": "Situācijai piemērotas mūzikas atskaņošana..."
+   },
+   "8971282019539581965": {
+      "message": "Aizvērt dialoglodziņu “Par”"
+   },
+   "8971922573880887079": {
+      "message": "Klausīties tūlīt netiek rādīta neviena dziesma."
+   },
+   "8979933913103486540": {
+      "message": "Atdalāmā zīme/savienotājs"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{Lejupielādēta 1 dziesma}zero{Lejupielādētas {NUM_TRANSFERRED_TRACKS_2} dziesmas}one{Lejupielādēta {NUM_TRANSFERRED_TRACKS_2} dziesma}other{Lejupielādētas {NUM_TRANSFERRED_TRACKS_2} dziesmas}}"
+   },
+   "8992323138519095501": {
+      "message": "$SONG_TITLE$, $ARTIST_NAME$ — Google Play mūzikas mini atskaņotājs",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         },
+         "SONG_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8998527640999447691": {
+      "message": "Apvilkts"
+   },
+   "9000028459946302905": {
+      "message": "Dzēst visu Manā bibliotēkā augšupielādēto mūziku ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "9000910334745340727": {
+      "message": "Mongoļu pārnesumzīme"
+   },
+   "9001309834415064766": {
+      "message": "Hanu 10 vilkumu saknes"
+   },
+   "900324017077910336": {
+      "message": "Atlasiet vienu vai vairākas dziesmas, lai veiktu darbības."
+   },
+   "901225307358856093": {
+      "message": "Kanādiešu zilbju defise"
+   },
+   "9012509553041337814": {
+      "message": "Pašlaik tiek augšupielādēta:"
+   },
+   "9019709040769999482": {
+      "message": "Abonēt"
+   },
+   "902300864627076683": {
+      "message": "Iegravējumu partiešu"
+   },
+   "9024489874326845912": {
+      "message": "Ieteikts albums"
+   },
+   "9025611318328641299": {
+      "message": "Lejupielāde neizdevās. Lūdzu, mēģiniet vēlreiz."
+   },
+   "9041115288963933531": {
+      "message": "Rediģēt albuma informāciju"
+   },
+   "9042260521669277115": {
+      "message": "Apturēt"
+   },
+   "9045338265172338590": {
+      "message": "Manipūru"
+   },
+   "9053704575157030099": {
+      "message": "Neviens"
+   },
+   "9059560719840598868": {
+      "message": "Sūtīt atsauksmes"
+   },
+   "9059682914934349232": {
+      "message": "Anulēt abonementu"
+   },
+   "9063659532473030063": {
+      "message": "Meteoroloģiskās un astroloģiskās zīmes"
+   },
+   "908288323950111351": {
+      "message": "Nevar pievienot abonētam atskaņošanas sarakstam."
+   },
+   "9083651304440098531": {
+      "message": "Dzēst augšupielādēto mūziku"
+   },
+   "9084816336314899019": {
+      "message": "Turpināt"
+   },
+   "9092976405151508175": {
+      "message": "Atcelt atsaukšanu"
+   },
+   "9098679347815545327": {
+      "message": "Nevarēja izveidot atskaņošanas sarakstu. Lūdzu, mēģiniet vēlreiz."
+   },
+   "9104232341234454503": {
+      "message": "Neierobežots mūzikas daudzums"
+   },
+   "9111239821213364249": {
+      "message": "Izmēģiniet neierobežotu piekļuvi mūzikai. Pirmās 30 dienas — bez maksas!"
+   },
+   "9143597363285105250": {
+      "message": "Albuma izpildītājs:"
+   },
+   "9146442984180362252": {
+      "message": "Šo staciju nevarēja atskaņot. Lūdzu, mēģiniet vēlreiz."
+   },
+   "91630758368920163": {
+      "message": "Albumu kolekcijas"
+   },
+   "9166484956835481697": {
+      "message": "Dziesmas, kurām piešķirts vērtējums “patīk”, tiek automātiski pievienotas šim atskaņošanas sarakstam."
+   },
+   "9173411042808904308": {
+      "message": "Parasts/serifa"
+   },
+   "9179661003472285430": {
+      "message": "Lietotnes Mūzikas pārvaldnieks lejupielāde"
+   },
+   "9184426509557869402": {
+      "message": "Ideogrāfiskā atstarpe"
+   },
+   "9193901371937110673": {
+      "message": "Nav autorizēta neviena ierīce"
+   },
+   "9197433560254928186": {
+      "message": "Arābu"
+   },
+   "9204873585256670431": {
+      "message": "$COUNT$ ATSKAŅOŠANAS REIZE(-ES)",
+      "placeholders": {
+         "COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "9205544184671349450": {
+      "message": "Šķiet, ka jums šajā datorā jau ir mūzika."
+   },
+   "9212705249340904752": {
+      "message": "Pārlūkot"
+   },
+   "9214517335069385090": {
+      "message": "Varat arī..."
+   },
+   "9217684488226619999": {
+      "message": "Kļūda, apstrādājot kuponu"
+   },
+   "9218938714985695055": {
+      "message": "Mūzikas simbols: līgas sākums"
+   },
+   "933914956414602837": {
+      "message": "Lai ātrāk augšupielādētu jūsu mūziku, Google Play atrod jūsu mūzikas failiem atbilstošās kopijas pakalpojuma serverī. Dažkārt dziesmas atbilstība var tikt noteikta kļūdaini. Ziņojiet par problēmu šeit, un dziesmai atbilstības kopijas vietā tiks izmantota jūsu kopija."
+   },
+   "935985887697278449": {
+      "message": "Esošs abonents"
+   },
+   "947591000172763449": {
+      "message": "Pagspa"
+   },
+   "949327761578931377": {
+      "message": "Turpiniet klausīšanos par $OFFER_PRICE$ mēnesī.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "949618577357088829": {
+      "message": "Izveidot jaunu atskaņošanas sarakstu"
+   },
+   "953268105555355822": {
+      "message": "Skatīt visu"
+   },
+   "95869773684474447": {
+      "message": "Atskaņošanas kļūda"
+   },
+   "964983733596985457": {
+      "message": "Saderība"
+   },
+   "97224266342934568": {
+      "message": "Augšraksts"
+   },
+   "985263455839572191": {
+      "message": "Vairākas dziesmas jūsu bibliotēkā"
+   },
+   "997271731344372647": {
+      "message": "Lejupvērsta bultiņa"
+   },
+   "997742287268027221": {
+      "message": "Neizdevās augšupielādēt failu"
+   }
+}

@@ -1,0 +1,12 @@
+var debugMode = false;
+var MITRO_HOST = 'www.mitro.co';
+var MITRO_PORT = 443;
+var MITRO_AGENT_HOST = 'mitroaccess.com';
+var MITRO_AGENT_PORT = 443;
+var FAILOVER_MITRO_HOST = 'secondary.mitro.ca';
+var FAILOVER_MITRO_PORT = 443;
+var FIREFOX;
+var CHROME;
+var SAFARI;
+var WEBPAGE;
+CHROME = true;

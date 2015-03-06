@@ -1,0 +1,1 @@
+var csvutil={};(function(){csvutil.toCSV=function(e){for(var a="",d=0;d<e.length;d++){for(var f=e[d],c=0;c<f.length;c++){0!==c&&(a+=",");var b=f[c].toString();b.match(/[\r\n,"]/)&&(b=b.replace(/"/g,'""'),b='"'+b+'"');a+=b}a+="\n"}return a};"undefined"!==typeof module&&module.exports&&(module.exports=csvutil)})();

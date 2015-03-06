@@ -1,0 +1,5061 @@
+{
+   "1008774365351112026": {
+      "message": "Ajouter l'attribut « $REL_NO_FOLLOW$ » ($LINK_START$En savoir plus$LINK_END$)",
+      "placeholders": {
+         "LINK_END": {
+            "content": "$1"
+         },
+         "LINK_START": {
+            "content": "$2"
+         },
+         "REL_NO_FOLLOW": {
+            "content": "$3"
+         }
+      }
+   },
+   "1013295359134966511": {
+      "message": "Normal"
+   },
+   "1018015195679239708": {
+      "message": "Téléverser ma musique"
+   },
+   "1026450251988549367": {
+      "message": "Modifiés récemment"
+   },
+   "1035734413919296": {
+      "message": "Ajouter de la musique"
+   },
+   "1044946868924904798": {
+      "message": "Aucune connexion"
+   },
+   "1047094450854611275": {
+      "message": "Le mini-lecteur vous permet de commander la lecture de la musique en dehors de la fenêtre du navigateur, d'indiquer que vous aimez des chansons et d'écouter la station de radio « J'ai de la chance »."
+   },
+   "1052242579040192537": {
+      "message": "Syllabaires autochtones canadiens"
+   },
+   "10524368647766690": {
+      "message": "#"
+   },
+   "1053534453293466081": {
+      "message": "Rechercher de la musique"
+   },
+   "1061567929494389534": {
+      "message": "Impossible de récupérer les stations de radio. Veuillez réessayer."
+   },
+   "1061598772078003048": {
+      "message": "Terminateur d'annotation interlinéaire"
+   },
+   "1065557748112539713": {
+      "message": "Interruption du téléchargement de musique en cours…"
+   },
+   "1072679467482196927": {
+      "message": "La fonctionnalité « À écouter » vous propose de la musique personnalisée en fonction des chansons que vous écoutez."
+   },
+   "108223358531234113": {
+      "message": "Afficher le message"
+   },
+   "108743912460085743": {
+      "message": "Priorité de gauche à droite"
+   },
+   "1105024870503318889": {
+      "message": "Ajouter ma musique"
+   },
+   "1112993314938741781": {
+      "message": "Raccourcis clavier"
+   },
+   "1113263297279724213": {
+      "message": "Supprimer toute la bibliothèque"
+   },
+   "1128573996588450958": {
+      "message": "{NUM_SONGS,plural, =1{Chanson remplacée}one{Chanson remplacée}other{Chansons remplacées}}"
+   },
+   "1128787885076347414": {
+      "message": "En savoir plus"
+   },
+   "113306301971655652": {
+      "message": "Marque gauche à droite"
+   },
+   "1144407473317535723": {
+      "message": "S'abonner"
+   },
+   "1144614654642966892": {
+      "message": "Annuler l'abonnement au service (vous pourrez continuer à l'utiliser jusqu'à votre prochaine facture)."
+   },
+   "1145877575671354635": {
+      "message": "Actualiser la bibliothèque"
+   },
+   "1147358182484006761": {
+      "message": "Magasiner"
+   },
+   "1150285978886683433": {
+      "message": "Activer ou désactiver la répétition d'une chanson ou de toutes les chansons"
+   },
+   "1152313922995021532": {
+      "message": ".rpm 64 bits (pour Fedora/openSUSE)"
+   },
+   "1154038900035351894": {
+      "message": "Flèche gauche"
+   },
+   "1165829070116929673": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{1 chanson ajoutée}one{{NUM_TRANSFERRED_TRACKS_2} chanson ajoutée}other{{NUM_TRANSFERRED_TRACKS_2} chansons ajoutées}}"
+   },
+   "1168628503345801417": {
+      "message": "Votre abonnement est terminé"
+   },
+   "1171793945142161924": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} minute}one{{TEXT} minute}other{{TEXT} minutes}}"
+   },
+   "117315057265021884": {
+      "message": "Résultats de la recherche"
+   },
+   "1179345224084080955": {
+      "message": "Le type de votre compte a été modifié. Veuillez actualiser la page pour continuer."
+   },
+   "1180592962653525250": {
+      "message": "Démarrer la radio par genre"
+   },
+   "1182611188595867762": {
+      "message": "2. Lorsque le programme d'installation s'ouvre, suivez les instructions pour configurer Music Manager."
+   },
+   "1182777319789922853": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{1 titre supprimé}one{# titre supprimé}other{# titres supprimés}}"
+   },
+   "1189933439482480473": {
+      "message": "Le nombre maximal de chansons autorisées a été atteint."
+   },
+   "119578115745431571": {
+      "message": "&lt;Maj&gt; + Flèche gauche"
+   },
+   "1199404479601093922": {
+      "message": "Supprimer la liste de lecture"
+   },
+   "1199508431214660096": {
+      "message": "Modifier le nom de la station"
+   },
+   "120015775655919987": {
+      "message": "Vidéos"
+   },
+   "1217488014235078691": {
+      "message": "Oups... Une erreur s'est produite. Veuillez réessayer plus tard."
+   },
+   "1218504303426384579": {
+      "message": "Albums"
+   },
+   "1221013552116658505": {
+      "message": "Description de l'album"
+   },
+   "1227051853106034748": {
+      "message": "Impossible de revenir en arrière ni d'effectuer une avance rapide au sein des aperçus."
+   },
+   "1230154438678955604": {
+      "message": "Modifier"
+   },
+   "1233161892151828431": {
+      "message": "Italique"
+   },
+   "1238301293250329924": {
+      "message": "Palmarès des chansons"
+   },
+   "1238358838717941284": {
+      "message": "Extrait"
+   },
+   "1248987958177161816": {
+      "message": "Modifier le code HTML source"
+   },
+   "1275783181441501836": {
+      "message": "Séparateur de paragraphe"
+   },
+   "128003684539571261": {
+      "message": "Devise"
+   },
+   "1285275266778940235": {
+      "message": "Artistes associés"
+   },
+   "1288885129710503327": {
+      "message": "3. Ouvrez le dossier \"Applications\", puis double-cliquez sur Google Music Manager."
+   },
+   "1291021741111868686": {
+      "message": ".deb 64 bits (pour Debian/Ubuntu)"
+   },
+   "1295614462098694869": {
+      "message": "Extrait"
+   },
+   "129672981680457789": {
+      "message": "Hanounóo"
+   },
+   "129735259563363358": {
+      "message": "Récentes"
+   },
+   "1298977676518891693": {
+      "message": "Flèche droite"
+   },
+   "1303647473723340887": {
+      "message": "Sélectionner l'élément situé au-dessus de celui sélectionné"
+   },
+   "131636849522359023": {
+      "message": "Fourni sous $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1322760568010635524": {
+      "message": "$XXX$ visionnement",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "1323976084081772130": {
+      "message": "Lire les chansons de cet artiste en mode aléatoire"
+   },
+   "1327813348141810372": {
+      "message": "Bamoum"
+   },
+   "1332300409905532739": {
+      "message": "Ajouter l'album à la file d'attente"
+   },
+   "1341185708905265042": {
+      "message": "CD n°"
+   },
+   "1345511732360402048": {
+      "message": "Orkhon"
+   },
+   "1357694012211254786": {
+      "message": "Nouveautés"
+   },
+   "1361015519033136245": {
+      "message": "Le service Clé YouTube Musique est maintenant inclus dans votre abonnement Google Play Musique. Regardez des vidéoclips de vos chansons préférées et profitez de la lecture en arrière-plan et des vidéos sans publicité et hors ligne sur YouTube."
+   },
+   "1370021378292702047": {
+      "message": "\"$SONG_TITLE$\" marqué comme correspondance incorrecte",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "1371740036554737757": {
+      "message": "Impossible de supprimer la chanson. Veuillez réessayer."
+   },
+   "1372720741032795625": {
+      "message": "Activer ou désactiver la lecture aléatoire"
+   },
+   "1372788343021542418": {
+      "message": "Pour utiliser le mini-lecteur, connectez-vous à Google Play Musique sur le Web."
+   },
+   "1378511101546569884": {
+      "message": "Votre musique sera mise en pause après plusieurs heures d'inactivité sur Google Play."
+   },
+   "1382005717519484629": {
+      "message": "Espace blanc"
+   },
+   "1384629324383144300": {
+      "message": "Avec des artistes similaires à $NAME$",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "1390494944545164819": {
+      "message": "Ajouter à une liste de lecture"
+   },
+   "1393837337557373364": {
+      "message": "Album"
+   },
+   "1400267981031628410": {
+      "message": "{NUM,plural, =1{1 commentaire}one{{XXX} commentaire}other{{XXX} commentaires}}"
+   },
+   "1404225614691686373": {
+      "message": "Musique illimitée$START_BREAK$avec GooglePlay",
+      "placeholders": {
+         "START_BREAK": {
+            "content": "$1"
+         }
+      }
+   },
+   "1423982292412680326": {
+      "message": "Pour ajouter de la musique à partir de cet ordinateur, connectez-vous à Chrome avec le compte $USER_EMAIL$.",
+      "placeholders": {
+         "USER_EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "142620397708685601": {
+      "message": "Entrez une couleur personnalisée, comme le rose : #F00, #D015FF ou rgb(100, 50, 25)."
+   },
+   "1430061825590893722": {
+      "message": "Ouvrir ce lien dans une nouvelle fenêtre"
+   },
+   "1432988087599368801": {
+      "message": "Supprimer définitivement toute la musique achetée ou téléversée de mon compte"
+   },
+   "1433391846042476830": {
+      "message": "Hier"
+   },
+   "1435809990540516997": {
+      "message": "Ajout de musique en cours…"
+   },
+   "1437711804178113227": {
+      "message": "Cette chanson comportait des paroles explicites avant d'être modifiée."
+   },
+   "1441698742050996996": {
+      "message": "Bloquer les titres au contenu explicite dans les mix instantanés"
+   },
+   "1444145448465775598": {
+      "message": "Annuler"
+   },
+   "1453708590388513852": {
+      "message": "Technique"
+   },
+   "1461565629721172513": {
+      "message": "Impossible de lire la liste de lecture. Veuillez réessayer."
+   },
+   "1464072562214937907": {
+      "message": "Année"
+   },
+   "1483596119706515744": {
+      "message": "Bougui"
+   },
+   "1486857306659217748": {
+      "message": "Ignorer"
+   },
+   "1487523984872879956": {
+      "message": "Cadratin"
+   },
+   "1490665788833937521": {
+      "message": "Télécharger le mini-lecteur"
+   },
+   "1494946186465201682": {
+      "message": "Annuler"
+   },
+   "1503651704846189916": {
+      "message": "Mix d'artistes"
+   },
+   "1504214836895903832": {
+      "message": "Impossible de se connecter"
+   },
+   "1517865562673472241": {
+      "message": "1. Attendez que le programme d'installation ait terminé."
+   },
+   "15273314777805469": {
+      "message": "Google Play peut ajouter automatiquement de la musique à partir de cet ordinateur"
+   },
+   "1529406134757733750": {
+      "message": "{NUM_FAILURES_1,plural, =1{Impossible de télécharger une chanson}one{Impossible de télécharger {NUM_FAILURES_2} chanson}other{Impossible de télécharger {NUM_FAILURES_2} chansons}}"
+   },
+   "1536087519743707362": {
+      "message": "Ignorer"
+   },
+   "1550551291259184128": {
+      "message": "Fonctionnalités expérimentales"
+   },
+   "1558113021895652337": {
+      "message": "Le fichier est protégé par GDN"
+   },
+   "1561656335740427643": {
+      "message": "Télougou"
+   },
+   "1567787058497621332": {
+      "message": "Stockez toute votre musique en un seul et même endroit, puis écoutez-la sur votre téléphone intelligent, votre tablette et le Web."
+   },
+   "1573657685592390905": {
+      "message": "Sélectionnez un dossier..."
+   },
+   "1575810254412583888": {
+      "message": "Chansons"
+   },
+   "1577300263927664898": {
+      "message": "Nouvelle liste de lecture"
+   },
+   "1589304529933994754": {
+      "message": "Rechercher « $QUERY$ »",
+      "placeholders": {
+         "QUERY": {
+            "content": "$1"
+         }
+      }
+   },
+   "1592343229807767687": {
+      "message": "Impossible d'ajouter les chansons suivantes..."
+   },
+   "1595478688335662057": {
+      "message": "Un utilisateur de Google"
+   },
+   "1598061158801514509": {
+      "message": "Reprise du téléchargement de musique en cours…"
+   },
+   "1604878361972859546": {
+      "message": "Découvrir"
+   },
+   "1607904075839741217": {
+      "message": "Sélectionner des fichiers de votre ordinateur"
+   },
+   "1608366254248420770": {
+      "message": "Corriger la correspondance incorrecte"
+   },
+   "1615800076127848008": {
+      "message": "Taï-le"
+   },
+   "1625229324427014182": {
+      "message": "{NUM,plural, =0{dans # heure}=1{dans # heure}one{dans # heure}other{dans # heures}}"
+   },
+   "1635932785663944786": {
+      "message": "Numéro"
+   },
+   "1658346838703079243": {
+      "message": "Modifier"
+   },
+   "1666765550993208796": {
+      "message": "Ces titres présentent-ils des correspondances incorrectes?"
+   },
+   "1686917835491599951": {
+      "message": "Ajouté récemment à Ma bibliothèque"
+   },
+   "1689044830718067443": {
+      "message": "L'installation devrait commencer automatiquement dans quelques secondes. Besoin $START_LINK$d'aide$END_LINK$ ?",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "1698114086921246480": {
+      "message": "Se désabonner"
+   },
+   "1700078784075267898": {
+      "message": "Google Play Musique"
+   },
+   "1703526101107748406": {
+      "message": "Ajout de musique en cours…"
+   },
+   "1709114386311494800": {
+      "message": "Lien"
+   },
+   "1721299725717238391": {
+      "message": "Vous êtes déjà abonné. Les coupons ne sont actuellement offerts qu'aux nouveaux utilisateurs."
+   },
+   "1722592106949807025": {
+      "message": "Enregistrer les journaux de débogage"
+   },
+   "172500938828303105": {
+      "message": "Batak"
+   },
+   "1726363342938046830": {
+      "message": "À propos"
+   },
+   "1729815731089690989": {
+      "message": "Assurez-vous d'être connecté à Internet"
+   },
+   "1740651565757105206": {
+      "message": "Ensuite, téléchargez l'utilitaire Music Manager pour téléverser votre collection de musique. Vous pourrez ensuite écouter votre musique sur votre téléphone, votre tablette et votre ordinateur."
+   },
+   "1746899021995036865": {
+      "message": "Télécharger l'application"
+   },
+   "1751129087972897649": {
+      "message": "Araméen impérial"
+   },
+   "1758518900736299270": {
+      "message": "De la musique parfaite pour toutes les occasions et toutes vos stations Songza préférées, maintenant accessibles en ligne et hors ligne (sur votre téléphone ou votre tablette), sans publicité."
+   },
+   "1763795268257640974": {
+      "message": "Impossible de se désabonner de la liste de lecture. Veuillez réessayer."
+   },
+   "1766895304137749560": {
+      "message": "Titres similaires"
+   },
+   "1781759902625939771": {
+      "message": "Artiste inconnu"
+   },
+   "1788638555470055224": {
+      "message": "Réessayer"
+   },
+   "1790640569414740156": {
+      "message": "Genres"
+   },
+   "1796035532941100403": {
+      "message": "Diffuser"
+   },
+   "1796702769044958723": {
+      "message": ".deb 32 bits (pour Debian/Ubuntu)"
+   },
+   "1796718173266813947": {
+      "message": "Partager une vidéo YouTube"
+   },
+   "1800484940259837633": {
+      "message": "Cette action supprime également vos listes de lecture, vos stations de radio, les avis associés et tous les détails concernant le nombre de lectures."
+   },
+   "1800865039213871505": {
+      "message": "Accéder au lien : "
+   },
+   "1803865475179910876": {
+      "message": "Google Play Musique pour Chrome sur $PLATFORM$",
+      "placeholders": {
+         "PLATFORM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1815215443377299510": {
+      "message": "Fermer"
+   },
+   "1819368767424033007": {
+      "message": "Symboles historiques"
+   },
+   "1823843876735462104": {
+      "message": "Listes de lecture"
+   },
+   "1825906878343405520": {
+      "message": "Suggestion d'illustration"
+   },
+   "182621168783940405": {
+      "message": "Marque droite à gauche"
+   },
+   "1831178715211281116": {
+      "message": "Désolés, la promotion n'est valable que sur certains appareils Chrome OS. Voulez-vous quand même bénéficier de la musique en illimité?"
+   },
+   "1832150012773955797": {
+      "message": "Stations recommandées"
+   },
+   "1840907981785028220": {
+      "message": "Désolés, vous avez annulé l'autorisation de trop d'appareils."
+   },
+   "184252996364058487": {
+      "message": "0 minute"
+   },
+   "1850859858333664648": {
+      "message": "Toute la musique"
+   },
+   "1857207760765836958": {
+      "message": "$START_SPAN$Écoutez la radio et ignorez les titres de votre choix.$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "1860075031180562077": {
+      "message": "Symbole musical fin de phrasé"
+   },
+   "1872101028863972302": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ chansons téléchargées",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1873654242780262831": {
+      "message": "Sélectionner l'élément situé en dessous de celui sélectionné"
+   },
+   "1895431379485086633": {
+      "message": "Ajouter à Ma bibliothèque"
+   },
+   "190045585254551934": {
+      "message": "Syloti Nagri"
+   },
+   "1911052916191472518": {
+      "message": "Toutes mes chansons"
+   },
+   "1914372876923825240": {
+      "message": "Lien vers :"
+   },
+   "1918365676009482319": {
+      "message": "Les chansons très bien notées sont automatiquement ajoutées à cette liste de lecture."
+   },
+   "192481666606780833": {
+      "message": "Impossible de lire la musique."
+   },
+   "1930217656128916980": {
+      "message": "La page est actualisée lorsque vous enregistrez les modifications effectuées, ce qui interrompt la lecture de votre musique."
+   },
+   "1933601237976602790": {
+      "message": "Certaines parties du contenu sont protégées par les droits d'auteur de Gracenote ou de ses fournisseurs."
+   },
+   "193503854366151748": {
+      "message": "Voter contre la chanson en cours"
+   },
+   "1940036700249655109": {
+      "message": "Sélectionnez une vidéo à partager sur Google+"
+   },
+   "1945037339176024290": {
+      "message": "Englobé"
+   },
+   "1947306462789680361": {
+      "message": "il y a $NUM$ minutes",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "1958270821553124859": {
+      "message": "Symbole musical début de phrasé"
+   },
+   "1962559411793600980": {
+      "message": "Avestique"
+   },
+   "196613306402356666": {
+      "message": "Valider votre pays de résidence"
+   },
+   "1980398532913758377": {
+      "message": "$NUM_COMPUTERS$ ordinateurs",
+      "placeholders": {
+         "NUM_COMPUTERS": {
+            "content": "$1"
+         }
+      }
+   },
+   "1981687300412326534": {
+      "message": "Chinois – Radicaux à 9 traits"
+   },
+   "1989564869397178334": {
+      "message": "Titre"
+   },
+   "1994426929514890878": {
+      "message": "Effacer la file de lecture"
+   },
+   "199513751968160060": {
+      "message": "Veuillez mettre à jour Google Play Musique pour Chrome afin de profiter du mini lecteur et de la fonction de téléversement et de téléchargement."
+   },
+   "199551578154440068": {
+      "message": "Renommer"
+   },
+   "1996585593795647892": {
+      "message": "Ajouter ou supprimer un lien"
+   },
+   "2005272211699610673": {
+      "message": "Mix instantané"
+   },
+   "2006786763920466492": {
+      "message": "Date de suppression"
+   },
+   "2026335465374096346": {
+      "message": "Cliquer pour désactiver la lecture aléatoire"
+   },
+   "2027937032666164176": {
+      "message": "Supprimer"
+   },
+   "2028747142234068875": {
+      "message": "Recommandations personnalisées"
+   },
+   "2029955197089113110": {
+      "message": "Stations de radio par genre"
+   },
+   "2029980907058777630": {
+      "message": "Modalités"
+   },
+   "2032972931560484213": {
+      "message": "Liste de lecture créée par $CREATOR$",
+      "placeholders": {
+         "CREATOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "2038339465785978681": {
+      "message": "Sans espacement"
+   },
+   "2038618429165152799": {
+      "message": "Sans titre"
+   },
+   "2045779543869682721": {
+      "message": "Premiers pas"
+   },
+   "2056726623536384731": {
+      "message": "Accéder à Google Play Musique"
+   },
+   "2071381219578485540": {
+      "message": "$XXX$ visionnements",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "2076695218725590213": {
+      "message": "ÉCOUTE GRATUITE POUR VOS AMIS"
+   },
+   "2080060559104348538": {
+      "message": "Scripts d'Asie du Sud"
+   },
+   "2088175644103984799": {
+      "message": "Voyelle khmère inhérente A"
+   },
+   "2093026227428526289": {
+      "message": "Cette offre est uniquement offerte sur certains nouveaux Chromebook, dans les pays où le service Google Play Musique $START_LINK$est offert$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2094349866819883967": {
+      "message": "Tiret demi-cadratin"
+   },
+   "210173405987284279": {
+      "message": "Google Play vous permet d'écouter des chansons sur un seul appareil à la fois. La lecture a été interrompue sur celui-ci, car vous avez commencé à écouter votre musique sur un autre appareil. $START_LINK$En savoir plus$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2102825898069375693": {
+      "message": "Menu"
+   },
+   "2107375315384298887": {
+      "message": "Indice"
+   },
+   "2109622269343579329": {
+      "message": "Adresse de courriel incorrecte"
+   },
+   "2120603839336392434": {
+      "message": "Supprimer Ma bibliothèque"
+   },
+   "2131661026923595624": {
+      "message": "Veuillez mettre à jour Google Play Musique pour Chrome afin de réactiver la fonction de téléversement de musique."
+   },
+   "2133573431527952107": {
+      "message": "Une fois les 60 jours écoulés, continuez à utiliser le service pour seulement $OFFER_PRICE$ par mois.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2139100152161431685": {
+      "message": "Votre musique est temporairement inaccessible sur cet appareil. Veuillez réessayer plus tard. $START_LINK$Aide$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2139683490477275175": {
+      "message": "Fermer"
+   },
+   "2149165958319691680": {
+      "message": "Acheter"
+   },
+   "2149839604112465314": {
+      "message": "{NUM_SONGS_1,plural, =0{0 chanson}=1{1 chanson}one{{NUM_SONGS_2} chanson}other{{NUM_SONGS_2} chansons}}"
+   },
+   "2153379754636569844": {
+      "message": "Impossible de charger le genre. Veuillez réessayer."
+   },
+   "2156158537955590658": {
+      "message": "Musique"
+   },
+   "2158830056128036057": {
+      "message": "Traitement de vos fichiers musicaux en cours…"
+   },
+   "2159130950882492111": {
+      "message": "Annuler"
+   },
+   "216513153459932308": {
+      "message": "Fractions/Connexes"
+   },
+   "2173312720188441245": {
+      "message": "Copte"
+   },
+   "2192133519993124370": {
+      "message": "Lire ma bibliothèque en mode aléatoire"
+   },
+   "2203397136690479355": {
+      "message": "Impossible de traiter ce fichier"
+   },
+   "2205522058604794595": {
+      "message": "Scripts africains"
+   },
+   "2209153283705342590": {
+      "message": "Kaithi"
+   },
+   "2220879710364134067": {
+      "message": "Modifie les chansons sélectionnées"
+   },
+   "2235236867069413571": {
+      "message": "Non merci"
+   },
+   "223657394935715593": {
+      "message": "Musique interrompue"
+   },
+   "2245840662151601141": {
+      "message": "Ajouter l'application"
+   },
+   "2246437904181111020": {
+      "message": "Google Play Musique : Sélectionner les dossiers des médias"
+   },
+   "2252825622480483246": {
+      "message": "Cursive méroïtique"
+   },
+   "2262446869382672016": {
+      "message": "Google Play Musique vous permet d'écouter la musique que vous aimez en toute simplicité sur votre téléphone intelligent, votre tablette et le Web."
+   },
+   "2270666830264677427": {
+      "message": "Vous ne pouvez télécharger simultanément que $MAX_TRACKS_IN_ZIP$ titres au maximum. Veuillez en sélectionner moins, puis réessayer.",
+      "placeholders": {
+         "MAX_TRACKS_IN_ZIP": {
+            "content": "$1"
+         }
+      }
+   },
+   "2271761332103964744": {
+      "message": "$XXX$ premières vidéos correspondant à la requête \"$QUERY$\" :",
+      "placeholders": {
+         "QUERY": {
+            "content": "$1"
+         },
+         "XXX": {
+            "content": "$2"
+         }
+      }
+   },
+   "2277837732287051413": {
+      "message": "Voter pour la chanson en cours"
+   },
+   "2280774384387096759": {
+      "message": "Faites glisser les chansons ou les dossiers ici afin de les ajouter à votre bibliothèque musicale."
+   },
+   "2281995310046063864": {
+      "message": "Corriger la correspondance"
+   },
+   "2296431514706414883": {
+      "message": "1. Dans la fenêtre \"Téléchargements\", double-cliquez sur MusicManager.dmg."
+   },
+   "229748758179155728": {
+      "message": "Désolés, le service Google Play Musique n'est pas offert dans votre pays."
+   },
+   "2299183036960756600": {
+      "message": "dans $NUM$ jour",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "230183152536189382": {
+      "message": "Pour glisser-déposer de la musique depuis cet ordinateur, connectez-vous à Chrome avec le compte $USER_EMAIL$.",
+      "placeholders": {
+         "USER_EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "2301985851679003662": {
+      "message": "Erreur lors du chargement de l'intégralité de la bibliothèque. Veuillez réessayer plus tard."
+   },
+   "2303154715443443305": {
+      "message": "Téléchargement de Music Manager..."
+   },
+   "2303727423829841771": {
+      "message": "Il semble que vous ayez désactivé JavaScript dans votre navigateur. Celui-ci doit être activé pour que Google Play fonctionne correctement."
+   },
+   "2304952649187656478": {
+      "message": "Modifier les informations du titre"
+   },
+   "2309894433432831059": {
+      "message": "Forme de présentation de tiret cadratin vertical"
+   },
+   "2311151671924532713": {
+      "message": "Supprimer de la liste de lecture"
+   },
+   "2312110731653597036": {
+      "message": "$PERCENTAGE_COMPLETE$ %",
+      "placeholders": {
+         "PERCENTAGE_COMPLETE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2318237673493031544": {
+      "message": "Actif jusqu'au :"
+   },
+   "231920238966427751": {
+      "message": "Partagées avec moi"
+   },
+   "2321398646644344846": {
+      "message": "Demain"
+   },
+   "2323732734377122825": {
+      "message": "Station de radio $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "2328554046256236832": {
+      "message": "Fichier FLAC non compatible"
+   },
+   "2328629775851907569": {
+      "message": "Grâce à Google Play Musique, écoutez la musique que vous aimez sur votre appareil Android ou iOS et sur le Web, en toute simplicité."
+   },
+   "2336107482253647902": {
+      "message": "Abonnez-vous à Google Play Musique et obtenez 60 jours gratuitement."
+   },
+   "2337021551804005568": {
+      "message": "Partagé avec moi"
+   },
+   "2339250039074511222": {
+      "message": "Impossible de tester ce lien."
+   },
+   "2339750206850776348": {
+      "message": "Lycien"
+   },
+   "2376735487384008742": {
+      "message": "Tilde"
+   },
+   "2378357177170124823": {
+      "message": "Décimal"
+   },
+   "2382000105167193834": {
+      "message": "Gujarati"
+   },
+   "2389069046927902638": {
+      "message": "Google Play Musique"
+   },
+   "2390557292924554291": {
+      "message": "Liant sans chasse"
+   },
+   "2392426018315003745": {
+      "message": "Artistes"
+   },
+   "2395136813547607194": {
+      "message": "Google+"
+   },
+   "2395448436346696473": {
+      "message": "J'ai compris!"
+   },
+   "2404389883729405997": {
+      "message": "Oups… Une erreur s'est produite lors de la suppression de la musique."
+   },
+   "2434131766046654438": {
+      "message": "Linéaire B"
+   },
+   "2443885011055165607": {
+      "message": "Veuillez sélectionner le paquet à télécharger :"
+   },
+   "2447745837421769983": {
+      "message": "Pour profiter d'une expérience de téléchargement optimale, installez Google Play Musique pour Chrome."
+   },
+   "2461177781520343478": {
+      "message": "Chanson inconnue"
+   },
+   "247847652023697955": {
+      "message": "Symbole musical début de tenue"
+   },
+   "2488986379365136440": {
+      "message": "Ajouter ma musique"
+   },
+   "249032153569378306": {
+      "message": "il y a $NUM$ heure",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2491656925632304373": {
+      "message": "Cette action supprime également vos listes de lecture, vos mix instantanés, les avis associés et tous les détails concernant le nombre de lectures."
+   },
+   "2492300395471245755": {
+      "message": "Artiste"
+   },
+   "2498955825675345888": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Voulez-vous vraiment {START_SPAN}supprimer définitivement{END_SPAN} le titre sélectionné?}one{Voulez-vous vraiment {START_SPAN}supprimer définitivement{END_SPAN} le titre sélectionné?}other{Voulez-vous vraiment {START_SPAN}supprimer définitivement{END_SPAN} les titres sélectionnés?}}"
+   },
+   "2506718393130237030": {
+      "message": "Format non compatible"
+   },
+   "2510724428534433946": {
+      "message": "Impossible d'ajouter l'élément. Les listes de lecture ne peuvent pas contenir plus de $LIMIT$ chansons.",
+      "placeholders": {
+         "LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "2512060739274636260": {
+      "message": "Nouveau taï lü"
+   },
+   "2513370824993175045": {
+      "message": "dans $NUM$ jours",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2515246266111059023": {
+      "message": "Symbole musical fin de rame"
+   },
+   "2529135098453595136": {
+      "message": "Actualiser"
+   },
+   "2529924385478060648": {
+      "message": "Bouhide"
+   },
+   "2530473232691534250": {
+      "message": "Adresse de courriel"
+   },
+   "2534296837124481552": {
+      "message": "Modifiez votre mode de paiement – $START_LINK$En savoir plus$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2538866057253567409": {
+      "message": "Déseret"
+   },
+   "2540334409214949805": {
+      "message": "$START_LINK$Connectez-vous$END_LINK$ pour savoir si des bonus Chrome vous attendent.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2544569632476723854": {
+      "message": "Modalités"
+   },
+   "2549773720947796467": {
+      "message": "Impossible de récupérer les recommandations. Veuillez réessayer."
+   },
+   "2550362371114851075": {
+      "message": "Normale"
+   },
+   "2552987871933535463": {
+      "message": "La suppression a bien été annulée."
+   },
+   "2558836909854550547": {
+      "message": "Normal"
+   },
+   "2565011230196288502": {
+      "message": "dans $NUM$ minute",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "2566834560864089198": {
+      "message": "E"
+   },
+   "2567679469483426925": {
+      "message": "Cette prime n'est pas offerte pour le moment."
+   },
+   "2570105377175439523": {
+      "message": "ACHETER"
+   },
+   "2586122888247175529": {
+      "message": "Évaluer"
+   },
+   "2610851846609508423": {
+      "message": "ASCII"
+   },
+   "2611074766522572430": {
+      "message": "Passez à Google + pour commencer à partager des vidéos YouTube avec vos amis."
+   },
+   "2629966744765630279": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{1 titre supprimé}one{# titre supprimé}other{# titres supprimés}}"
+   },
+   "2634703826856398600": {
+      "message": "($NUM_NEW_SONGS$ nouvelles chansons)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "2662644497259948010": {
+      "message": "Commentaire"
+   },
+   "2665024517655486521": {
+      "message": "Aucune vidéo $START_LINK$YouTube$END_LINK$ correspondante n'a été trouvée.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "2673412443855817873": {
+      "message": "Je n'aime pas"
+   },
+   "2676245835506244825": {
+      "message": "Enregistrer"
+   },
+   "2679420873065503350": {
+      "message": "Fermer"
+   },
+   "2691805793456744044": {
+      "message": "Tout sélectionner"
+   },
+   "2696899443781392801": {
+      "message": "Tous mes titres"
+   },
+   "2707074873770010705": {
+      "message": "Votre appareil n'est pas admissible à cette promotion, mais ne vous inquiétez pas : vous pouvez toujours écouter de la musique en illimité en essayant Google Play Musique gratuitement pendant 30 jours."
+   },
+   "2707450303555566442": {
+      "message": "Mettre à jour Google Play lorsque j'ajoute de la musique à ces dossiers"
+   },
+   "2714752802779336020": {
+      "message": "Google Play Musique"
+   },
+   "2717327855942086699": {
+      "message": "Ajouter de la musique"
+   },
+   "2721786517672194900": {
+      "message": "Cette limite ne s'applique pas lorsque vous utilisez $START_SPAN$Google Play Musique pour Chrome$END_SPAN$ pour le téléchargement.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "2722441731984880542": {
+      "message": "Cliquer pour activer la lecture aléatoire"
+   },
+   "272553825640256879": {
+      "message": "Trait d'union pleine largeur"
+   },
+   "2728464858411473080": {
+      "message": "J'aime"
+   },
+   "2732888649509914313": {
+      "message": "Mongol"
+   },
+   "2734999151213839355": {
+      "message": "Reprendre la lecture"
+   },
+   "2746055492028991938": {
+      "message": "Bopomofo"
+   },
+   "2752562541855123217": {
+      "message": "Impossible d'ouvrir Google Labs. Veuillez réessayer."
+   },
+   "2763267855550833920": {
+      "message": "Trop de fichiers sont associés à ce compte"
+   },
+   "2770700591250453244": {
+      "message": "Pour écouter de la musique, vous devez mettre à jour Adobe Flash Player."
+   },
+   "2778112771759676135": {
+      "message": "Impossible de lire la liste de lecture. Veuillez réessayer."
+   },
+   "2785531700025651": {
+      "message": "Impossible de lire la carte. Veuillez réessayer"
+   },
+   "2787148143326073325": {
+      "message": "Recherche audio"
+   },
+   "27898436551954837": {
+      "message": "Votre bibliothèque musicale est accessible depuis n'importe quel ordinateur, ainsi que sur 10 appareils au maximum."
+   },
+   "2797434867278219492": {
+      "message": "Effacer"
+   },
+   "2801094315807039135": {
+      "message": "Taï viêt"
+   },
+   "2809945145618753350": {
+      "message": "Quart de cadratin"
+   },
+   "2811509810457668932": {
+      "message": "Alphabet phonétique international (X-API)"
+   },
+   "2818892450650920953": {
+      "message": "Obtenir le lien"
+   },
+   "2827984212740060090": {
+      "message": "En savoir plus"
+   },
+   "2834324594183341424": {
+      "message": "Ajouter votre bibliothèque musicale à Google Play"
+   },
+   "2840006222747077107": {
+      "message": "Bibliothèque vide."
+   },
+   "2851432298645735760": {
+      "message": "Impossible d'actualiser votre bibliothèque. Veuillez réessayer plus tard."
+   },
+   "2853841969129372162": {
+      "message": "Ajoutez votre bibliothèque iTunes"
+   },
+   "287042357925885261": {
+      "message": "{NUM,plural, =0{il y a # minute}=1{il y a # minute}one{il y a # minute}other{il y a # minutes}}"
+   },
+   "2881621988818346391": {
+      "message": "Oui"
+   },
+   "2881776379326317082": {
+      "message": "Toujours utiliser ce dossier"
+   },
+   "2885303282270615976": {
+      "message": "Impossible de lire l'album. Veuillez réessayer."
+   },
+   "2885588583451993603": {
+      "message": "Corriger la correspondance incorrecte"
+   },
+   "2896688457548770791": {
+      "message": "Citation"
+   },
+   "2906835284923720614": {
+      "message": "La lecture de vos chansons a été interrompue pour cause d'inactivité."
+   },
+   "2910989560121976550": {
+      "message": "Tester ce lien"
+   },
+   "2918448970074432239": {
+      "message": "Modifier le code HTML"
+   },
+   "2930779715184473252": {
+      "message": "Impossible de récupérer les classements. Veuillez réessayer."
+   },
+   "29485262661698811": {
+      "message": "Fin de Ayah arabe"
+   },
+   "2954874827338778826": {
+      "message": "Adresse Web"
+   },
+   "2965210405599517454": {
+      "message": "Stations relatives à l'album"
+   },
+   "2968801718595938980": {
+      "message": "Hangûl"
+   },
+   "2972470287059252937": {
+      "message": "Espace fine insécable"
+   },
+   "2973169743818593793": {
+      "message": "Chinois – Radicaux à 5 traits"
+   },
+   "29734255682325103": {
+      "message": "Aligner à droite"
+   },
+   "2980847012388128321": {
+      "message": "Espace sans chasse"
+   },
+   "2980874628825541087": {
+      "message": "Questionnaire pour les nouveaux utilisateurs"
+   },
+   "2980960654248329234": {
+      "message": "Espace ultrafine"
+   },
+   "2982463607788408741": {
+      "message": "Vous avez été déconnecté de votre compte Google. Veuillez actualiser la page pour vous reconnecter."
+   },
+   "2990982303071435342": {
+      "message": "Je suis toujours en écoute."
+   },
+   "3000089550185074935": {
+      "message": "À propos de Google Play"
+   },
+   "3008573030448240863": {
+      "message": "Modifié"
+   },
+   "3010015422095710725": {
+      "message": "Supprimer toute ma bibliothèque, y compris la musique achetée et la musique ajoutée à l'aide de mon abonnement Google Play Musique ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "302056167930397366": {
+      "message": "Utiliser l'offre"
+   },
+   "3024429387570590252": {
+      "message": "Partager la liste de lecture"
+   },
+   "3036656187231107215": {
+      "message": "Ajouter à \"Ma bibliothèque\""
+   },
+   "305389607483289974": {
+      "message": "Cliquer pour interrompre"
+   },
+   "3054851848337350805": {
+      "message": "Exposant"
+   },
+   "305815942371229357": {
+      "message": "Aucune suggestion"
+   },
+   "3067310196368927236": {
+      "message": "Ponctuation hébraïque maqaf"
+   },
+   "3068524180018122443": {
+      "message": "Impossible d'ouvrir la liste de lecture. Veuillez réessayer."
+   },
+   "3072935047674817211": {
+      "message": "Ma bibliothèque"
+   },
+   "3084162955821317159": {
+      "message": "Modifier la liste de lecture"
+   },
+   "308732574543176489": {
+      "message": "Impossible de modifier la liste de lecture. Veuillez réessayer."
+   },
+   "3087558965817851793": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} heure}one{{TEXT} heure}other{{TEXT} heures}}"
+   },
+   "3099596419835786769": {
+      "message": "Espace moyenne mathématique"
+   },
+   "3099741642167775297": {
+      "message": "Télécharger"
+   },
+   "3109613844618178013": {
+      "message": "Les titres seront supprimés de la corbeille après 28 jours."
+   },
+   "311577748341232969": {
+      "message": "Vous devez disposer de la dernière version d'Adobe Flash Player pour écouter de la musique."
+   },
+   "3117387872338548343": {
+      "message": "Palmarès des genres"
+   },
+   "3120895678678417608": {
+      "message": "Palmarès des chansons"
+   },
+   "3125342991297920614": {
+      "message": "Impossible de charger l'album. Veuillez réessayer."
+   },
+   "3138864086144358473": {
+      "message": "Chinois – Radicaux à 11~17 traits"
+   },
+   "314582171813087287": {
+      "message": "Trait d'union insécable"
+   },
+   "3154951825194528737": {
+      "message": "Annulation du téléchargement de musique en cours…"
+   },
+   "3158174113533341614": {
+      "message": "$START_BOLD$Vous ne savez pas quelle information fournir dans cette zone?$END_BOLD$ Tout d'abord, localisez la page Web vers laquelle vous souhaitez créer un lien. Vous pouvez vous aider d'un $SEARCH_ENGINE_LINK$moteur de recherche$END_LINK$ pour ce faire. Copiez ensuite l'adresse Web située dans la barre d'adresse de votre navigateur, puis collez-la dans la zone ci-dessus.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "END_LINK": {
+            "content": "$2"
+         },
+         "SEARCH_ENGINE_LINK": {
+            "content": "$3"
+         },
+         "START_BOLD": {
+            "content": "$4"
+         }
+      }
+   },
+   "3161843313258545511": {
+      "message": "EXTRAIT"
+   },
+   "3163044740176820503": {
+      "message": "Premiers pas"
+   },
+   "3164162886883870754": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Voulez-vous vraiment supprimer le titre sélectionné?}one{Voulez-vous vraiment supprimer le titre sélectionné?}other{Voulez-vous vraiment supprimer les titres sélectionnés?}}"
+   },
+   "3167418181223330667": {
+      "message": "Lettres modificatives"
+   },
+   "3182977091552629211": {
+      "message": "Passez la souris sur les cellules pour afficher le nom du caractère."
+   },
+   "3185279424082070029": {
+      "message": "Veuillez vous assurer que l'ordinateur sur lequel vous stockez ce titre exécute Music Manager et qu'il est connecté à Internet. Le titre sera téléversé de nouveau dans les prochains jours."
+   },
+   "3186539049159756808": {
+      "message": "{NUM,plural, =0{il y a # jour}=1{il y a # jour}one{il y a # jour}other{il y a # jours}}"
+   },
+   "3187115322095111816": {
+      "message": "{VALUE,plural, =0{0 chanson}=1{1 chanson}one{# chanson}other{# chansons}}"
+   },
+   "3195918319788518487": {
+      "message": "Mix recommandés"
+   },
+   "3196641196902208501": {
+      "message": "Lien vers une adresse de courriel"
+   },
+   "3198123723060667787": {
+      "message": "Date"
+   },
+   "3199328506415818264": {
+      "message": "Ajouté à partir de mon abonnement"
+   },
+   "3220162149541031829": {
+      "message": "Paroles"
+   },
+   "3224702327278720862": {
+      "message": "Music Manager"
+   },
+   "3225804441370198247": {
+      "message": "Toutes mes chansons - $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3228978445933072234": {
+      "message": "Symboles Yijing/Tai Xuan Jing"
+   },
+   "3234962763403901834": {
+      "message": "dans $NUM$ minutes",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3236297178990217370": {
+      "message": "Aucune"
+   },
+   "3237206613586329862": {
+      "message": "Lydien"
+   },
+   "3239052796417276147": {
+      "message": "Partager"
+   },
+   "3242312278127054660": {
+      "message": "Symboles mathématiques alphanumériques"
+   },
+   "3245264696956198335": {
+      "message": "Format"
+   },
+   "3248575677000760820": {
+      "message": "{NUM_SONGS,plural, =0{Vous n'avez sélectionné aucun titre à télécharger sur votre ordinateur.}=1{Voulez-vous vraiment télécharger le titre sélectionné sur votre ordinateur?}one{Voulez-vous vraiment télécharger le titre sélectionné sur votre ordinateur?}other{Voulez-vous vraiment télécharger les titres sélectionnés sur votre ordinateur?}}"
+   },
+   "3255560926299154386": {
+      "message": "Emportez votre bibliothèque musicale iTunes."
+   },
+   "32574714261860078": {
+      "message": "Écouter"
+   },
+   "3259477051828347489": {
+      "message": "Signaler des métadonnées incorrectes pour cet album"
+   },
+   "3277302879023810531": {
+      "message": "Se connecter à Chrome pour télécharger de la musique"
+   },
+   "3277700190370010726": {
+      "message": "La promotion Google Play pour l'utilisateur $START_BOLD$$USER_EMAIL$$END_BOLD$ n'est pas disponible pour le moment. Veuillez réessayer plus tard.",
+      "placeholders": {
+         "END_BOLD": {
+            "content": "$1"
+         },
+         "START_BOLD": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "3283184310579712326": {
+      "message": "Télécharger"
+   },
+   "3292545361152652864": {
+      "message": "D'après vos goûts musicaux"
+   },
+   "3299099956700438963": {
+      "message": "Scripts américains"
+   },
+   "3311269073804742952": {
+      "message": "Écouter"
+   },
+   "3313128122800055613": {
+      "message": "Ma bibliothèque"
+   },
+   "3313264069529122414": {
+      "message": "Albums"
+   },
+   "3315823618641326936": {
+      "message": "Votre abonnement comprend également l'accès illimité à la musique de YouTube."
+   },
+   "3335728816495350082": {
+      "message": "Palmarès des chansons - $ARTIST_NAME$",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "3370288955750739075": {
+      "message": "Abonnez-vous à Google Play Musique pour écouter toute la musique que vous souhaitez, sur l'appareil de votre choix et au moment qui vous convient. Écoutez des chansons en vogue ou des grands classiques, ou découvrez facilement de la nouvelle musique qui vous plaira."
+   },
+   "3381844160250536550": {
+      "message": "Connectez-vous à Google Chrome"
+   },
+   "3389797949812522362": {
+      "message": "Hébreu"
+   },
+   "3390725557414108843": {
+      "message": "Chinois – Radicaux à 4 traits"
+   },
+   "3400388537748100977": {
+      "message": "Télécharger"
+   },
+   "3410315382362912156": {
+      "message": "La liste de lecture $START_SPAN$$TITLE$$END_SPAN$ est privée pour le moment. Pour la partager, rendez-la publique.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "3418677553313974490": {
+      "message": "Corbeille"
+   },
+   "3419681791450150574": {
+      "message": "Progression"
+   },
+   "342127282404571667": {
+      "message": "Google Play Musique pour Chrome OS"
+   },
+   "342945207977289986": {
+      "message": "Supprimer"
+   },
+   "3431116501598202644": {
+      "message": "Album inconnu"
+   },
+   "3439291896675389753": {
+      "message": "N'ko"
+   },
+   "3444326079109550157": {
+      "message": "Vers quelle URL ce lien doit-il pointer?"
+   },
+   "3445096196133856884": {
+      "message": "Voyelle khmère inhérente Â"
+   },
+   "3462013384451950074": {
+      "message": "dans $NUM$ heure",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "3462291720620021793": {
+      "message": "Créée par $OWNER_NAME$",
+      "placeholders": {
+         "OWNER_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "346461448125635284": {
+      "message": "Accédez n'importe où à l'ensemble de vos titres musicaux. Il vous suffit d'ajouter à Google Play la musique enregistrée sur votre ordinateur."
+   },
+   "3475469358093477644": {
+      "message": "Nouveautés"
+   },
+   "3479964965156370621": {
+      "message": "Ponctuation"
+   },
+   "3483193414050571677": {
+      "message": "Je n'aime pas"
+   },
+   "3483958460407305290": {
+      "message": "Barré"
+   },
+   "3491417595697100862": {
+      "message": "Fourni par $XXX$",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "3503286865266511120": {
+      "message": "Réduire le volume du lecteur"
+   },
+   "3521819884110126543": {
+      "message": "Accéder à la file d'attente"
+   },
+   "352192086869301337": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ chansons ajoutés sur $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "3530801739313410091": {
+      "message": "Utiliser le coupon Google Play Musique"
+   },
+   "3532209277261496348": {
+      "message": "Une erreur s'est produite. Veuillez réessayer."
+   },
+   "3545785371861413299": {
+      "message": "Lancer la période d'essai gratuit"
+   },
+   "3547729876847212201": {
+      "message": "Demi-cadratin"
+   },
+   "3553729577029306739": {
+      "message": "Par $OWNER$",
+      "placeholders": {
+         "OWNER": {
+            "content": "$1"
+         }
+      }
+   },
+   "3561750501339236444": {
+      "message": "LANGAGE EXPLICITE"
+   },
+   "3565556274692077023": {
+      "message": "Tiret cadratin"
+   },
+   "3565714850919973591": {
+      "message": "/"
+   },
+   "3601632218457952692": {
+      "message": "Yi"
+   },
+   "3605470624800934973": {
+      "message": "Voulez-vous vraiment supprimer l'album sélectionné?"
+   },
+   "3605957923037994993": {
+      "message": "OK"
+   },
+   "3609204150605625912": {
+      "message": "J'aime"
+   },
+   "3624852760485534285": {
+      "message": "Radio"
+   },
+   "3624948107517969571": {
+      "message": "Obtenir le lien"
+   },
+   "3631504127812962801": {
+      "message": "Lisu"
+   },
+   "3645577032204040606": {
+      "message": "Mini-lecteur Google Play Musique"
+   },
+   "3649938620817393740": {
+      "message": "Petite"
+   },
+   "3650710698506236041": {
+      "message": "Valeur hexadécimale pour la couleur"
+   },
+   "3652624056593952591": {
+      "message": "Échec de la modification des paramètres Google Labs. Veuillez réessayer plus tard."
+   },
+   "3658882581780638345": {
+      "message": "Avec la fonctionnalité \"À écouter\", vous trouverez facilement le prochain titre à écouter. Plus vous écoutez de musique, plus nous vous proposons de titres susceptibles de vous plaire."
+   },
+   "3688803517283872334": {
+      "message": "Bourre hangûl demi-chasse"
+   },
+   "3701910180379922299": {
+      "message": "Sharda"
+   },
+   "3704011894694447629": {
+      "message": "Vidéo YouTube"
+   },
+   "3706222784708785028": {
+      "message": "Avis"
+   },
+   "3722316429187303015": {
+      "message": "Cliquez sur les artistes que vous aimez"
+   },
+   "3733379067640164677": {
+      "message": "Créer une liste de lecture"
+   },
+   "3742493136298597541": {
+      "message": "Erreur lors du chargement de la vidéo YouTube."
+   },
+   "3748613043647922063": {
+      "message": "Séparateur invisible"
+   },
+   "3748893353086104812": {
+      "message": "Vider le cache local et actualiser toutes les informations relatives aux titres et aux listes de lecture"
+   },
+   "3762887990641668199": {
+      "message": "Arménien"
+   },
+   "3770594827970207417": {
+      "message": "Titre secondaire"
+   },
+   "3772706138160001780": {
+      "message": "Barre horizontale"
+   },
+   "3774172828626803355": {
+      "message": "Cherokee"
+   },
+   "3782346097595894324": {
+      "message": "Échec de la connexion au serveur. Veuillez réessayer plus tard."
+   },
+   "3784429870217408370": {
+      "message": "Brahmi"
+   },
+   "3791537354650674912": {
+      "message": "Télécharger de la musique"
+   },
+   "3795262960327716692": {
+      "message": "Pour ajouter une chanson, faites-la glisser sur le nom de la liste de lecture dans la barre latérale"
+   },
+   "3801288115809478084": {
+      "message": "Ok"
+   },
+   "3807050606425965472": {
+      "message": "Les fenêtres suivantes seront fermées :\n"
+   },
+   "3832446507144709355": {
+      "message": "Glagolitique"
+   },
+   "3839679337223320857": {
+      "message": "Connecté avec l'adresse $EMAIL$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3849149261610050417": {
+      "message": "Accéder à Google Play Musique"
+   },
+   "3867367359959377145": {
+      "message": "ERREUR : « $COLOR$ » n'est pas une couleur valide.",
+      "placeholders": {
+         "COLOR": {
+            "content": "$1"
+         }
+      }
+   },
+   "3872632959071287956": {
+      "message": "Veuillez vous connecter à Google Play Musique sur Internet avant d'utiliser l'application Chrome."
+   },
+   "3873111853443561979": {
+      "message": "Souligné"
+   },
+   "3885497195825665706": {
+      "message": "Suivant"
+   },
+   "3890078112831612818": {
+      "message": "Veuillez vous assurer que l'ordinateur sur lequel vous stockez ces titres musicaux est équipé de Music Manager et qu'il est connecté à Internet. Les titres seront téléversés de nouveau le lendemain."
+   },
+   "3901889124080689046": {
+      "message": "Impossible d'ouvrir le fichier"
+   },
+   "3904027274600624417": {
+      "message": "Accessible à tous. Parfait pour le partage."
+   },
+   "3905371920037624514": {
+      "message": "Moins courant"
+   },
+   "3905423727983896706": {
+      "message": "Erreur serveur. Veuillez réessayer plus tard."
+   },
+   "3927910032314162155": {
+      "message": "Pour utiliser le mini-lecteur, connectez-vous à Chrome avec le compte $USER_EMAIL$.",
+      "placeholders": {
+         "USER_EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "3936240281193464170": {
+      "message": "Actualiser"
+   },
+   "3964523220682082212": {
+      "message": "Erreur lors du chargement de la bibliothèque"
+   },
+   "3973260061047030021": {
+      "message": "Lire ou mettre en pause la musique"
+   },
+   "3975141127799341224": {
+      "message": "Lien vers une page ou un fichier ailleurs sur le Web"
+   },
+   "3979159028144896041": {
+      "message": "Radio"
+   },
+   "3982112843644394207": {
+      "message": "2. Dans la liste des téléchargements de votre navigateur, double-cliquez sur musicmanagerinstaller.exe pour l'ouvrir."
+   },
+   "3988935995558346502": {
+      "message": "Cyrillique"
+   },
+   "3996699777412450193": {
+      "message": "Flèches"
+   },
+   "3999655151577464071": {
+      "message": "Un problème est survenu lors de la suppression du mix instantané."
+   },
+   "4018505937276295756": {
+      "message": "Extrait de l'album \"$START_SPAN$$ALBUM_TITLE$$END_SPAN$\"",
+      "placeholders": {
+         "ALBUM_TITLE": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4018574576796390012": {
+      "message": "Voulez-vous vraiment $START_SPAN$supprimer définitivement$END_SPAN$ la liste de lecture « $PLAYLIST_NAME$ »?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "PLAYLIST_NAME": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "4021376741882293501": {
+      "message": "Linux"
+   },
+   "4034257783857644883": {
+      "message": "Chinois – Radicaux à 6 traits"
+   },
+   "4044663630621281686": {
+      "message": "Signe arabe safha"
+   },
+   "4055580652532057510": {
+      "message": "sans nom"
+   },
+   "4061274470931156807": {
+      "message": "Santâlî"
+   },
+   "4063027937991598166": {
+      "message": "Supprimer l'élément sélectionné"
+   },
+   "4075286221500750156": {
+      "message": "Version : $VERSION$ $BUILD_MODE$",
+      "placeholders": {
+         "BUILD_MODE": {
+            "content": "$1"
+         },
+         "VERSION": {
+            "content": "$2"
+         }
+      }
+   },
+   "4082846773463542695": {
+      "message": "Impossible d'identifier votre ordinateur."
+   },
+   "4084952787153935401": {
+      "message": "Ma liste de lecture automatique"
+   },
+   "4087074177670472082": {
+      "message": "Ancre d'annotation interlinéaire"
+   },
+   "4087991212618724916": {
+      "message": "Écoutez de la musique sur vos appareils Android et iOS et sur le Web"
+   },
+   "4095000796706848124": {
+      "message": "Populaires"
+   },
+   "4098039133485584046": {
+      "message": "Abonnement au service illimité annulé"
+   },
+   "4110926661719376304": {
+      "message": "Découvrez comment activer JavaScript"
+   },
+   "4117020323749523105": {
+      "message": "Activité récente"
+   },
+   "4117886182866316912": {
+      "message": "Avance rapide dans le titre en cours"
+   },
+   "4129291319151029100": {
+      "message": "Lire cette liste de lecture ensuite"
+   },
+   "4141582858389779168": {
+      "message": "Inscrivez-vous au service de musique illimitée pour seulement $OFFER_PRICE$ par mois et écoutez des millions de chansons, instantanément et sans publicité.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "4158639452472568044": {
+      "message": "Ce titre a été signalé comme une mise en correspondance incorrecte"
+   },
+   "4170374596716717299": {
+      "message": "Hiragana"
+   },
+   "4170852783933160433": {
+      "message": "{SONG_COUNT,plural, =1{Votre exemplaire sera utilisé plutôt que celui qui a été mis en correspondance pour la chanson que vous avez sélectionnée.}one{Votre exemplaire sera utilisé plutôt que celui qui a été mis en correspondance pour la chanson que vous avez sélectionnée.}other{Vos exemplaires seront utilisés plutôt que ceux qui ont été mis en correspondance pour les chansons que vous avez sélectionnée.}}"
+   },
+   "4171773891797639122": {
+      "message": "Gluon de mots"
+   },
+   "4183640380235728062": {
+      "message": "Répétition désactivée. Cliquer pour modifier le mode de répétition."
+   },
+   "4194375141064658954": {
+      "message": "Oups… Nous rencontrons des difficultés techniques"
+   },
+   "4197649613867030676": {
+      "message": "Chanson précédente"
+   },
+   "4204603140063905121": {
+      "message": "Bourre hangûl djoungsong"
+   },
+   "4207298621447602833": {
+      "message": "Résultats les plus pertinents"
+   },
+   "421592645382251017": {
+      "message": "Annuler l'autorisation"
+   },
+   "4220191761015564223": {
+      "message": "Mettre à jour"
+   },
+   "4220356809087746464": {
+      "message": "Supprimer la liste de lecture"
+   },
+   "4223772395954115656": {
+      "message": "$START_SPAN$Écoutez des millions de titres où que vous soyez.$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4232758301875768656": {
+      "message": "Impossible de récupérer les données relatives au genre. Veuillez réessayer."
+   },
+   "4242027248170465515": {
+      "message": "Deux manières de lire de la musique"
+   },
+   "4248732728178924517": {
+      "message": "$NUM_COLS$ par $NUM_ROWS$",
+      "placeholders": {
+         "NUM_COLS": {
+            "content": "$1"
+         },
+         "NUM_ROWS": {
+            "content": "$2"
+         }
+      }
+   },
+   "4263959392548297550": {
+      "message": "Annuler"
+   },
+   "4267092206833736997": {
+      "message": "Stations de radio"
+   },
+   "4270780207869579909": {
+      "message": "Lisez les chansons en boucle."
+   },
+   "4272173055918340921": {
+      "message": "Chargement de la bibliothèque musicale en cours…"
+   },
+   "4275466320467620600": {
+      "message": "Toujours en haut"
+   },
+   "4285216590250755577": {
+      "message": "Vous devez mettre à jour votre appareil pour que nous puissions vérifier si vous pouvez bénéficier de cette promotion."
+   },
+   "4298797223016826648": {
+      "message": "Pas intéressé"
+   },
+   "4307428996576001111": {
+      "message": "Retourner au titre précédent"
+   },
+   "4315630325084748400": {
+      "message": "Clé YouTube Musique"
+   },
+   "4318639872744852657": {
+      "message": "Tâkrî"
+   },
+   "4323470180912194028": {
+      "message": "Copier"
+   },
+   "4325930016698138077": {
+      "message": "Listes de lecture"
+   },
+   "4326462735503400283": {
+      "message": "Texte à afficher :"
+   },
+   "4329609792835264496": {
+      "message": "Espace fine"
+   },
+   "4330659086733805352": {
+      "message": "Félicitations! Vous avez maintenant des millions de titres à portée de main. Avec À écouter, il est facile de décider du prochain titre à écouter. Plus vous écoutez de musique, plus la fonctionnalité est efficace pour vous proposer d'excellents titres.\n\nPour commencer, recherchez ci-dessous votre artiste favori."
+   },
+   "4333644357236884202": {
+      "message": "Khmer"
+   },
+   "4338950182024656659": {
+      "message": "Symboles généalogiques et sexuels"
+   },
+   "4340616150909089613": {
+      "message": "Le titre \"$SONG_TITLE$\" correspond-il à une autre chanson?",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "434404492084234684": {
+      "message": "Volume"
+   },
+   "4357737589458300153": {
+      "message": "Technologie de codage audio MPEG Layer-3 sous licence de Fraunhofer IIS et Thomson. La technologie Advanced Audio Coding (AAC) est utilisée sous licence gérée par Via Licensing Corporation. Google Play contient certains logiciels tiers nécessitant un avis ou des conditions d'utilisation supplémentaires. Ces avis ou conditions d'utilisation supplémentaires requis pour les logiciels tiers sont accessibles sur notre $START_LINK$page de divulgation des tiers$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4358547281205225229": {
+      "message": "Avis très positifs"
+   },
+   "4373763311924773906": {
+      "message": "Ajouter de la musique de : $SOURCE_LIST$",
+      "placeholders": {
+         "SOURCE_LIST": {
+            "content": "$1"
+         }
+      }
+   },
+   "437655423845564400": {
+      "message": "Le nombre maximal de chansons autorisées a été atteint. Vous pouvez téléverser un maximum de $TRACK_LIMIT$ chansons.",
+      "placeholders": {
+         "TRACK_LIMIT": {
+            "content": "$1"
+         }
+      }
+   },
+   "4380903276097257721": {
+      "message": "Forme de présentation de tiret demi-cadratin vertical"
+   },
+   "4383725505132456525": {
+      "message": "Interruption de l'ajout de musique en cours…"
+   },
+   "4396890764725725469": {
+      "message": "Enregistrer"
+   },
+   "4405073953395157822": {
+      "message": "Traits CJC"
+   },
+   "4407723361680851334": {
+      "message": "Palmarès des chansons"
+   },
+   "441479690225687264": {
+      "message": "Télécharger l'album"
+   },
+   "4417144592785193889": {
+      "message": "Autres scripts d'Asie de l'Est"
+   },
+   "4439965029912183539": {
+      "message": "Supplément Latin-1"
+   },
+   "4440466521156769623": {
+      "message": "Symbole musical début de rame"
+   },
+   "4443307407460224753": {
+      "message": "Chansons"
+   },
+   "4445783474627796041": {
+      "message": "Terminé"
+   },
+   "4446046182674914304": {
+      "message": "Musique récemment jouée ou ajoutée à votre bibliothèque"
+   },
+   "445149490695787423": {
+      "message": "Connectez-vous de nouveau"
+   },
+   "4451528286100219680": {
+      "message": "Intégration gauche à droite"
+   },
+   "4453762904903445132": {
+      "message": "Une erreur s'est produite lors de l'ajout de l'élément à la liste de lecture."
+   },
+   "4456793125873199230": {
+      "message": "Station de radio « J'ai de la chance »."
+   },
+   "4462494623248108758": {
+      "message": "Liste de lecture"
+   },
+   "4478641030934315579": {
+      "message": "Communs"
+   },
+   "4479370175321248159": {
+      "message": "Mac OS X"
+   },
+   "4481282928945235645": {
+      "message": "Vous devez retéléverser certaines de vos chansons."
+   },
+   "4494835774314426313": {
+      "message": "Impossible de supprimer la dernière source"
+   },
+   "4518051085445745515": {
+      "message": "En cliquant sur « ​​Suivant », vous acceptez les $START_LINK_1$conditions d'utilisation$END_LINK$ et la $START_LINK_2$politique de confidentialité$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK_1": {
+            "content": "$2"
+         },
+         "START_LINK_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "4521439405562358438": {
+      "message": "Lancer la radio"
+   },
+   "4548656448943532301": {
+      "message": "Le téléversement de musique est terminé"
+   },
+   "4554520729383911291": {
+      "message": "Créer un mix instantané à partir de la chanson sélectionnée"
+   },
+   "4563965495368336177": {
+      "message": "Ignorer"
+   },
+   "4571105317747127957": {
+      "message": "Trait d'union avec tréma"
+   },
+   "4580988005648117665": {
+      "message": "Recherche"
+   },
+   "4585012747839517803": {
+      "message": "Trois manières de lire de la musique"
+   },
+   "4590981840116960737": {
+      "message": "Format et espace blanche"
+   },
+   "4604862300643180159": {
+      "message": "Écoutez des stations de radio conçues pour toute humeur ou tout type d'activité, créées à la main par notre équipe d'experts en musique."
+   },
+   "4607813303298554353": {
+      "message": "Thâna"
+   },
+   "46135825491334308": {
+      "message": "La suppression de votre musique est définitive."
+   },
+   "4624704164651982020": {
+      "message": "Configuration de Google Play Musique pour Chrome en cours…"
+   },
+   "4629182899853078878": {
+      "message": "Station de radio"
+   },
+   "4629398054050196678": {
+      "message": "Télécharger la musique dans le dossier suivant :"
+   },
+   "4645609569705949286": {
+      "message": "Moi uniquement"
+   },
+   "4648993989034133051": {
+      "message": "Afficher le menu pour le titre sélectionné"
+   },
+   "4653542348713597484": {
+      "message": "Utiliser les suggestions"
+   },
+   "4658362967039953209": {
+      "message": "Téléverser ma musique"
+   },
+   "466976558518570343": {
+      "message": "Javanais"
+   },
+   "4675864222674894697": {
+      "message": "Shavien"
+   },
+   "4687189636655044066": {
+      "message": "Barre d'espacement"
+   },
+   "4688350353916032040": {
+      "message": "Musique pour toutes les humeurs"
+   },
+   "4688946070631035536": {
+      "message": "Correcteur orthographique"
+   },
+   "4697182936858386680": {
+      "message": "Profitez de Clé YouTube Musique"
+   },
+   "4700617948484087080": {
+      "message": "Image de l'album"
+   },
+   "470296860672943171": {
+      "message": "Sélecteur de variante"
+   },
+   "4706959263210678625": {
+      "message": "Sélecteur de variation – $SEQNUM$",
+      "placeholders": {
+         "SEQNUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "4709553525160465770": {
+      "message": "Pour téléverser votre musique rapidement, Google Play établit des correspondances entre vos fichiers musicaux et des copies sur notre serveur. La mise en correspondance incorrecte de deux titres peut se produire occasionnellement. Signalez ce problème ici et le titre sera téléversé de nouveau."
+   },
+   "4712257992881677849": {
+      "message": "Abonnement au service illimité"
+   },
+   "4719670020517267238": {
+      "message": "Débit : $START_SPAN$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "4724245563419948725": {
+      "message": "Mettre à jour Google Play lorsque j'ajoute des chansons à ces emplacements"
+   },
+   "4734868436850896882": {
+      "message": "Nouvelle liste de lecture"
+   },
+   "4742106458669953927": {
+      "message": "Vidéos"
+   },
+   "4742770396342457517": {
+      "message": "Écouter dans Google Play Musique"
+   },
+   "4743341466695708276": {
+      "message": "Android"
+   },
+   "4750228681419116696": {
+      "message": "Malayalam"
+   },
+   "4754400438927203898": {
+      "message": "Musique interrompue"
+   },
+   "4764935748877100361": {
+      "message": "Lecture aléatoire de tous les titres"
+   },
+   "4769763190685514776": {
+      "message": "Recommandations"
+   },
+   "4775550080689015987": {
+      "message": "Motif"
+   },
+   "4776903542722844646": {
+      "message": "Cliquer pour lire"
+   },
+   "477988155866276940": {
+      "message": "{NUM_GENRES,plural, =0{0 genre}=1{1 genre}one{# genre}other{# genres}}"
+   },
+   "4784790100671753330": {
+      "message": "Supprimer de \"Ma bibliothèque\""
+   },
+   "4805994444654440648": {
+      "message": "Pour le moment, Google Play Musique n'est proposé que dans certains pays. $START_LINK$En savoir plus$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4815033911915598343": {
+      "message": "Espacement"
+   },
+   "4816216590591222133": {
+      "message": "Activé"
+   },
+   "4816571345301008062": {
+      "message": "Un problème est survenu lors de la modification du nom du mix instantané."
+   },
+   "4819116236257306760": {
+      "message": "Genres"
+   },
+   "4830715100444503860": {
+      "message": "Kharochthî"
+   },
+   "4834515902480994353": {
+      "message": "Impossible d'enregistrer les modifications. Veuillez réessayer."
+   },
+   "4852868472325373419": {
+      "message": "Saisissez le nom d'un artiste, un titre, etc."
+   },
+   "4854398281969653625": {
+      "message": "Impossible de partager l'album"
+   },
+   "4862238057869188402": {
+      "message": "Impossible de récupérer les mix. Veuillez réessayer."
+   },
+   "4867246087786788222": {
+      "message": "Type de compte :"
+   },
+   "4874337908897060929": {
+      "message": "Ajout de la musique interrompu"
+   },
+   "4878527640076219954": {
+      "message": "Tamoul"
+   },
+   "4882534557068236871": {
+      "message": "Toute la musique du monde"
+   },
+   "4886126295094352182": {
+      "message": "Google Play Musique pour Chrome"
+   },
+   "4887472194021728050": {
+      "message": "Siamois"
+   },
+   "4891880513108929293": {
+      "message": "Signaler des métadonnées incorrectes pour cette chanson"
+   },
+   "4902817035128594900": {
+      "message": "Description"
+   },
+   "4912232926698971015": {
+      "message": "Le téléchargement devrait bientôt démarrer. Dans le cas contraire, veuillez $START_LINK$cliquer ici$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "4916816672463415688": {
+      "message": "Essayer Google Play Musique"
+   },
+   "4920482241656423227": {
+      "message": "Couleur d'arrière-plan du texte"
+   },
+   "4920946997448724158": {
+      "message": "Compositeur"
+   },
+   "4921096453319030731": {
+      "message": "Marque d'abréviation syriaque"
+   },
+   "4924253230856131215": {
+      "message": "Scripts d'Asie du Sud-Est"
+   },
+   "4930506384627295710": {
+      "message": "Paramètres"
+   },
+   "4962022175989879342": {
+      "message": "Contenu explicite"
+   },
+   "496636435516411982": {
+      "message": "Impossible d'évaluer la chanson. Veuillez réessayer."
+   },
+   "4968608861451065406": {
+      "message": "Ajouter à la file"
+   },
+   "4972659496812307928": {
+      "message": "Téléchargement de la musique interrompu"
+   },
+   "4978760297011594324": {
+      "message": "Configurer"
+   },
+   "4980580439123922024": {
+      "message": "Artistes"
+   },
+   "498913874005297914": {
+      "message": "Gras"
+   },
+   "499152283823240992": {
+      "message": "Samaritain"
+   },
+   "5003850562831597565": {
+      "message": "Abonnements récents"
+   },
+   "5009452744789834383": {
+      "message": "Se connecter à Chrome pour utiliser le mini-lecteur"
+   },
+   "5009878480585609766": {
+      "message": "Chinois – Autre"
+   },
+   "5012120303441725317": {
+      "message": "Une erreur s'est produite lors de la restauration du titre à partir de la corbeille."
+   },
+   "5015096128854741514": {
+      "message": "Transport et cartes"
+   },
+   "5018227417300461385": {
+      "message": "Tiret minuscule"
+   },
+   "5022153145769748172": {
+      "message": "Aucun titre dans la corbeille"
+   },
+   "5030096791460456147": {
+      "message": "Le site d'hébergement a bloqué l'image que vous tentez de faire glisser."
+   },
+   "5032188163864418301": {
+      "message": "Pehlevi des inscriptions"
+   },
+   "5043933900720743682": {
+      "message": "Albums"
+   },
+   "5045200874122539692": {
+      "message": "Quitter"
+   },
+   "5049432650728491454": {
+      "message": "Découvrez des nouveautés, les palmarès, des listes de lecture et de nouveaux genres"
+   },
+   "504977212575871255": {
+      "message": "Impossible de réorganiser. Veuillez réessayer."
+   },
+   "5057515970652704627": {
+      "message": "Standard"
+   },
+   "506090363255226122": {
+      "message": "Retourné/Inversé"
+   },
+   "5071594083516657121": {
+      "message": "Le fichier est trop volumineux"
+   },
+   "5080822706931608370": {
+      "message": "{NUM_ALBUMS,plural, =0{0 album}=1{1 album}one{# album}other{# albums}}"
+   },
+   "5081090601358541148": {
+      "message": "La musique achetée dans la boutique Google Play Store ou ajoutée à partir du service Google Play Musique ne compte pas dans la limite"
+   },
+   "5094769877856014729": {
+      "message": "Symbole musical fin de tenue"
+   },
+   "5095388526557269967": {
+      "message": "Abonnement activé"
+   },
+   "5103029066224104817": {
+      "message": "Stations relatives à l'artiste"
+   },
+   "5105357319581293013": {
+      "message": "Nouveau mix instantané"
+   },
+   "5105404398573470156": {
+      "message": "Formes géométriques"
+   },
+   "5113771261593769985": {
+      "message": "Cham"
+   },
+   "5115900738857721327": {
+      "message": "Diacritique invisible bloquant"
+   },
+   "5119663120731608161": {
+      "message": "Pour savoir quels chansons vous avez importées récemment, consultez la liste de lecture $START_LINK$Dernières chansons ajoutées$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "5125519453380212890": {
+      "message": "Aide et commentaires"
+   },
+   "5128240607770067472": {
+      "message": "À propos…"
+   },
+   "5141725357376719861": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ chansons téléchargées sur $NUM_TOTAL_TRACKS$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TOTAL_TRACKS": {
+            "content": "$2"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$3"
+         },
+         "START_SPAN": {
+            "content": "$4"
+         }
+      }
+   },
+   "5143432838919500349": {
+      "message": "Balayage en cours..."
+   },
+   "5161411570094992408": {
+      "message": "Pas maintenant"
+   },
+   "5166520612019272178": {
+      "message": "Oups… Une erreur s'est produite."
+   },
+   "5170992049958515620": {
+      "message": "Trait d'union"
+   },
+   "5187212874644392331": {
+      "message": "Version : $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "5189296983337794287": {
+      "message": "Impossible de glisser-déposer des fichiers image pour le moment.\nVeuillez faire glisser une image à partir de votre navigateur Web."
+   },
+   "5189483014262344839": {
+      "message": "Impossible d'ouvrir la liste de lecture. Veuillez réessayer."
+   },
+   "5194323427684547346": {
+      "message": "Emplacement de téléchargement"
+   },
+   "5199204386348402183": {
+      "message": "Osmanais"
+   },
+   "5207635742003539443": {
+      "message": "Connexion"
+   },
+   "5212776049596209141": {
+      "message": "Avec des albums similaires à $TITLE$ par $ARTIST$",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "5218764702776228810": {
+      "message": "Ensuite, configurez Google Play Musique pour Chrome afin d'ajouter votre bibliothèque musicale et d'écouter vos chansons sur votre téléphone, votre tablette et votre ordinateur."
+   },
+   "5219596981664772816": {
+      "message": "Chinois – Radicaux à 3 traits"
+   },
+   "5231992454496384852": {
+      "message": "Bienvenue dans « À écouter »"
+   },
+   "5232157483592334572": {
+      "message": "Tifinaghe"
+   },
+   "5255051784168449001": {
+      "message": "Tout le contenu dans la catégorie $GENRE$",
+      "placeholders": {
+         "GENRE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5256846847077792168": {
+      "message": "Modifier le mot"
+   },
+   "5274506773583039432": {
+      "message": "Voulez-vous vraiment $START_SPAN$supprimer définitivement$END_SPAN$ la liste de lecture sélectionnée?",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5278374842872340790": {
+      "message": "Émoticônes"
+   },
+   "5288571118300787017": {
+      "message": "Nous avons détecté une erreur de décodage dans $SONG_TITLE$. Veuillez vérifier le fichier d'origine, puis téléversez-le de nouveau. Ce fichier a été ignoré.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5302287499843369186": {
+      "message": "Configuration de Google Play Musique"
+   },
+   "531478949469830505": {
+      "message": "Sora sompeng"
+   },
+   "5315454967838901680": {
+      "message": "{NUM_DAYS,plural, =0{plus de 0 jour}=1{plus d'1 jour}one{plus de # jour}other{plus de # jours}}"
+   },
+   "534536991450111663": {
+      "message": "Téléversez votre bibliothèque musicale iTunesMD, Windows MediaMD ou d'autres collections"
+   },
+   "5348600594194881699": {
+      "message": "Asseyez-vous et détendez-vous : vous êtes déjà abonné à Google Play Musique!"
+   },
+   "5359972686439530616": {
+      "message": "Bienvenue dans « À écouter »"
+   },
+   "536459166857647880": {
+      "message": "Tagalog"
+   },
+   "5373550672011878193": {
+      "message": "Runique"
+   },
+   "537543696442379345": {
+      "message": "Démarrer un mix instantané"
+   },
+   "5378532290721565403": {
+      "message": "Cette chanson a été achetée avec un autre compte Google Play Musique"
+   },
+   "538743482909979705": {
+      "message": "File d'attente"
+   },
+   "5393158295657392839": {
+      "message": "Titres présentant des correspondances incorrectes"
+   },
+   "5394098606689330359": {
+      "message": "La file d'attente est vide"
+   },
+   "5394607018657314633": {
+      "message": "Séparateur de ligne"
+   },
+   "5402470227536486835": {
+      "message": "Trait d'union cadratin minuscule"
+   },
+   "5404910277282887798": {
+      "message": "Phénicien"
+   },
+   "5408241503383428945": {
+      "message": "Autres scripts européens"
+   },
+   "5410695385284979104": {
+      "message": "Mix \"$TITLE$\"",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "5432330868773114140": {
+      "message": "Lancer la radio"
+   },
+   "5451692331472585782": {
+      "message": "Toutes les chansons"
+   },
+   "5452036681614307719": {
+      "message": "Signe plus invisible"
+   },
+   "5452218284042451605": {
+      "message": "Pour appliquer un coupon à l'adresse $START_SPAN$$USER_EMAIL$$END_SPAN$, entrez votre code ci-dessous.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "USER_EMAIL": {
+            "content": "$3"
+         }
+      }
+   },
+   "5455360062863417200": {
+      "message": "Chanson suivante"
+   },
+   "5464364716831469679": {
+      "message": "Album inconnu"
+   },
+   "5476151303062271370": {
+      "message": "Lire la liste de lecture en mode aléatoire"
+   },
+   "5480320305561124595": {
+      "message": "Ma bibliothèque"
+   },
+   "548482866113095251": {
+      "message": "Stations relatives au titre"
+   },
+   "548629550059508920": {
+      "message": "Téléversement impossible, car vous téléversez déjà du contenu à partir de deux comptes."
+   },
+   "5492320356892382782": {
+      "message": "Supprimer définitivement"
+   },
+   "5497512316841934820": {
+      "message": "Mix \"J'ai de la chance\""
+   },
+   "5497627646066282315": {
+      "message": "Connexion en cours..."
+   },
+   "5501301484140201550": {
+      "message": "Station de radio « J'ai de la chance »"
+   },
+   "550380163414655031": {
+      "message": "Ensuite, nous vous poserons quelques questions sur vos goûts musicaux afin de pouvoir vous aider à découvrir des titres qui vous plaisent."
+   },
+   "5507175884847381808": {
+      "message": "Artistes associés"
+   },
+   "5507336088013774210": {
+      "message": "Vous êtes connecté à Chrome avec le compte $CHROME_PROFILE_EMAIL$, mais à Google Play Musique en tant que $USER_EMAIL$.",
+      "placeholders": {
+         "CHROME_PROFILE_EMAIL": {
+            "content": "$1"
+         },
+         "USER_EMAIL": {
+            "content": "$2"
+         }
+      }
+   },
+   "5518817744725858296": {
+      "message": "Artiste en concert à proximité"
+   },
+   "5519639242240450328": {
+      "message": "Utiliser le service standard"
+   },
+   "5529194084754296998": {
+      "message": "Sixième de cadratin"
+   },
+   "5535160370665610524": {
+      "message": "Retour rapide dans le titre en cours"
+   },
+   "5541835554879897802": {
+      "message": "Échec de l'ajout de certains titres à la collection. Veuillez réessayer."
+   },
+   "5551042708089914130": {
+      "message": "Toutes les personnes avec lesquelles vous partagez cette musique bénéficieront d'une écoute gratuite. Si vous choisissez un partage public, les personnes qui n'appartiennent pas à vos cercles ne pourront en écouter qu'un extrait."
+   },
+   "555316695189058055": {
+      "message": "Impossible de charger les paramètres. Veuillez réessayer."
+   },
+   "5555584444056851324": {
+      "message": "Progrès du transfert"
+   },
+   "5562067436939843837": {
+      "message": "Écoutez toute la musique de notre catalogue, comprenant des millions de chansons, sans publicité."
+   },
+   "5575972129483350476": {
+      "message": "Vous pourrez écouter vos chansons dès qu'elles auront été importées. Si votre bibliothèque musicale est très volumineuse, cela peut prendre un certain temps. Vous verrez la progression de l'importation dans le coin inférieur gauche (sous « Listes de lecture »)."
+   },
+   "5578390534357178026": {
+      "message": "Assurez-vous que vous êtes connecté à Chrome avec le même compte Google."
+   },
+   "5584189341216439776": {
+      "message": "Ajoutez votre musique"
+   },
+   "5584467594910303696": {
+      "message": "Hiéroglyphes méroïtiques"
+   },
+   "5588779305431701422": {
+      "message": "Mix instantanés"
+   },
+   "5593214348786423371": {
+      "message": "Cliquez sur $START_SPAN$Nouvelle station$END_SPAN$ ci-dessus pour commencer.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "5593848105713936399": {
+      "message": "File d'attente"
+   },
+   "5594762259680838005": {
+      "message": "Achats récents"
+   },
+   "5599239366255984375": {
+      "message": "Préparation de la suppression de toute la bibliothèque…"
+   },
+   "5601530442010506564": {
+      "message": "OK"
+   },
+   "5605692130698677333": {
+      "message": "Besoin d'aide pour ajouter de la musique depuis un ordinateur sur lequel vous avez déjà installé le programme d'installation de Music Manager pour Google Play?"
+   },
+   "5607000992339442129": {
+      "message": "Commencez par téléverser en quelques minutes votre bibliothèque musicale sur Google Play"
+   },
+   "5612959352951118540": {
+      "message": "dans $NUM$ heures",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "5618830577398814421": {
+      "message": "Erreur lors de la récupération du titre à partir de la corbeille."
+   },
+   "5629201590189718876": {
+      "message": "Format"
+   },
+   "5643561794785412000": {
+      "message": "Non accessible"
+   },
+   "5653588624985073807": {
+      "message": "Gourmoukhî"
+   },
+   "5665391621751941927": {
+      "message": "Impossible de récupérer les genres. Veuillez réessayer."
+   },
+   "5669572958528616663": {
+      "message": "Bloquer les titres au contenu explicite dans les radios"
+   },
+   "5670660788317776030": {
+      "message": "Impossible de récupérer les nouvelles versions. Veuillez réessayer."
+   },
+   "5671499827182863671": {
+      "message": "Vous avez été déconnecté de ce compte. Veuillez cliquer sur le bouton ci-dessous pour revenir à votre musique."
+   },
+   "5672179805519539136": {
+      "message": "Stockez toute votre musique au même endroit. Écoutez-là sur Android, iOS et sur le Web."
+   },
+   "5674048882417502526": {
+      "message": "Priorité de droite à gauche"
+   },
+   "5677606995605741055": {
+      "message": "Un problème est survenu lors de la suppression de la station de radio."
+   },
+   "5683437508504624331": {
+      "message": "Sous-genres"
+   },
+   "569766142833422558": {
+      "message": "L'application Google Play Musique pour Chrome doit être mise à jour. Le processus devrait être automatique."
+   },
+   "5700613377997995103": {
+      "message": "Tiret numérique"
+   },
+   "5703992909435466308": {
+      "message": "Bring it on!"
+   },
+   "5714766227503719125": {
+      "message": "Vos modifications Google Labs n'ont pas été enregistrées."
+   },
+   "5728756163322931984": {
+      "message": "Écoutez des millions de chansons pour le prix d'un album"
+   },
+   "5729194176998322121": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Voulez-vous vraiment {START_SPAN}supprimer définitivement{END_SPAN} le titre sélectionné?}one{Voulez-vous vraiment {START_SPAN}supprimer définitivement{END_SPAN} le titre sélectionné?}other{Voulez-vous vraiment {START_SPAN}supprimer définitivement{END_SPAN} les titres sélectionnés?}}"
+   },
+   "5729733224544981434": {
+      "message": "Ajoutez Google Play Musique pour Chrome pour activer le glisser-déposer"
+   },
+   "5751667025812029962": {
+      "message": "Un problème est survenu lors du chargement des chansons de cet artiste."
+   },
+   "5755038562791065032": {
+      "message": "Tiers de cadratin"
+   },
+   "5761798931116026691": {
+      "message": "Échec de la conversion au format MP3"
+   },
+   "5768452316770116077": {
+      "message": "Ajouter cette liste de lecture à la liste de lecture"
+   },
+   "5769292297914455214": {
+      "message": "Désactivé"
+   },
+   "5769804815976568558": {
+      "message": "Sélectionner un emplacement de téléchargement"
+   },
+   "5773750119871048451": {
+      "message": "Annuler"
+   },
+   "5775493454862732930": {
+      "message": "Trait d'union arménien"
+   },
+   "5779551937076403073": {
+      "message": "Ajouter"
+   },
+   "5779714939512088425": {
+      "message": "Toutes"
+   },
+   "5784007894878825338": {
+      "message": "Espace insécable"
+   },
+   "5788505296455738987": {
+      "message": "Impossible d'ouvrir la corbeille. Veuillez réessayer."
+   },
+   "5804623124207295942": {
+      "message": "Supprimer ma bibliothèque"
+   },
+   "5808071648737378605": {
+      "message": "En savoir plus"
+   },
+   "5839871767935988444": {
+      "message": "Impossible de supprimer le titre. Veuillez réessayer."
+   },
+   "5847831848437057583": {
+      "message": "Tout afficher"
+   },
+   "5851160910663331658": {
+      "message": "En fermant Google Play Musique, vous annulez tout téléversement de musique en attente."
+   },
+   "5854032765214514265": {
+      "message": "Télécharger l'application"
+   },
+   "5863523793538309428": {
+      "message": "La suppression de votre musique est en cours. Veuillez patienter quelques heures pour que tout soit supprimé."
+   },
+   "5871378571594262100": {
+      "message": "Modifier les détails de l'album"
+   },
+   "5889126665299129466": {
+      "message": "Pour utiliser le mini-lecteur, vous devez vous connecter à Chrome."
+   },
+   "5889904821719049150": {
+      "message": "Écoutez votre musique sur n'importe quel ordinateur ainsi que sur dix appareils au maximum. Le téléversement ou le téléchargement de musique avec Music Manager ou Google Play Musique pour Chrome sont pris en compte pour la limite de votre appareil."
+   },
+   "5890243856676178044": {
+      "message": "Bengali"
+   },
+   "5891064527381218201": {
+      "message": "Gratuit"
+   },
+   "5894119135072469147": {
+      "message": "Corbeille"
+   },
+   "5914500973755757025": {
+      "message": "Laotien"
+   },
+   "5918806792833250096": {
+      "message": "Cunéiforme"
+   },
+   "5923830678189377717": {
+      "message": "Hmmm..."
+   },
+   "5926827060047510764": {
+      "message": "Échec du partage du titre."
+   },
+   "5930857699885919881": {
+      "message": "Fichier ALAC non compatible"
+   },
+   "5938910520038805938": {
+      "message": "Enregistrer maintenant"
+   },
+   "595142360727489397": {
+      "message": "Désolés, impossible d'enregistrer vos paramètres pour le moment. Veuillez réessayer plus tard."
+   },
+   "5969115558488445506": {
+      "message": "Sous-titre"
+   },
+   "5969558996711203863": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{L'une de ces chansons se trouve déjà dans la liste de lecture.}one{L'une de ces chansons se trouve déjà dans la liste de lecture.}other{Certaines de ces chansons se trouvent déjà dans la liste de lecture.}}"
+   },
+   "5971001229987621398": {
+      "message": "Nouveautés suggérées"
+   },
+   "5972155237671313809": {
+      "message": "Genres"
+   },
+   "5980105177694529181": {
+      "message": "Accepter et continuer"
+   },
+   "5987565417212088924": {
+      "message": "Liste de lecture de la recherche audio"
+   },
+   "5994979002322984985": {
+      "message": "Achetez de la nouvelle musique sur Google Play."
+   },
+   "5999302874230425830": {
+      "message": "Supprimer définitivement"
+   },
+   "5999484363963634214": {
+      "message": "Mandéen"
+   },
+   "601150082487101480": {
+      "message": "Derniers titres ajoutés"
+   },
+   "6011656414766760165": {
+      "message": "{NUM_SONGS_TO_DELETE,plural, =1{Supprimer le titre}one{Supprimer le titre}other{Supprimer les titres}}"
+   },
+   "6028312506269896318": {
+      "message": "Voulez-vous vraiment annuler l'autorisation de lire de la musique accordée à l'appareil suivant?"
+   },
+   "6028482253716695635": {
+      "message": "Radio"
+   },
+   "6031749391396582225": {
+      "message": "Bourre hangûl"
+   },
+   "60369026765465265": {
+      "message": "Actualiser la station de radio"
+   },
+   "6040359253838854794": {
+      "message": "La musique que vous partagez sur Google+ est automatiquement ajoutée à cette liste de lecture."
+   },
+   "6042091568356544470": {
+      "message": "Application d'une fonction"
+   },
+   "6044756873503608227": {
+      "message": "D'accord"
+   },
+   "6055232846439667799": {
+      "message": "Accéder à l'album"
+   },
+   "6068863249628617875": {
+      "message": "Essayer maintenant"
+   },
+   "607779708716020188": {
+      "message": "…"
+   },
+   "6080972150136904755": {
+      "message": "Cette liste de lecture est actuellement vide"
+   },
+   "6082719810989622649": {
+      "message": "Cliquez sur les genres de musique que vous aimez"
+   },
+   "609463966491943885": {
+      "message": "Sélectionner des dossiers"
+   },
+   "6098416614935833721": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Vous pouvez également {START_SPAN_1}télécharger de la musique directement{END_SPAN}, mais seulement {START_SPAN_2}une fois par chanson{END_SPAN}.}one{ Vous pouvez également {START_SPAN_1}télécharger de la musique directement{END_SPAN}, mais seulement {START_SPAN_2}{DOWNLOAD_COUNT_MAX_2} fois par titre{END_SPAN}.}other{ Vous pouvez également {START_SPAN_1}télécharger de la musique directement{END_SPAN}, mais seulement {START_SPAN_2}{DOWNLOAD_COUNT_MAX_2} fois par titre{END_SPAN}.}}"
+   },
+   "6104044107385556653": {
+      "message": "Les codes promotionnels sont sensibles à la casse"
+   },
+   "610635793308893528": {
+      "message": "Intégration de droite à gauche"
+   },
+   "6107320076776413191": {
+      "message": "Vous n'avez encore aucune station."
+   },
+   "6115840172404094036": {
+      "message": "Accéder au titre suivant"
+   },
+   "6119356595466013484": {
+      "message": "Erreur lors de la suppression de la source de la station de radio."
+   },
+   "6125785068086103357": {
+      "message": "Impossible de supprimer le titre. Veuillez réessayer."
+   },
+   "6134905866550808378": {
+      "message": "Toutes mes chansons - $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "616810943412555780": {
+      "message": "Qui peut écouter cette liste de lecture?"
+   },
+   "6179363104414627697": {
+      "message": "Nous sommes désolés, Google Play Musique éprouve actuellement des difficultés. Veuillez réessayer dans quelques minutes."
+   },
+   "6184352869080100584": {
+      "message": "Particules"
+   },
+   "6187941731632492288": {
+      "message": "Suivant"
+   },
+   "619567867822601036": {
+      "message": "Avec un abonnement à Google Play Musique, vous aurez accès à plus de 30 millions de chansons et à un nombre illimité de stations de radio personnalisées."
+   },
+   "619598118465142912": {
+      "message": "Ajout de votre musique à Google Play en cours…"
+   },
+   "6198275839871689123": {
+      "message": "Préparation de la suppression de la musique téléversée…"
+   },
+   "6205568685279927986": {
+      "message": "Redjang"
+   },
+   "6211429203092739745": {
+      "message": "Chanson précédente"
+   },
+   "6211690508928257569": {
+      "message": "Syriaque"
+   },
+   "6214362172197372800": {
+      "message": "Assurez-vous d'avoir téléchargé sur votre ordinateur une copie de tous vos achats effectués sur Google Play avant de continuer."
+   },
+   "6223255458060266606": {
+      "message": "Partager l'album"
+   },
+   "6223487594388109285": {
+      "message": "Un problème est survenu lors de la modification du nom de la station de radio."
+   },
+   "6233107584508657559": {
+      "message": "Impossible de se connecter à Google"
+   },
+   "6238576599909606924": {
+      "message": "URL non valide"
+   },
+   "6242354668932209396": {
+      "message": "Répétition de toutes les chansons. Cliquer pour modifier le mode de répétition."
+   },
+   "624368563085644372": {
+      "message": "Signe multiplier invisible"
+   },
+   "6244700457503819244": {
+      "message": "Vous ne pouvez partager la musique téléversée que sur YouTube"
+   },
+   "624560585652958729": {
+      "message": "Annuler l'autorisation"
+   },
+   "6254019915482435769": {
+      "message": "Disques"
+   },
+   "6263911096488435737": {
+      "message": "Actualiser le mix"
+   },
+   "6264257099423315684": {
+      "message": "Vers quelle adresse de courriel ce lien doit-il pointer?"
+   },
+   "6295365017215525026": {
+      "message": "Acheter"
+   },
+   "630414199054820482": {
+      "message": "Espace de ponctuation"
+   },
+   "6324364209944131864": {
+      "message": "Impossible de supprimer la chanson. Veuillez réessayer."
+   },
+   "6334800505555910746": {
+      "message": "Fourni par $XXX_1$ sous $XXX_2$",
+      "placeholders": {
+         "XXX_1": {
+            "content": "$1"
+         },
+         "XXX_2": {
+            "content": "$2"
+         }
+      }
+   },
+   "6338543385295715171": {
+      "message": "Erreur de téléversement"
+   },
+   "6342787164312491730": {
+      "message": "Météorologie, panoramas et signes du zodiaque"
+   },
+   "6348993545995904615": {
+      "message": "Shuffle"
+   },
+   "6351675712334656593": {
+      "message": "Ajouter l'album à une liste de lecture"
+   },
+   "6352462755178724841": {
+      "message": "Supprimer la mise en forme"
+   },
+   "6360176193794906710": {
+      "message": "Impossible d'ajouter la ou les chansons à la liste de lecture. Veuillez réessayer."
+   },
+   "6360340926892934518": {
+      "message": "Ajouter un dossier"
+   },
+   "6360600151505327572": {
+      "message": "Dernière utilisation"
+   },
+   "6364574881720306543": {
+      "message": "Vous êtes toujours à l'écoute?"
+   },
+   "6366709732825379801": {
+      "message": "$BIT_RATE$ (VBR)",
+      "placeholders": {
+         "BIT_RATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6368701791080208899": {
+      "message": "Aucun résultat trouvé"
+   },
+   "6376260854549568083": {
+      "message": "Palmarès des chansons"
+   },
+   "6376633306429460166": {
+      "message": "Saurashtra"
+   },
+   "6385045613512910273": {
+      "message": "Lire les chansons de cet artiste en mode aléatoire"
+   },
+   "6385838952512467617": {
+      "message": "{NUM,plural, =0{Aucun téléchargement restant}=1{Un téléchargement restant pour \"{XXX_1}\"}=2{Un téléchargement restant pour \"{XXX_1}\" et \"{XXX_2}\"}=3{Un téléchargement restant pour \"{XXX_1}\", \"{XXX_2}\" et \"{XXX_3}\"}=4{Un téléchargement restant pour \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et un autre titre}one{Un téléchargement restant pour \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et {XXX_4} autre titre}other{Un téléchargement restant pour \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et {XXX_4} autres titres}}"
+   },
+   "6390744057286457578": {
+      "message": "Centrer"
+   },
+   "6392918669949841614": {
+      "message": "Date d'ajout"
+   },
+   "6397906195939852735": {
+      "message": "Canara"
+   },
+   "6397910887534888858": {
+      "message": "Couleur du texte"
+   },
+   "6400942092837891083": {
+      "message": "À écouter"
+   },
+   "6401504435764250548": {
+      "message": "Faites bénéficier vos amis d'une écoute intégrale et gratuite des titres et des albums que vous achetez sur le Google Play Store. Passez à Google+ pour commencer à partager de la musique avec vos amis."
+   },
+   "6401620758535187625": {
+      "message": "Mettre à jour les données de paiement"
+   },
+   "64105085985943447": {
+      "message": "Configuration de Google Play Musique en cours…"
+   },
+   "6421892043518687943": {
+      "message": "Accédez à plus de 30 millions de chansons et à un nombre illimité de stations de radio"
+   },
+   "6425912931786223127": {
+      "message": "(NB: No term is needed in FR-CA for AM or PM, since we use the 24 hour system. Please leave this field empty.)"
+   },
+   "6427041476637425542": {
+      "message": "Indice"
+   },
+   "6434502180830126486": {
+      "message": "Avec des chansons similaires à $TITLE$ par $ARTIST$",
+      "placeholders": {
+         "ARTIST": {
+            "content": "$1"
+         },
+         "TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "6438224032526722328": {
+      "message": "Mes radios"
+   },
+   "6439365426343089851": {
+      "message": "Général"
+   },
+   "6447846965513034625": {
+      "message": "Objets"
+   },
+   "6448771309160517960": {
+      "message": "Commencer gratuitement"
+   },
+   "6452850149519075219": {
+      "message": "Pas maintenant"
+   },
+   "6453809956732788630": {
+      "message": "$START_SPAN$Découvrez des listes de lecture créées par notre équipe de fins mélomanes.$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6455550894777387014": {
+      "message": "Birman"
+   },
+   "6455589326534311330": {
+      "message": "Cette limite ne s'applique pas lorsque vous utilisez $START_SPAN$Music Manager$END_SPAN$ pour télécharger l'ensemble de votre bibliothèque musicale sur votre ordinateur.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "6463864371052292453": {
+      "message": "Contenu explicite pouvant choquer les enfants"
+   },
+   "6482036697464831271": {
+      "message": "Pour que vos chansons soient rapidement téléversées sur Google Play, vos fichiers musicaux sont mis en correspondance avec les exemplaires présents sur nos serveurs. Il arrive parfois que les chansons ne soient pas mis en correspondance avec la bon fichier. Signalez le problème ici pour utiliser vos exemplaires plutôt que ceux qui ont été mis en correspondance."
+   },
+   "6482815137654580311": {
+      "message": "Modifier les détails"
+   },
+   "6486528140836362182": {
+      "message": "Erreur lors de l'annulation de la suppression."
+   },
+   "6488707262592852720": {
+      "message": "2. Dans la fenêtre du programme d'installation, faites glisser l'icône de Music Manager dans le dossier \"Applications\"."
+   },
+   "6502885021177224543": {
+      "message": "Google Play Musique : Sélectionner le dossier de téléchargement"
+   },
+   "6504449653938065974": {
+      "message": "Liste de lecture recommandée"
+   },
+   "6510962485068569110": {
+      "message": "Annuler"
+   },
+   "6531109671848395983": {
+      "message": "Pour ajouter votre musique, installez Google Play Musique pour Chrome."
+   },
+   "653219508056341533": {
+      "message": "Gens et émotions"
+   },
+   "6536321501157888512": {
+      "message": "Vidéos"
+   },
+   "6538565185460307864": {
+      "message": "Oriya"
+   },
+   "6562996658473327600": {
+      "message": "Lire à partir de :"
+   },
+   "6568036879894576496": {
+      "message": "La musique des dossiers suivants sera ajoutée à Google Play Musique"
+   },
+   "6568649140210842427": {
+      "message": "Annuler"
+   },
+   "6576943715351613839": {
+      "message": "{DOWNLOAD_COUNT_MAX_1,plural, =1{ Vous pouvez télécharger chaque chanson une fois sur le Web.}one{ Vous pouvez télécharger chaque chanson {DOWNLOAD_COUNT_MAX_2} fois sur le Web.}other{ Vous pouvez télécharger chaque chanson {DOWNLOAD_COUNT_MAX_2} fois sur le Web.}}"
+   },
+   "6588162415744257525": {
+      "message": "Paramètres enregistrés."
+   },
+   "6591282200798732887": {
+      "message": "Demi-cadratin"
+   },
+   "6593026033315842198": {
+      "message": "Lire les prochains titres de l'album"
+   },
+   "6593910762276333113": {
+      "message": "Télécharger Flash"
+   },
+   "66116513409922755": {
+      "message": "Non"
+   },
+   "6612115524763399815": {
+      "message": "Dévanâgarî"
+   },
+   "6630542439744320847": {
+      "message": "Erreur lors du partage de la vidéo. Veuillez réessa."
+   },
+   "6634231960955145278": {
+      "message": "Chanson"
+   },
+   "6641147067989080704": {
+      "message": "Kayah Li"
+   },
+   "664634122823041615": {
+      "message": "{NUM_SONGS_DELETED,plural, =1{1 titre supprimé}one{# titre supprimé}other{# titres supprimés}}"
+   },
+   "6648321575857011667": {
+      "message": "Now you can upload up to 50,000 of your favorite songs and listen to them on your phone or on the web."
+   },
+   "6650633628037596693": {
+      "message": "Réessayer"
+   },
+   "6650888720096194474": {
+      "message": "Pour utiliser le mini-lecteur, vous devez configurer Google Play Musique pour le compte $START_SPAN$$EMAIL$$END_SPAN$",
+      "placeholders": {
+         "EMAIL": {
+            "content": "$1"
+         },
+         "END_SPAN": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "6652787256443519035": {
+      "message": "Aucune étiquette"
+   },
+   "6656247331101810021": {
+      "message": "{NUM_ADDED_1,plural, =1{1 chanson ajoutée à Google Play.}one{{NUM_ADDED_2} chanson ajoutée à Google Play.}other{{NUM_ADDED_2} chansons ajoutées à Google Play.}}"
+   },
+   "6662785925286272592": {
+      "message": "$NUMBER$ rangées sélectionnées",
+      "placeholders": {
+         "NUMBER": {
+            "content": "$1"
+         }
+      }
+   },
+   "6674940684074453217": {
+      "message": "iOS"
+   },
+   "6678540854255099584": {
+      "message": "Écoutez votre musique sur $START_SPAN_1$Android$END_SPAN$, sur $START_SPAN_2$iOS$END_SPAN$ et sur le Web.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN_1": {
+            "content": "$2"
+         },
+         "START_SPAN_2": {
+            "content": "$3"
+         }
+      }
+   },
+   "66820157572867378": {
+      "message": "Diminuer le retrait"
+   },
+   "6689623864271696040": {
+      "message": "Trait d'union conditionnel"
+   },
+   "6703947649972852818": {
+      "message": "Sélection"
+   },
+   "6711475260919070872": {
+      "message": "Vieux-perse"
+   },
+   "6714404182584858617": {
+      "message": "Téléverser de la musique"
+   },
+   "6716575470159796252": {
+      "message": "Chrome OS"
+   },
+   "6718773735728815040": {
+      "message": "Recommandations personnalisées"
+   },
+   "6719382961812623394": {
+      "message": "Un problème est survenu lors de la configuration"
+   },
+   "6722174221321515493": {
+      "message": "Antiliant sans chasse"
+   },
+   "67267580465432054": {
+      "message": "$COUNT$ autre(s)",
+      "placeholders": {
+         "COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "6732797853205065184": {
+      "message": "Ignorer"
+   },
+   "6750258767236131097": {
+      "message": "Scripts du Moyen-Orient"
+   },
+   "6752036923690894812": {
+      "message": "Suggestion : $SUGGESTED_VALUE$",
+      "placeholders": {
+         "SUGGESTED_VALUE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6752949968973984824": {
+      "message": "Supprimer de la file d'attente"
+   },
+   "6767840363712402525": {
+      "message": "Une erreur s'est produite lors de la création du mix instantané."
+   },
+   "6768967544887679189": {
+      "message": "Tilde"
+   },
+   "6776938678957039239": {
+      "message": "{NUM_ARTISTS,plural, =0{0 artiste}=1{1 artiste}one{# artiste}other{# artistes}}"
+   },
+   "6781720087622180098": {
+      "message": "{NUM_SONGS_TO_EXPUNGE,plural, =1{Supprimer définitivement le titre}one{Supprimer définitivement le titre}other{Supprimer définitivement les titres}}"
+   },
+   "6803938061962662521": {
+      "message": "$DAYS_PART$$DAYS_SEPARATOR$$HOURS_PART$$HOURS_SEPARATOR$$MINUTES_PART$",
+      "placeholders": {
+         "DAYS_PART": {
+            "content": "$1"
+         },
+         "DAYS_SEPARATOR": {
+            "content": "$2"
+         },
+         "HOURS_PART": {
+            "content": "$3"
+         },
+         "HOURS_SEPARATOR": {
+            "content": "$4"
+         },
+         "MINUTES_PART": {
+            "content": "$5"
+         }
+      }
+   },
+   "6814976743136440069": {
+      "message": "OK"
+   },
+   "6815887358797696163": {
+      "message": "Une erreur s'est produite lors de la création de la station de radio."
+   },
+   "6820635381009519748": {
+      "message": "Supprimer de la file d'attente"
+   },
+   "6821274223204126521": {
+      "message": "Symboles de musique"
+   },
+   "683078734522991365": {
+      "message": "Ajouter cette liste de lecture à la file de lecture"
+   },
+   "6839273670547667172": {
+      "message": "Divers"
+   },
+   "6840919594921167668": {
+      "message": "Les chansons que vous avez téléchargées se trouvent dans le dossier « Téléchargements » de votre ordinateur."
+   },
+   "6843333688253399564": {
+      "message": "Katakana"
+   },
+   "6852978731943767591": {
+      "message": "3. Lorsque le programme d'installation s'ouvre, suivez les instructions pour configurer Google Music Manager."
+   },
+   "6863919832612121551": {
+      "message": "Impossible de charger les résultats de recherche. Veuillez réessayer."
+   },
+   "6887831882226099905": {
+      "message": "Voulez-vous vraiment annuler l'autorisation d'ajouter de la musique accordée à l'appareil suivant?"
+   },
+   "6898179631823558149": {
+      "message": "Échec de la conversion du fichier dans un format utilisable"
+   },
+   "6906297334127711451": {
+      "message": "Avis très positifs"
+   },
+   "6922232441378354878": {
+      "message": "$TRACK_COUNT$ ($MAX_TRACKS$ maximum)",
+      "placeholders": {
+         "MAX_TRACKS": {
+            "content": "$1"
+         },
+         "TRACK_COUNT": {
+            "content": "$2"
+         }
+      }
+   },
+   "6922894402169620811": {
+      "message": "Gérer mes appareils"
+   },
+   "6930531446322391145": {
+      "message": "Image"
+   },
+   "6932708032906445463": {
+      "message": "File de lecture du $DATE$",
+      "placeholders": {
+         "DATE": {
+            "content": "$1"
+         }
+      }
+   },
+   "6958966284437922286": {
+      "message": "Vaï"
+   },
+   "6962699013778688473": {
+      "message": "Continuer"
+   },
+   "697012819930063829": {
+      "message": "Écoutez votre musique iTunes avec Google Play Musique"
+   },
+   "6990699195498598876": {
+      "message": "Pour commencer, téléchargez Music Manager ci-dessous. Simple d'utilisation, cette application vous permet d'ajouter à Google Play les fichiers musicaux enregistrés sur votre ordinateur."
+   },
+   "6998235550776058897": {
+      "message": "Recherche audio"
+   },
+   "699971906528455934": {
+      "message": "Artiste inconnu"
+   },
+   "700030425158051007": {
+      "message": "Limbu"
+   },
+   "7000649363168371045": {
+      "message": "Enregistrer les changements"
+   },
+   "7002955679222677443": {
+      "message": "En savoir plus"
+   },
+   "7009828133009731416": {
+      "message": "Article proposé gratuitement par Google"
+   },
+   "7015870297337540921": {
+      "message": "Miao"
+   },
+   "7019115336138470191": {
+      "message": "Abonné"
+   },
+   "7020161279392960480": {
+      "message": "Format"
+   },
+   "7022070615528435141": {
+      "message": "Supprimer"
+   },
+   "7029749611952268902": {
+      "message": "Flash Player manquant"
+   },
+   "7034479228356652023": {
+      "message": "Chinois – Radicaux à 1 trait"
+   },
+   "7035822615949880851": {
+      "message": "Votre musique est temporairement inaccessible sur cet appareil. Veuillez réessayer plus tard. Erreur 442."
+   },
+   "7043080825985118397": {
+      "message": "Annuler la suppression"
+   },
+   "7046172769056716709": {
+      "message": "TOUT LIRE"
+   },
+   "7049182394855721704": {
+      "message": "Gothique"
+   },
+   "7054091192371222228": {
+      "message": " sur "
+   },
+   "7062695654404914711": {
+      "message": "Mix instantanés"
+   },
+   "7070096119512751511": {
+      "message": "Avec les fonctionnalités expérimentales de Google Play Musique, testez des fonctionnalités qui ne sont pas encore tout à fait prêtes à être dévoilées au grand public. Celles-ci peuvent être modifiées, cesser de fonctionner ou disparaître à tout moment. Amusez-vous bien!"
+   },
+   "7071666053441099517": {
+      "message": "1. Ouvrez MusicManager.dmg, situé en bas à gauche de votre navigateur."
+   },
+   "7074455848199596542": {
+      "message": "Acheter"
+   },
+   "7080245643233785574": {
+      "message": "Un problème est survenu dans Google Play Musique pour Chrome. Veuillez vous reconnecter."
+   },
+   "7090368974279082159": {
+      "message": "Oups!"
+   },
+   "709740537382334098": {
+      "message": "Supprimer toute ma bibliothèque, y compris les titres achetés ($TOTAL_SONGS$)",
+      "placeholders": {
+         "TOTAL_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7100404876663103497": {
+      "message": "Bourre hangûl tch'ôsong"
+   },
+   "7100567566985297322": {
+      "message": "Cadratin"
+   },
+   "7102126384411654213": {
+      "message": "Impossible d'ajouter le titre à la collection. Veuillez réessayer."
+   },
+   "7104210472412766015": {
+      "message": "Séparateur d'annotation interlinéaire"
+   },
+   "7111181959300196580": {
+      "message": "Augmenter le retrait"
+   },
+   "7116872031464114568": {
+      "message": "Identifié dans la recherche audio"
+   },
+   "7127937208951634191": {
+      "message": "Symbole"
+   },
+   "7132453172532202734": {
+      "message": "Impossible d'accéder à Google Play"
+   },
+   "7136816542440442290": {
+      "message": "Un problème est survenu lors du chargement de la station de radio."
+   },
+   "7142318371157627900": {
+      "message": "Lire l'album en mode aléatoire"
+   },
+   "7144282148069290569": {
+      "message": "Google Play Musique : Entrez le code-coupon"
+   },
+   "716550293954822096": {
+      "message": "Singhalais"
+   },
+   "7182974689040833178": {
+      "message": "Reprendre"
+   },
+   "7192513315706728552": {
+      "message": "Erreur serveur. Veuillez réessayer plus tard."
+   },
+   "7193246324319119024": {
+      "message": "S'abonner à Google Play Musique"
+   },
+   "7193968696947634147": {
+      "message": "Actualiser la page"
+   },
+   "7194376132387780145": {
+      "message": "Impossible d'autoriser cet ordinateur, car vous avez déjà dix appareils."
+   },
+   "7194651457266894775": {
+      "message": "Suivant"
+   },
+   "7200522943394315316": {
+      "message": ".rpm 32 bits (pour Fedora/openSUSE)"
+   },
+   "7202681158267340446": {
+      "message": "Police"
+   },
+   "720381800527728702": {
+      "message": "Sports, fêtes et activités"
+   },
+   "7212676589977202933": {
+      "message": "$NUM_TRANSFERRED_TRACKS$ chansons ajoutées",
+      "placeholders": {
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7222550745296256302": {
+      "message": "Fonctionnalités expérimentales"
+   },
+   "7224832103566723854": {
+      "message": "Impossible d'ouvrir la liste de lecture. Veuillez réessayer."
+   },
+   "7228054090343921088": {
+      "message": "Pour profiter de nos offres spéciales, vous devez avoir indiqué un mode de paiement afin de confirmer votre pays de résidence, car les droits musicaux varient en fonction des pays."
+   },
+   "7228343081607279547": {
+      "message": "Soudanais"
+   },
+   "7229202390260081051": {
+      "message": "Très grande"
+   },
+   "7255910479290222342": {
+      "message": "Impossible de récupérer les nouvelles versions. Veuillez réessayer."
+   },
+   "7262284142845767114": {
+      "message": "J'aime"
+   },
+   "7268431229079263776": {
+      "message": "Stations spécialisées"
+   },
+   "7272102605534721713": {
+      "message": "Les titres gratuits et achetés sont ajoutés automatiquement à cette liste de lecture."
+   },
+   "7275701957875197537": {
+      "message": "Modifier les informations"
+   },
+   "7277107746269610906": {
+      "message": "$START_UNORDERED_LIST$$START_ITEM$$START_DIV_1$$END_DIV$$START_SPAN$Stockez jusqu'à 20 000 titres gratuitement sur Google Play.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_2$$END_DIV$$START_SPAN$Téléversez votre bibliothèque depuis iTunes, le lecteur Windows Media ou vos dossiers.$END_SPAN$$END_ITEM$$START_ITEM$$START_DIV_3$$END_DIV$$START_SPAN$Écoutez votre musique sur le Web ou sur vos appareils mobiles, sans câble ni synchronisation.$END_SPAN$$END_ITEM$$END_UNORDERED_LIST$",
+      "placeholders": {
+         "END_DIV": {
+            "content": "$1"
+         },
+         "END_ITEM": {
+            "content": "$2"
+         },
+         "END_SPAN": {
+            "content": "$3"
+         },
+         "END_UNORDERED_LIST": {
+            "content": "$4"
+         },
+         "START_DIV_1": {
+            "content": "$5"
+         },
+         "START_DIV_2": {
+            "content": "$6"
+         },
+         "START_DIV_3": {
+            "content": "$7"
+         },
+         "START_ITEM": {
+            "content": "$8"
+         },
+         "START_SPAN": {
+            "content": "$9"
+         },
+         "START_UNORDERED_LIST": {
+            "content": "$10"
+         }
+      }
+   },
+   "7277852420688818723": {
+      "message": "Supprimer la liste de lecture"
+   },
+   "7281847881697831326": {
+      "message": "Erreur lors de l'annulation de la suppression."
+   },
+   "7282565673166392948": {
+      "message": "Description idéographique"
+   },
+   "7283335227149007409": {
+      "message": "Google Play Musique"
+   },
+   "7287006426755387074": {
+      "message": "Augmenter le volume du lecteur"
+   },
+   "7292878672940239832": {
+      "message": "{NUM_MINUTES,plural, =0{0 minute}=1{1 minute}one{# minute}other{# minutes}}"
+   },
+   "7292902857194439444": {
+      "message": "Appareil"
+   },
+   "7293925053370285812": {
+      "message": "Répétition de la chanson en cours. Cliquer pour modifier le mode de répétition"
+   },
+   "730022297859142476": {
+      "message": "Instant mix"
+   },
+   "7305444542671206121": {
+      "message": "Partagé par"
+   },
+   "7305504256207181669": {
+      "message": "Liste à puces"
+   },
+   "7307135409747066409": {
+      "message": "Listes de lecture automatiques"
+   },
+   "7310668544702677420": {
+      "message": "Actualisez cette page dans votre navigateur pour continuer à écouter vos chansons. Si le problème persiste, assurez-vous que JavaScript est activé et fonctionne correctement."
+   },
+   "7320133162875658022": {
+      "message": "Téléverser les nouvelles chansons ($NUM_NEW_SONGS$)",
+      "placeholders": {
+         "NUM_NEW_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "7327031758797800144": {
+      "message": "Mix de titres"
+   },
+   "7331328794127852355": {
+      "message": "Emoji"
+   },
+   "7335080673788704461": {
+      "message": "Transport, cartes et signalisation"
+   },
+   "7347179017294066771": {
+      "message": "Ajouter ou supprimer des dossiers"
+   },
+   "7354536653016090160": {
+      "message": "Populaires"
+   },
+   "7354691783317064273": {
+      "message": "L'application Chrome est en cours de connexion…"
+   },
+   "7362511410853739189": {
+      "message": "{NUM_SONGS_NOT_ADDED,plural, =1{1 chanson n'a pas été ajoutée à votre bibliothèque, car elle est trop volumineuse.}one{# chanson n'a pas été ajoutée à votre bibliothèque, car elle est trop volumineuse.}other{# chanson n'ont pas été ajoutées à votre bibliothèque, car elles sont trop volumineuses.}}"
+   },
+   "7365831156994997199": {
+      "message": "&lt;Maj&gt; + Flèche droite"
+   },
+   "7366108491311712519": {
+      "message": "Retour"
+   },
+   "7376787658603979700": {
+      "message": "Accédez à des millions de titres, dont des centaines disponibles gratuitement"
+   },
+   "7396303606473621591": {
+      "message": "Tous"
+   },
+   "7398835787232710199": {
+      "message": "Accéder à l'artiste"
+   },
+   "7399163462822414616": {
+      "message": "Ajout de l'album en cours…"
+   },
+   "7410432243549869948": {
+      "message": "Durée"
+   },
+   "7411932913365107274": {
+      "message": "Vous pouvez annuler l'autorisation de quatre appareils par an."
+   },
+   "741454111929523251": {
+      "message": "Vouliez-vous dire : $START_LINK$$SUGGESTED_QUERY$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "SUGGESTED_QUERY": {
+            "content": "$3"
+         }
+      }
+   },
+   "7417635001613679430": {
+      "message": "Sélectionner des dossiers..."
+   },
+   "7417681439425233312": {
+      "message": "Les coupons ne sont valides que pour les nouveaux abonnements Google Play Musique"
+   },
+   "7419704019640008953": {
+      "message": "Partager"
+   },
+   "7427708733231424131": {
+      "message": "{NUM,plural, =0{dans # jour}=1{dans # jour}one{dans # jour}other{dans # jours}}"
+   },
+   "7428886958457484779": {
+      "message": "Pause"
+   },
+   "7433525020249318208": {
+      "message": "Partager de la musique"
+   },
+   "7437894509168051348": {
+      "message": "Chinois – Radicaux à 7 traits"
+   },
+   "7443973086288693076": {
+      "message": "Pour télécharger de la musique de Google Play, connectez-vous à Chrome avec le compte $USER_EMAIL$.",
+      "placeholders": {
+         "USER_EMAIL": {
+            "content": "$1"
+         }
+      }
+   },
+   "7467710920158412786": {
+      "message": "Liste de lecture privée, pour votre usage personnel."
+   },
+   "7473408832817075473": {
+      "message": "Supprimer l'album"
+   },
+   "747583939629659293": {
+      "message": "Ajouter une couleur"
+   },
+   "7480960100390206139": {
+      "message": "Divers"
+   },
+   "7485182386135797326": {
+      "message": "Ouvrir la file d'attente"
+   },
+   "7507545027173669965": {
+      "message": "Activité récente"
+   },
+   "7512291922236002631": {
+      "message": "Copiez et collez ce lien pour partager $START_SPAN$$TITLE$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "7518985049277038044": {
+      "message": "Artistes associés"
+   },
+   "7529798479468856973": {
+      "message": "il y a $NUM$ heures",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7532438019512459575": {
+      "message": "Écoutez les chansons en lecture aléatoire."
+   },
+   "7536172317066333802": {
+      "message": "Insérer une image"
+   },
+   "7553888571924937876": {
+      "message": "Ajoutez gratuitement à Google Play jusqu'à 20 000 titres musicaux issus de votre bibliothèque"
+   },
+   "7555213274234328374": {
+      "message": "Retirer l'autorisation de l'appareil"
+   },
+   "7559266156388225108": {
+      "message": "Symbole numérique kaithî"
+   },
+   "756532847162987514": {
+      "message": "($XXX$)",
+      "placeholders": {
+         "XXX": {
+            "content": "$1"
+         }
+      }
+   },
+   "7568923695537347038": {
+      "message": "Impossible de supprimer la liste de lecture. Veuillez réessayer."
+   },
+   "7570731911896608225": {
+      "message": "Séparateur de voyelles mongol"
+   },
+   "7572946295452220765": {
+      "message": "Consignes d'installation"
+   },
+   "7580882342112737846": {
+      "message": "Cliquez sur $START_SPAN$Nouveau mix instantané$END_SPAN$ ci-dessus pour commencer.",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "START_SPAN": {
+            "content": "$2"
+         }
+      }
+   },
+   "7586136400217442714": {
+      "message": "Oups… Une erreur s'est produite."
+   },
+   "7588107080089998106": {
+      "message": "Se réabonner"
+   },
+   "7596816553523902619": {
+      "message": "Aujourd'hui"
+   },
+   "7599424290971072767": {
+      "message": "Genre"
+   },
+   "7601688284754148415": {
+      "message": "Symboles mathématiques"
+   },
+   "7604883230326131491": {
+      "message": "Liste de lecture $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7605394550777137111": {
+      "message": "Le téléchargement devrait bientôt démarrer. Dans le cas contraire, veuillez $START_LINK$cliquer ici$END_LINK$.",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "7617664217221228040": {
+      "message": "Balinais"
+   },
+   "762389150316771008": {
+      "message": "Radio « J'ai de la chance »"
+   },
+   "7625459160681249394": {
+      "message": "{NUM_SONGS,plural, =0{Vous n'avez sélectionné aucun titre à télécharger sur votre ordinateur.}=1{Vous avez atteint le nombre maximal de téléchargements possibles pour ce titre.}one{Vous avez atteint le nombre maximal de téléchargements possibles pour ce titre.}other{Vous avez atteint le nombre maximal de téléchargements possibles pour ces titres.}}"
+   },
+   "7631480327394084350": {
+      "message": "Pictogrammes de commande"
+   },
+   "7646200109051419926": {
+      "message": "D'accord"
+   },
+   "7649914623897629491": {
+      "message": "Supprimer de Ma bibliothèque"
+   },
+   "7664246845088850317": {
+      "message": "Échec de la connexion au serveur. Code d'erreur : "
+   },
+   "7680909305037351509": {
+      "message": "Fermer"
+   },
+   "7697058485679231601": {
+      "message": "Actualisez la page et réessayez."
+   },
+   "7704516203792990151": {
+      "message": "Temps écoulé"
+   },
+   "7709119284546787990": {
+      "message": "De droite à gauche"
+   },
+   "7711713319832787051": {
+      "message": "Associés"
+   },
+   "7730109880037106848": {
+      "message": "Symboles"
+   },
+   "7736581252844206600": {
+      "message": "Grec"
+   },
+   "7737642252665507180": {
+      "message": "Code hexadécimal"
+   },
+   "7743528314734813641": {
+      "message": "Un problème est survenu lors du chargement du mix instantané."
+   },
+   "7756401573104983978": {
+      "message": "Application pour ordinateur"
+   },
+   "7760426006262447033": {
+      "message": "Espace insuffisant dans la file d'attente."
+   },
+   "7772875668912229569": {
+      "message": "{NUM_SONGS,plural, =0{0 chanson}=1{1 chanson}one{# chanson}other{# chansons}}"
+   },
+   "7774266771623079214": {
+      "message": "Google Play Musique"
+   },
+   "7776111286341041808": {
+      "message": "De gauche à droite"
+   },
+   "7776418505159373818": {
+      "message": "Impossible d'ouvrir la page de l'artiste. Veuillez réessayer."
+   },
+   "7779944073321183286": {
+      "message": "Découvrez tous les avantages de notre service gratuit :"
+   },
+   "7783345534551124847": {
+      "message": "Chansons"
+   },
+   "7790071770903633750": {
+      "message": "Acheter des titres"
+   },
+   "779262212811541732": {
+      "message": "Sudarabique"
+   },
+   "7794028797375406235": {
+      "message": "$COUNT$ TITRES",
+      "placeholders": {
+         "COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7796823105130976412": {
+      "message": "Cette liste de lecture est actuellement vide"
+   },
+   "7800122803571674150": {
+      "message": "Bienvenue dans Google Play Musique"
+   },
+   "7801884781403562273": {
+      "message": "Utiliser un code"
+   },
+   "78091647859265514": {
+      "message": "$COUNT$ TITRE",
+      "placeholders": {
+         "COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7816161180678740448": {
+      "message": "Braille"
+   },
+   "7819314041543176992": {
+      "message": "Fermer"
+   },
+   "7834872082445723495": {
+      "message": "Annulation de l'ajout de musique en cours…"
+   },
+   "7837658598263941553": {
+      "message": "Listes de lecture"
+   },
+   "7846689234809169417": {
+      "message": "Animaux, plantes et alimentation"
+   },
+   "7852251570584764233": {
+      "message": "Chanson suivante"
+   },
+   "7872232444995028156": {
+      "message": "Corbeille"
+   },
+   "7873745865358968651": {
+      "message": "{NUM_HOURS,plural, =0{0 heure}=1{1 heure}one{# heure}other{# heures}}"
+   },
+   "7878031641910175480": {
+      "message": "Sélections récentes :"
+   },
+   "7888286842234266048": {
+      "message": "Cerclé/Pointillés"
+   },
+   "7890898412210650236": {
+      "message": "Modifier la liste de lecture"
+   },
+   "7898792314887900865": {
+      "message": "Chypriote"
+   },
+   "7911416166208830577": {
+      "message": "Aide"
+   },
+   "7927039504440585569": {
+      "message": "Latin"
+   },
+   "7930381906669528420": {
+      "message": "Impossible de lire « $SONG_TITLE$ ». Lecture de la chanson suivante.",
+      "placeholders": {
+         "SONG_TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "7931527771588976000": {
+      "message": "Alphabet phonétique international (API)"
+   },
+   "7938108963036654993": {
+      "message": "$COUNT$ ÉCOUTE",
+      "placeholders": {
+         "COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "7944852703436298311": {
+      "message": "Parcourir les stations"
+   },
+   "7947294997516635657": {
+      "message": "Tout est à jour"
+   },
+   "7952631219945281814": {
+      "message": "Lire"
+   },
+   "7954850519963017242": {
+      "message": "il y a $NUM$ jour",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "7963649299504644841": {
+      "message": "Signe arabe sanah"
+   },
+   "7971435248407627299": {
+      "message": "Acheter des titres"
+   },
+   "7973992586253470062": {
+      "message": "Vous pouvez restaurer toutes vos chansons, listes de lecture et stations de radio en vous réabonnant à Google Play Musique."
+   },
+   "7978348005042781826": {
+      "message": "{VALUE,plural, =0{0 dossier}=1{1 dossier}one{# dossier}other{# dossiers}}"
+   },
+   "7980428538910137664": {
+      "message": "Titres gratuits et achetés"
+   },
+   "7984622936663451936": {
+      "message": "Clavier et interface utilisateur"
+   },
+   "7985095810697977698": {
+      "message": "Impossible de lire la chanson. Passage à la chanson suivante."
+   },
+   "7985393396166342590": {
+      "message": "Reprise de l'ajout de musique en cours…"
+   },
+   "7986036379595086541": {
+      "message": "Télécharger Flash"
+   },
+   "7993253982214922593": {
+      "message": "Impossible de modifier la liste de lecture. Veuillez réessayer."
+   },
+   "8001758142015238809": {
+      "message": "Erreur temporaire. Nouvelle tentative de téléversement imminente."
+   },
+   "8019982600883750632": {
+      "message": "Justifier"
+   },
+   "8020892463961333112": {
+      "message": "Symbole musical fin de coulé"
+   },
+   "8024675506077392847": {
+      "message": "Impossible de charger le titre musical suivant."
+   },
+   "8030037581414873660": {
+      "message": "Chinois – Radicaux à 2 traits"
+   },
+   "803032414305825807": {
+      "message": "Taille de police"
+   },
+   "803376120920513357": {
+      "message": "il y a $NUM$ jours",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8040048148188700509": {
+      "message": "Impossible de s'abonner à la liste de lecture. Veuillez réessayer."
+   },
+   "8045052194324740729": {
+      "message": "Impossible de lire les titres placés dans la corbeille."
+   },
+   "8066747296553908214": {
+      "message": "Double barre oblique"
+   },
+   "8068927414377765815": {
+      "message": "Période d'essai au service illimité"
+   },
+   "8079910440926315659": {
+      "message": "Mes mix"
+   },
+   "8082269310659310085": {
+      "message": "Ajoutez gratuitement votre bibliothèque musicale à Google Play en transférant toutes vos chansons et vos listes de lecture."
+   },
+   "8090573223674035778": {
+      "message": "Aucun titre trouvé."
+   },
+   "8091296789916436542": {
+      "message": "Flèche vers le haut"
+   },
+   "8091730284748549858": {
+      "message": "Titres ajoutés :"
+   },
+   "8103896406469064157": {
+      "message": "Acheter l'album"
+   },
+   "8108269900031160878": {
+      "message": "Nouvelle station"
+   },
+   "8117334786308416184": {
+      "message": "Aucuns frais ne seront débités de votre compte pour le service standard."
+   },
+   "8117873518116417445": {
+      "message": "{NUM,plural, =0{Vous n'avez dépassé la limite de téléchargement pour aucun titre.}=1{Vous avez déjà téléchargé \"{XXX_1}\" {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}=2{Vous avez déjà téléchargé \"{XXX_1}\" et \"{XXX_2}\" {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}=3{Vous avez déjà téléchargé \"{XXX_1}\", \"{XXX_2}\" et \"{XXX_3}\" {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}=4{Vous avez déjà téléchargé \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et un autre titre {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}one{Vous avez déjà téléchargé \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et {XXX_4} autre titre {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}other{Vous avez déjà téléchargé \"{XXX_1}\", \"{XXX_2}\", \"{XXX_3}\" et {XXX_4} autres titres {DOWNLOAD_COUNT_MAX} fois. Vous n'avez plus la possibilité d'effectuer cette opération.}}"
+   },
+   "8133597683741906689": {
+      "message": "$MONTH_NAME$ $YEAR_NUM$",
+      "placeholders": {
+         "MONTH_NAME": {
+            "content": "$1"
+         },
+         "YEAR_NUM": {
+            "content": "$2"
+         }
+      }
+   },
+   "8140841959031615975": {
+      "message": "Tenez-moi au courant des nouvelles et des offres de Google Play Musique"
+   },
+   "8144474297019493415": {
+      "message": "Derniers titres ajoutés"
+   },
+   "8146596754377240594": {
+      "message": "Achetés et téléversés"
+   },
+   "8157575291689267495": {
+      "message": "{COUNT,plural, =0{}=1{{TEXT} jour}one{{TEXT} jour}other{{TEXT} jours}}"
+   },
+   "8159976291123989327": {
+      "message": "Modifier le lien"
+   },
+   "8164181638219836623": {
+      "message": "Écoutez cette chanson et des millions d'autres pour le prix d'un album"
+   },
+   "8164274980045228173": {
+      "message": "Marqueur de changement de direction"
+   },
+   "8164897103619368290": {
+      "message": "Liste numérotée"
+   },
+   "8165704157728763113": {
+      "message": "Annuler"
+   },
+   "8174689178967388837": {
+      "message": "Piste n°"
+   },
+   "8189292800881030056": {
+      "message": "Paramètres"
+   },
+   "8191208612330635266": {
+      "message": "Tibétain"
+   },
+   "8192298658946835992": {
+      "message": "Espace insécable sans chasse"
+   },
+   "8193509313274135818": {
+      "message": "Appel de note de bas de page arabe"
+   },
+   "819996403327805209": {
+      "message": "En savoir plus"
+   },
+   "8206726262986846319": {
+      "message": "Ajoutez une description…"
+   },
+   "8211291274045842022": {
+      "message": "Enregistrer"
+   },
+   "8218742086474913860": {
+      "message": "Paramètres"
+   },
+   "8221494968176924260": {
+      "message": "Ma liste de lecture"
+   },
+   "8233851949641842866": {
+      "message": "{NUM_FAILURES_1,plural, =1{Impossible d'ajouter une chanson}one{Impossible d'ajouter {NUM_FAILURES_2} chanson}other{Impossible d'ajouter {NUM_FAILURES_2} chansons}}"
+   },
+   "823405029831570152": {
+      "message": "Éthiopien"
+   },
+   "8239380670132570074": {
+      "message": "Impossible d'ouvrir le fichier temporaire"
+   },
+   "8249329268828083858": {
+      "message": "Double trait katakana-hiragana"
+   },
+   "8270050108993507863": {
+      "message": "Erreur temporaire"
+   },
+   "8275689791574630480": {
+      "message": "Marque d'espace ogham"
+   },
+   "8277279706638733641": {
+      "message": "Étoiles/Astérisques"
+   },
+   "8286384050114068255": {
+      "message": "Version NaCl : $NACL_VERSION$",
+      "placeholders": {
+         "NACL_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "828700836558117968": {
+      "message": "Google Play Musique"
+   },
+   "8300572760144032022": {
+      "message": "Créer une station de radio à partir de la chanson sélectionnée"
+   },
+   "8318351532672778337": {
+      "message": "Une erreur s'est produite lors de la recherche du mix instantané."
+   },
+   "8325100368677049569": {
+      "message": "Découvrez de la nouvelle musique"
+   },
+   "8325448456109367196": {
+      "message": "Suggestion : $FIRST$ sur $SECOND$",
+      "placeholders": {
+         "FIRST": {
+            "content": "$1"
+         },
+         "SECOND": {
+            "content": "$2"
+         }
+      }
+   },
+   "83269369505381942": {
+      "message": "Afficher le mini-lecteur"
+   },
+   "832937245462232146": {
+      "message": "Music Manager n'est disponible que pour Windows et Mac."
+   },
+   "8332701383328442759": {
+      "message": "{NUM_DUPLICATE_SONGS,plural, =1{Ajouter un doublon de chanson?}one{Ajouter un doublon de chanson?}other{Ajouter des doublons de chansons?}}"
+   },
+   "8338465287076872825": {
+      "message": "Impossible de lire de la musique à partir du fichier"
+   },
+   "8345920736862214017": {
+      "message": "M'envoyer les actualités et les offres Google Play"
+   },
+   "8354485392494886744": {
+      "message": "Erreur lors de la recherche de station."
+   },
+   "8358697777226306085": {
+      "message": "Hiéroglyphes égyptiens"
+   },
+   "8363930857329550333": {
+      "message": "Géorgien"
+   },
+   "8373317019673128487": {
+      "message": "Impossible de récupérer les classements. Veuillez réessayer."
+   },
+   "838509699315651621": {
+      "message": "Cette chanson se trouve déjà dans la liste de lecture"
+   },
+   "8385464685117997940": {
+      "message": "Écouté récemment"
+   },
+   "8386555666648700714": {
+      "message": "Palmarès des titres"
+   },
+   "8391581291751536341": {
+      "message": "Se connecter à Chrome pour ajouter de la musique"
+   },
+   "839191432326662975": {
+      "message": "Mettre à jour"
+   },
+   "8395180429531273524": {
+      "message": "Pourquoi ne puis-je pas bénéficier de l'offre sur mon appareil?"
+   },
+   "8405156617531647050": {
+      "message": "Il semble que vous ayez déjà essayé Google Play Musique."
+   },
+   "840664911413405433": {
+      "message": "Windows"
+   },
+   "840692109692540367": {
+      "message": "Connexion"
+   },
+   "8412726756889279816": {
+      "message": "Changma kodha"
+   },
+   "8421838551605999158": {
+      "message": "1. Enregistrez musicmanagerinstaller.exe."
+   },
+   "8424326418312855409": {
+      "message": "Une erreur s'est produite durant la configuration de Google Play Musique."
+   },
+   "842631328362018283": {
+      "message": "Grande"
+   },
+   "8428663377262400192": {
+      "message": "Annuler la suppression"
+   },
+   "8432562579042371182": {
+      "message": "Options"
+   },
+   "8437015452970026040": {
+      "message": "Vous avez atteint le nombre maximal de chansons autorisées dans la collection. Veuillez supprimer des chansons si vous souhaitez en ajouter de nouvelles."
+   },
+   "8439955599488894226": {
+      "message": "Politique de confidentialité"
+   },
+   "8440128775129354214": {
+      "message": "Confidentialité"
+   },
+   "8454237498473122184": {
+      "message": "Trait d'union-signe moins"
+   },
+   "8455204924704616723": {
+      "message": "Fichier"
+   },
+   "8458476427655018512": {
+      "message": "Espace"
+   },
+   "8473179749546646244": {
+      "message": "Modifier liste de lecture"
+   },
+   "8475200466049973862": {
+      "message": "Aide et commentaires"
+   },
+   "8482517151370142670": {
+      "message": "Autre"
+   },
+   "848933194605193751": {
+      "message": "Récemment regardées sur YouTube"
+   },
+   "8492241415183649700": {
+      "message": "Carien"
+   },
+   "8499447471548910222": {
+      "message": "Le meilleur de Google Play Musique et Songza"
+   },
+   "8524322739067915993": {
+      "message": "(NB: No term is needed in FR-CA for AM or PM, since we use the 24 hour system. Please leave this field empty.)"
+   },
+   "8534388655421912616": {
+      "message": "Faire une liste de lecture"
+   },
+   "8534560073330554352": {
+      "message": "Nombre d'écoutes"
+   },
+   "8542907888351533629": {
+      "message": "..."
+   },
+   "8555110612122470863": {
+      "message": "Vous êtes en déplacement et vous entendez une chanson qui vous plaît? Touchez le micro sur l'écran d'accueil de votre téléphone ou de votre tablette Android. La chanson est alors identifiée et ajoutée à la liste de lecture « Recherche audio » sur Google Play. Vous pouvez également utiliser l'application Recherche audio pour Google Play."
+   },
+   "8564202903947049539": {
+      "message": "Lire"
+   },
+   "8569810095307793307": {
+      "message": "Partager"
+   },
+   "85722067506930001": {
+      "message": "Musique sur cet ordinateur"
+   },
+   "8574837452871464527": {
+      "message": "Les titres ajoutés récemment à votre collection sont automatiquement intégrés à cette liste de lecture."
+   },
+   "8589312850222732709": {
+      "message": "Refuser"
+   },
+   "8602981985283490607": {
+      "message": "$START_LINK$Obtenir de l'aide pour supprimer Music Manager$END_LINK$ de votre ordinateur",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         }
+      }
+   },
+   "8606325754052632992": {
+      "message": "Pour téléverser votre musique rapidement, Google Play établit des correspondances entre vos fichiers musicaux et les copies présentes sur notre serveur. La mise en correspondance incorrecte de deux titres peut se produire occasionnellement. Signalez ce problème ici et les titres seront téléversés de nouveau."
+   },
+   "8608281335099046628": {
+      "message": "Traitement de la musique en cours…"
+   },
+   "8619410898472620495": {
+      "message": "Visitez Google Play Musique sur le Web pour reprendre la lecture."
+   },
+   "8627517613423630249": {
+      "message": "{NUM,plural, =0{dans # minute}=1{dans # minute}one{dans # minute}other{dans # minutes}}"
+   },
+   "8628766851955432422": {
+      "message": "Supprimer"
+   },
+   "8630028808550905639": {
+      "message": "Enregistrer le nom"
+   },
+   "8637643428005590282": {
+      "message": "Marques"
+   },
+   "8638658475445596481": {
+      "message": "Regarder la vidéo"
+   },
+   "8639048757911329468": {
+      "message": "Version NaCl : $START_SPAN$$NACL_VERSION$$END_SPAN$",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NACL_VERSION": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8653280996780422242": {
+      "message": "Partager sur Google+"
+   },
+   "8664627357655793747": {
+      "message": "Supprimer l'album de \"Ma bibliothèque\""
+   },
+   "8665018009183785397": {
+      "message": "Impossible d'ouvrir la liste de lecture automatique. Veuillez réessayer."
+   },
+   "8666351791312579381": {
+      "message": "Supprimer de la liste de lecture"
+   },
+   "8668688673488857062": {
+      "message": "Essayer maintenant"
+   },
+   "8671684945688802001": {
+      "message": "Radio"
+   },
+   "8674371043496677979": {
+      "message": "Sur l'album : $START_LINK$$TITLE$$END_LINK$",
+      "placeholders": {
+         "END_LINK": {
+            "content": "$1"
+         },
+         "START_LINK": {
+            "content": "$2"
+         },
+         "TITLE": {
+            "content": "$3"
+         }
+      }
+   },
+   "8679801900555683146": {
+      "message": "Palmarès des chansons - $GENRE_NAME$",
+      "placeholders": {
+         "GENRE_NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8679806927601731663": {
+      "message": "Réessayer"
+   },
+   "8714704615820746714": {
+      "message": "Ajouter l'album à \"Ma bibliothèque\""
+   },
+   "8728114267472692076": {
+      "message": "Mix $TITLE$",
+      "placeholders": {
+         "TITLE": {
+            "content": "$1"
+         }
+      }
+   },
+   "8733921970136713647": {
+      "message": "Annuler l'abonnement"
+   },
+   "8741366833297918126": {
+      "message": "Durée de la chanson"
+   },
+   "8745106958984934964": {
+      "message": "Supprimer l'album"
+   },
+   "875046332706257024": {
+      "message": "Liste de lecture automatique"
+   },
+   "8755406602135059846": {
+      "message": "Prochaine date de facturation :"
+   },
+   "8763647985340267403": {
+      "message": "Pièces de jeu"
+   },
+   "8764339661945610128": {
+      "message": "Afficher plus d'artistes"
+   },
+   "8766543515727166681": {
+      "message": "État :"
+   },
+   "8768143964455071187": {
+      "message": "Ogam"
+   },
+   "8771272263124601486": {
+      "message": "Tagbanoua"
+   },
+   "8781113009551656764": {
+      "message": "{NUM,plural, =0{il y a # heure}=1{il y a # heure}one{il y a # heure}other{il y a # heures}}"
+   },
+   "8783860497272382218": {
+      "message": "Compte Google Play Musique"
+   },
+   "8787014632487519603": {
+      "message": "Nous avons détecté une erreur de décodage. Veuillez vérifier le fichier d'origine, puis téléversez-le de nouveau. Ce fichier a été ignoré."
+   },
+   "8801527171487571079": {
+      "message": "Taï tham"
+   },
+   "8801801881586334412": {
+      "message": "Palmarès des albums"
+   },
+   "880592275679936810": {
+      "message": "$START_SPAN$$NUM_TRANSFERRED_TRACKS$$END_SPAN$ chansons ajoutées",
+      "placeholders": {
+         "END_SPAN": {
+            "content": "$1"
+         },
+         "NUM_TRANSFERRED_TRACKS": {
+            "content": "$2"
+         },
+         "START_SPAN": {
+            "content": "$3"
+         }
+      }
+   },
+   "8818387952529569142": {
+      "message": "Aujourd'hui"
+   },
+   "8819361322041128714": {
+      "message": "Ougaritique"
+   },
+   "8833465340266211620": {
+      "message": "Toute la musique"
+   },
+   "8837901995601992509": {
+      "message": "$PREB$Attention.$POSTB$ Notez que si vous incluez une adresse de courriel sur une page Web, les polluposteurs peuvent également la trouver.",
+      "placeholders": {
+         "POSTB": {
+            "content": "$1"
+         },
+         "PREB": {
+            "content": "$2"
+         }
+      }
+   },
+   "8850654014217110957": {
+      "message": "Symbole numérique arabe"
+   },
+   "8851087571415944440": {
+      "message": "Partager cet artiste"
+   },
+   "8858058202463451164": {
+      "message": "Aligner à gauche"
+   },
+   "8868784738343119594": {
+      "message": "il y a $NUM$ minute",
+      "placeholders": {
+         "NUM": {
+            "content": "$1"
+         }
+      }
+   },
+   "8871219022895015530": {
+      "message": "Ajoute les titres sélectionnés à la file d'attente."
+   },
+   "8878672521198764118": {
+      "message": "Lire la chanson suivante"
+   },
+   "8890553633144307762": {
+      "message": "Retour"
+   },
+   "8892247938951013000": {
+      "message": "Impossible d'ajouter la ou les chansons à la liste de lecture. Veuillez réessayer."
+   },
+   "8894377483833272091": {
+      "message": "Prix"
+   },
+   "8896073810838561095": {
+      "message": "Chinois – Radicaux à 8 traits"
+   },
+   "8899085282664652923": {
+      "message": "Ajouter une carte"
+   },
+   "8901076355007755806": {
+      "message": "Lepcha"
+   },
+   "8910998670732377227": {
+      "message": "Réessayer"
+   },
+   "8925271759659767084": {
+      "message": "Titres gratuits et achetés"
+   },
+   "8927347742340521388": {
+      "message": "Enregistrer la file de lecture"
+   },
+   "8928637810128871106": {
+      "message": "Biographie"
+   },
+   "8928816882866356838": {
+      "message": "Public"
+   },
+   "8931700495296520714": {
+      "message": "Fermer le mini-lecteur"
+   },
+   "8934299821763129489": {
+      "message": "Italique ancien"
+   },
+   "8935906689399307581": {
+      "message": "Vous n'avez encore aucun mix instantané."
+   },
+   "8936704404804793618": {
+      "message": "Vidéos"
+   },
+   "8953033926734869941": {
+      "message": "Nom"
+   },
+   "8958033065100662697": {
+      "message": "Afficher le mini-lecteur"
+   },
+   "8958381934236197373": {
+      "message": "Espace tabulaire"
+   },
+   "8961985815150856927": {
+      "message": "Créés récemment"
+   },
+   "8967493310012272750": {
+      "message": "Radio $NAME$",
+      "placeholders": {
+         "NAME": {
+            "content": "$1"
+         }
+      }
+   },
+   "8969573585280830171": {
+      "message": "Écouter de la musique pour..."
+   },
+   "8971282019539581965": {
+      "message": "Ferme la boîte de dialogue « À propos »"
+   },
+   "8971922573880887079": {
+      "message": "Liste \"À écouter maintenant\" vide"
+   },
+   "8979933913103486540": {
+      "message": "Tiret/Connecteur"
+   },
+   "8982807952821993986": {
+      "message": "{NUM_TRANSFERRED_TRACKS_1,plural, =1{1 chanson ajoutée}one{{NUM_TRANSFERRED_TRACKS_2} chanson téléchargée}other{{NUM_TRANSFERRED_TRACKS_2} chansons téléchargées}}"
+   },
+   "8992323138519095501": {
+      "message": "« $SONG_TITLE$ », $ARTIST_NAME$ – Mini-lecteur de Google Play Musique",
+      "placeholders": {
+         "ARTIST_NAME": {
+            "content": "$1"
+         },
+         "SONG_TITLE": {
+            "content": "$2"
+         }
+      }
+   },
+   "8998527640999447691": {
+      "message": "Englobant"
+   },
+   "9000028459946302905": {
+      "message": "Supprimer tous les titres téléversés dans ma bibliothèque ($UPLOADED_SONGS$)",
+      "placeholders": {
+         "UPLOADED_SONGS": {
+            "content": "$1"
+         }
+      }
+   },
+   "9000910334745340727": {
+      "message": "Trait d'union conditionnel mongol"
+   },
+   "9001309834415064766": {
+      "message": "Chinois – Radicaux à 10 traits"
+   },
+   "900324017077910336": {
+      "message": "Sélectionner un ou plusieurs titres pour effectuer des actions"
+   },
+   "901225307358856093": {
+      "message": "Trait d'union syllabique canadien"
+   },
+   "9012509553041337814": {
+      "message": "En cours de transfert :"
+   },
+   "9019709040769999482": {
+      "message": "S'abonner"
+   },
+   "902300864627076683": {
+      "message": "Parthe des inscriptions"
+   },
+   "9024489874326845912": {
+      "message": "Album recommandé"
+   },
+   "9025611318328641299": {
+      "message": "Échec du téléchargement. Veuillez réessayer."
+   },
+   "9041115288963933531": {
+      "message": "Modifier les informations de l'album"
+   },
+   "9042260521669277115": {
+      "message": "Interrompre"
+   },
+   "9045338265172338590": {
+      "message": "Meitei mayek"
+   },
+   "9053704575157030099": {
+      "message": "Aucun"
+   },
+   "9059560719840598868": {
+      "message": "Envoyer des commentaires"
+   },
+   "9059682914934349232": {
+      "message": "Se désabonner"
+   },
+   "9063659532473030063": {
+      "message": "Symboles météorologiques et astrologiques"
+   },
+   "908288323950111351": {
+      "message": "Impossible d'ajouter un élément à une liste de lecture à laquelle vous êtes abonné."
+   },
+   "9083651304440098531": {
+      "message": "Supprimer la musique téléversée"
+   },
+   "9084816336314899019": {
+      "message": "Continuer"
+   },
+   "9092976405151508175": {
+      "message": "Répéter"
+   },
+   "9098679347815545327": {
+      "message": "Impossible de créer la liste de lecture. Veuillez réessayer."
+   },
+   "9104232341234454503": {
+      "message": "Musique illimitée"
+   },
+   "9111239821213364249": {
+      "message": "Essayez le service de musique illimitée. Les 30 premiers jours sont gratuits."
+   },
+   "9143597363285105250": {
+      "message": "Artiste de l'album"
+   },
+   "9146442984180362252": {
+      "message": "Impossible de lire la station de radio. Veuillez réessayer."
+   },
+   "91630758368920163": {
+      "message": "Mix d'albums"
+   },
+   "9166484956835481697": {
+      "message": "Les titres pour lesquels vous avez cliqué sur \"J'aime\" sont automatiquement ajoutés à cette liste de lecture."
+   },
+   "9173411042808904308": {
+      "message": "Normale/empattement"
+   },
+   "9179661003472285430": {
+      "message": "Télécharger Music Manager"
+   },
+   "9184426509557869402": {
+      "message": "Espace idéographique"
+   },
+   "9193901371937110673": {
+      "message": "Aucun appareil autorisé"
+   },
+   "9197433560254928186": {
+      "message": "Arabe"
+   },
+   "9204873585256670431": {
+      "message": "$COUNT$ ÉCOUTES",
+      "placeholders": {
+         "COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "9205544184671349450": {
+      "message": "Il semble que vous avez de la musique sur cet ordinateur."
+   },
+   "9212705249340904752": {
+      "message": "Découvrir"
+   },
+   "9214517335069385090": {
+      "message": "Ou, si vous préférez..."
+   },
+   "9217684488226619999": {
+      "message": "Erreur de traitement du coupon"
+   },
+   "9218938714985695055": {
+      "message": "Symbole musical début de coulé"
+   },
+   "933914956414602837": {
+      "message": "Pour que votre musique soit téléversée rapidement sur Google Play, vos fichiers musicaux sont mis en correspondance avec les exemplaires présents sur nos serveurs. Il arrive parfois que les chansons ne soient pas mises en correspondance avec la bon fichier. Signalez le problème ici pour utiliser votre exemplaire plutôt que celui qui a été mis en correspondance."
+   },
+   "935985887697278449": {
+      "message": "Vous êtes déjà abonné?"
+   },
+   "947591000172763449": {
+      "message": "Phags-Pa"
+   },
+   "949327761578931377": {
+      "message": "Continuez à utiliser le service pour $OFFER_PRICE$ par mois.",
+      "placeholders": {
+         "OFFER_PRICE": {
+            "content": "$1"
+         }
+      }
+   },
+   "949618577357088829": {
+      "message": "Création d'une liste de lecture"
+   },
+   "953268105555355822": {
+      "message": "Tout afficher"
+   },
+   "95869773684474447": {
+      "message": "Erreur de lecture"
+   },
+   "964983733596985457": {
+      "message": "Compatibilité"
+   },
+   "97224266342934568": {
+      "message": "Exposant"
+   },
+   "985263455839572191": {
+      "message": "Plusieurs titres de votre bibliothèque"
+   },
+   "997271731344372647": {
+      "message": "Flèche vers le bas"
+   },
+   "997742287268027221": {
+      "message": "Échec du téléversement du fichier"
+   }
+}

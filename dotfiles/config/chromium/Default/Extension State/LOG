@@ -1,0 +1,14 @@
+2015/03/06-09:06:39.672 19707 Reusing MANIFEST /home/elmegaard/.config/chromium/Default/Extension State/MANIFEST-000040
+2015/03/06-09:06:39.672 19707 Recovering log #45
+2015/03/06-09:06:39.696 19707 Level-0 table #48: started
+2015/03/06-09:06:39.781 19707 Level-0 table #48: 1983424 bytes OK
+2015/03/06-09:06:39.794 19707 Delete type=0 #45
+2015/03/06-09:06:39.796 19931 Compacting 4@0 + 1@1 files
+2015/03/06-09:06:39.851 19931 Generated table #50: 15 keys, 13875 bytes
+2015/03/06-09:06:39.852 19931 Compacted 4@0 + 1@1 files => 13875 bytes
+2015/03/06-09:06:39.859 19931 compacted to: files[ 0 1 0 0 0 0 0 ]
+2015/03/06-09:06:39.859 19931 Delete type=2 #48
+2015/03/06-09:06:39.860 19931 Delete type=2 #41
+2015/03/06-09:06:39.860 19931 Delete type=2 #46
+2015/03/06-09:06:39.860 19931 Delete type=2 #44
+2015/03/06-09:06:39.860 19931 Delete type=2 #39

@@ -1,0 +1,3 @@
+$(window).bind("load",function(){$("#tutorial").modal({show:!0})});
+$(document).ready(function(){$(".team-group button").click(function(){$(this).find("i").toggleClass("ico-arrow-down")});$(".btn-step").click(function(){var a=$(".tab-pane.active").attr("id"),a=parseInt(a.substring(3),10);$(".tab-pane").removeClass("active");$(this).hasClass("next")?(a++,2===a&&$(".prev").removeClass("hidden"),5===a&&($(this).addClass("hidden"),$(".done").removeClass("hidden"))):(a--,1===a&&$(".prev").addClass("hidden"),4===a&&($(".next").removeClass("hidden"),$(".done").addClass("hidden")));
+$("#tab"+a).addClass("active");$(".steps li").removeClass("active");$(".steps li").eq(a-1).addClass("active")})});
