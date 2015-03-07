@@ -1,0 +1,25 @@
+double_buffer		yes
+own_window		yes
+own_window_transparent	no
+own_window_type		override
+own_window_hints	sticky
+draw_borders		no
+alignment		top_left
+update_interval		0.25
+default_color		857d59
+own_window_colour	1a1a1a
+use_xft			yes
+xftfont			Source Code Pro:size=5
+override_utf8_locale	yes
+minimum_size		1480 0
+maximum_width		1540
+maximum_height		12
+use_spacer		none
+gap_x			60
+gap_y			28
+
+TEXT
+${alignc}${time %a %b %d %I:%M:%S %p}\
+${alignr}      ${battery_percent BAT0}% ${battery_bar 5,16 BAT0}\
+${alignr}      ${desktop}\
+${alignr}      ${curl ifconfig.me}\
