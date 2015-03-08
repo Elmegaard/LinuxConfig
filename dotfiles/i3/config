@@ -31,7 +31,7 @@ new_window			pixel 1
 ###############
 
 ### System Keybindings
-bindsym $mod + Return 		exec urxvt
+bindsym $mod + Return 		exec terminator
 bindsym $mod+d 			exec dmenu_run -sb "#af652f" -x 57 -y 25 -w 500 -h 10 -p ">" -hist ~/.config/dmenu2/history
 bindsym $mod+g 			exec "googleapps"
 bindsym $mod+Shift+c 		reload

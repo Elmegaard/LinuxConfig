@@ -9,17 +9,18 @@ update_interval		0.25
 default_color		857d59
 own_window_colour	1a1a1a
 use_xft			yes
-xftfont			Source Code Pro:size=5
+xftfont			Source Code Pro:size=8
 override_utf8_locale	yes
 minimum_size		1480 0
 maximum_width		1540
-maximum_height		12
+maximum_height		18
 use_spacer		none
 gap_x			60
 gap_y			28
 
 TEXT
-${alignc}${time %a %b %d %I:%M:%S %p}\
+${alignc}${offset 120}${time %a %b %d %H:%M:%S }\
+${alignr}${exec ~/git/LinuxConfig/scripts/avail_disk.sh}\
 ${alignr}      ${battery_percent BAT0}% ${battery_bar 5,16 BAT0}\
-${alignr}      ${desktop}\
+${alignr}      Vol: ${exec ~/git/LinuxConfig/scripts/volumelevel.sh}\
 ${alignr}      ${curl ifconfig.me}\
