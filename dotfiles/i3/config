@@ -167,7 +167,7 @@ bindsym $mod+i 			mode "info"
 #exec btsync
 exec compton --config ~/.config/compton/compton.conf -b
 exec nitrogen --restore
-exec sudo wicd
+#exec sudo wicd
 #exec xfce4-power-manager
 exec redshift
 exec conky --config="/home/elmegaard/.conkybar"
@@ -177,3 +177,11 @@ exec conky --config="/home/elmegaard/.conkybar"
 exec --no-startup-id i3-msg 'workspace 2; exec chromium; workspace 1'
 exec --no-startup-id i3-msg 'workspace 3; exec skype; workspace 1'
 
+workspace 1 output DVI-0
+workspace 2 output VGA-0
+workspace 3 output DVI-0
+workspace 4 output VGA-0
+workspace 5 output DVI-0
+workspace 6 output VGA-0
+workspace 7 output DVI-0
+workspace 8 output VGA-0
