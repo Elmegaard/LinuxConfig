@@ -31,7 +31,7 @@ new_window			pixel 1
 ###############
 
 ### System Keybindings
-bindsym $mod + Return 		exec terminator
+bindsym $mod + Return 		exec terminator -g $HOME/.terminator/config
 bindsym $mod+d 			exec dmenu_run -sb "#af652f" -x 57 -y 25 -w 500 -h 10 -p ">" -hist ~/.config/dmenu2/history
 bindsym $mod+g 			exec "googleapps"
 bindsym $mod+Shift+c 		reload
@@ -61,10 +61,10 @@ bindsym XF86MonBrightnessDown 	exec xbacklight -dec 20 	# decrease screen bright
 ### Focus Keybindings ###
 bindsym $mod+a 			focus parent
 # Home row
-bindsym $mod+j 			focus left
-bindsym $mod+k 			focus down
-bindsym $mod+l 			focus up
-bindsym $mod+æ			focus right
+bindsym $mod+h 			focus left
+bindsym $mod+j 			focus down
+bindsym $mod+k 			focus up
+bindsym $mod+l			focus right
 # Arrows
 bindsym $mod+Left 		focus left
 bindsym $mod+Down 		focus down
@@ -100,10 +100,10 @@ bindsym $mod+Shift+0 		move container to workspace 10
 
 ### Movement Keybindings
 #Home row
-bindsym $mod+Shift+j 		move left
-bindsym $mod+Shift+k		move down
-bindsym $mod+Shift+l		move up
-bindsym $mod+Shift+semicolon	move right
+bindsym $mod+Shift+h 		move left
+bindsym $mod+Shift+j		move down
+bindsym $mod+Shift+k		move up
+bindsym $mod+Shift+l    	move right
 # Arrows
 bindsym $mod+Shift+Left 	move left
 bindsym $mod+Shift+Down 	move down
@@ -117,7 +117,7 @@ bindsym $mod+w 			layout tabbed
 bindsym $mod+e 			layout toggle split
 bindsym $mod+f 			fullscreen
 # Splitting mode
-bindsym $mod+h 			split h
+bindsym $mod+y 			split h
 bindsym $mod+v 			split v
 # Floating mode
 bindsym $mod+Shift+space 	floating toggle
@@ -167,7 +167,6 @@ bindsym $mod+i 			mode "info"
 #exec btsync
 exec compton --config ~/.config/compton/compton.conf -b
 exec nitrogen --restore
-exec sudo wicd
 #exec xfce4-power-manager
 exec redshift
 exec conky --config="/home/elmegaard/.conkybar"

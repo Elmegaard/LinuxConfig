@@ -60,3 +60,10 @@ cmap w!! w !sudo tee > /dev/null %
 cmap x!! x !sudo tee > /dev/null %
 vnoremap <C-c> "*y
 vnoremap <V-v> "+p
+
+syntax on
+
+set number
+set numberwidth=2
+set cpoptions+=n
+highlight LineNr term=bold cterm=NONE ctermfg=DarkGrey ctermbg=NONE gui=NONE guifg=DarkGrey guibg=NONE

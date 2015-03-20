@@ -1,10 +1,15 @@
 [global_config]
   enabled_plugins = CustomCommandsMenu, InactivityWatch, TestPlugin, ActivityWatch, TerminalShot, LaunchpadCodeURLHandler, APTURLHandler, MavenPluginURLHandler, LaunchpadBugURLHandler, LayoutManager
-  title_transmit_bg_color = "#832527"
+  title_transmit_fg_color = "#857D59"
+  title_transmit_bg_color = "#1A1A1A"
+  title_inactive_fg_color = "#857D59"
+  title_inactive_bg_color = "#1A1A1A"
 [keybindings]
 [profiles]
   [[default]]
     scrollback_lines = 4000
+    use_system_font = False
+    font = Mono 8
 [layouts]
   [[default]]
     [[[child1]]]
