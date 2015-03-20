@@ -1,6 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/home/elmegaard/.vim'
 let g:netrw_dirhist_2='/home/elmegaard/.config'
 let g:netrw_dirhist_3='/home/elmegaard/git/LinuxConfig/dotfiles/terminator'
-let g:netrw_dirhist_4='/home/elmegaard/.ssh'
+let g:netrw_dirhist_4='/home/elmegaard/.i3'
+let g:netrw_dirhist_5='/home/elmegaard/.ssh'

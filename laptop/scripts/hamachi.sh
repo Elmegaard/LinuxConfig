@@ -1,0 +1,1 @@
+systemctl start logmein-hamachi

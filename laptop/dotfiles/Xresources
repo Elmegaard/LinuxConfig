@@ -1,0 +1,54 @@
+!!! COLORS !!!
+!*.foreground:			#857d59
+!urxvt*colorBD:			#746c48
+!*.background:   		#1a1a1a
+!urxvt*borderColor:		#1a1a1a
+!*.cursorColor:  		#746c48
+!*.cursorColor2:  		#1a1a1a
+!
+!! black
+!*.color0:       		#392925
+!*.color8:       		#544b2e
+!! red
+!*.color1:       		#98724c
+!*.color9:       		#af652f
+!! green
+!*.color2:       		#908f32
+!*.color10:      		#c3c13d
+!! yellow
+!*.color3:       		#aa964c
+!*.color11:      		#c8b55b
+!! blue
+!*.color4:       		#7b854e
+!*.color12:      		#99ac43
+!! magenta
+!*.color5:       		#6b5644
+!*.color13:      		#98724c
+!! cyan
+!*.color6:       		#5c5142
+!*.color14:      		#778725
+!! white
+!*.color7:       		#c8b55b
+!*.color15:      		#e4dc8c
+!
+!!!! FONTS !!!
+!Xft.dpi:			136
+!Xft.antialias:			true
+!Xft.rgba:			rgb
+!Xft.autohint:			false
+!Xft.hinting:			true
+!Xft.hintstyle:			hintfull
+!urxvt*font:                 	xft:Source Code Pro:regular:size=5.5
+!urxvt*imFont:               	xft:Source Code Pro:regular:size=5.5
+!urxvt*boldFont:             	xft:Source Code Pro:semibold:size=5.5
+!urxvt*italicFont:           	xft:Source Code Pro:italic:size=5.5
+!urxvt*boldItalicFont:       	xft:Source Code Pro:semibold:italic:size=5.5
+!urxvt*letterSpace:		0
+!
+!!!! OPTIONS !!!
+!Xcursor.size:			6
+!urxvt*scrollBar:		false
+!urxvt*transparent:		false
+!urxvt*url-select.launcher:	chromium
+!urxvt*url-select.underline:	true
+!urxvt*cursorBlink:		false

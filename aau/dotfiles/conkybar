@@ -1,0 +1,25 @@
+double_buffer		yes
+own_window		yes
+own_window_transparent	no
+own_window_type		override
+own_window_hints	sticky
+draw_borders		no
+alignment		top_left
+update_interval		0.25
+default_color		857d59
+own_window_colour	1a1a1a
+use_xft			yes
+xftfont			Source Code Pro:size=8
+override_utf8_locale	yes
+minimum_size		1160 0
+maximum_width		1220
+maximum_height		18
+use_spacer		none
+gap_x			60
+gap_y			28
+
+TEXT
+${alignc}${offset 120}${time %a %b %d %H:%M:%S }\
+${alignr}${exec ~/git/LinuxConfig/scripts/avail_disk.sh}\
+${alignr}      Vol: ${exec ~/git/LinuxConfig/scripts/volumelevel.sh}\
+${alignr}      ${curl ifconfig.me}\
