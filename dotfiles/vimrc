@@ -1,3 +1,4 @@
+execute pathogen#infect()
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
@@ -28,6 +29,7 @@ Plugin 'gmarik/Vundle.vim'
 
 Plugin 'LaTeX-Box-Team/LaTeX-Box'
 Plugin 'ervandew/supertab'
+"Plugin 'scrooloose/nerdtree'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -62,3 +64,13 @@ vnoremap <C-c> "*y
 vnoremap <V-v> "+p
 
 syntax on
+set backspace=indent,eol,start
+
+
+"NERDtree
+map <C-n> :NERDTreeToggle<CR>
+let g:NERDTreeDirArrows=0
+
+
+set number
+set numberwidth=3
