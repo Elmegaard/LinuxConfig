@@ -17,3 +17,9 @@ compinit
 zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
 
 alias ls='ls --color=auto'
+
+case $TERM in
+    xterm*)
+        precmd () {print -Pn "\e]0;$PWD\a"}
+        ;;
+esac
