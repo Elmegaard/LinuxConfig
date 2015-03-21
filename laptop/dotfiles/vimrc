@@ -75,3 +75,10 @@ highlight LineNr term=bold cterm=NONE ctermfg=DarkGrey ctermbg=NONE gui=NONE gui
 map <C-n> :NERDTreeToggle<CR>
 let g:NERDTreeDirArrows=0
 
+" Special Characters
+set dg
+
+" Tabbing
+set tabstop=4
+set shiftwidth=4
+set expandtab

@@ -23,3 +23,8 @@ case $TERM in
         precmd () {print -Pn "\e]0;$PWD\a"}
         ;;
 esac
+
+
+#PATH
+export PATH="$PATH:/usr/local/texlive/2014/bin/x86_64-linux"
+
