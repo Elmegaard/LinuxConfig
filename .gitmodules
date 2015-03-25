@@ -1,0 +1,3 @@
+[submodule "laptop/scripts/puush-linux"]
+	path = laptop/scripts/puush-linux
+	url = git@github.com:sunmockyang/puush-linux.git

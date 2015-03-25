@@ -32,7 +32,7 @@ new_window			pixel 1
 
 ### System Keybindings
 bindsym $mod + Return 		exec terminator -g $HOME/.terminator/config
-bindsym $mod+d 			exec dmenu_run -sb "#af652f" -x 95 -y 2 -w 500 -h 17 -p ">" -hist ~/.config/dmenu2/history
+bindsym $mod+d 			exec dmenu_run -sb "#af652f" -x 57 -y 25 -w 500 -h 20 -p ">" -hist ~/.config/dmenu2/history
 bindsym $mod+g 			exec "googleapps"
 bindsym $mod+Shift+c 		reload
 bindsym $mod+Shift+r 		restart
@@ -127,12 +127,6 @@ bindsym $mod+space 		focus mode_toggle
 bindsym $mod+Shift+minus 	move scratchpad
 bindsym $mod+minus 		scratchpad show
 
-# Puush Keybindings
-bindsym Ctrl+Shift+2    exec "puush -c"
-bindsym Ctrl+Shift+3    exec "puush -a"
-bindsym Ctrl+Shift+4    exec "puush -b"
-bindsym Ctrl+Shift+u    exec "puush -d"
-
 #########
 # Modes #
 #########
@@ -160,7 +154,8 @@ mode "info" {
 	bindsym $mod+i 		exec notify-send -u low "Internet" "Connected to `iw dev wlp3s0 link | grep SSID | cut -c 8-`";mode "default"
 	bindsym $mod+d 		exec notify-send -u low "Download Speed" "`speedtest --simple`";mode "default"
 	bindsym $mod+c 		exec notify-send -u low "CPU" "CPU Usage:$(cpu_usage)%\nTemp:`cut -c 1-2 /sys/bus/platform/devices/coretemp.0/hwmon/hwmon0/temp1_input`C";mode "default"
-	bindsym $mod+p 		exec notify-send -u low "Podcasts" "`gpo update | tail -n 1`";mode "default"
+	bindsym $mod+p 		exec notify-send -u low "Podcasts" "`gpo 
+update | tail -n 1`";mode "default"
 	bindsym $mod+e 		exec notify-send -u low "Email" "`checkemail`";mode "default"
         bindsym Escape 		mode "default"
 }
@@ -170,23 +165,11 @@ bindsym $mod+i 			mode "info"
 #
 bar {
     position top
-    font pango:Source Code R 8
     colors {
-        #default_color #857d59
+        default_color #857d59
         background #1a1a1a
-        statusline #857d59
-        separator #666666
-
-        focused_workspace  #4c7899 #285577 #ffffff
-        active_workspace   #333333 #5f676a #ffffff
-        inactive_workspace #333333 #222222 #888888
-        urgent_workspace   #2f343a #900000 #ffffff
     }
-    # conkybar
-    #status_command /home/elmegaard/.i3/
-    
-    # i3blocks bar
-    status_command SCRIPTS_DIR=/usr/libexec/i3blocks i3blocks -c ~/.i3/i3blocks.conf
+    status_command /home/elmegaard/git/LinuxConfig/laptop/scripts/conky-i3bar.sh
 }
 
 ####################

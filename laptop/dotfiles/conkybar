@@ -11,12 +11,11 @@ own_window_colour	1a1a1a
 use_xft			yes
 xftfont			Source Code Pro:size=8
 override_utf8_locale	yes
-minimum_size		1480 0
+minimum_size		1520 0
 maximum_width		1540
-maximum_height		18
 use_spacer		none
-gap_x			60
-gap_y			28
+gap_x			40
+gap_y			10
 
 TEXT
 ${alignc}${offset 120}${time %a %b %d %H:%M:%S }\

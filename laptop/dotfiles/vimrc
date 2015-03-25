@@ -76,6 +76,7 @@ map <C-n> :NERDTreeToggle<CR>
 let g:NERDTreeDirArrows=0
 
 " Special Characters
+set encoding=utf-8
 set dg
 
 " Tabbing
