@@ -4,8 +4,8 @@
 set $mod 			Mod4
 set $ns				
 set $rp				5
-set $gsi			5
-set $gso			30
+set $gsi			10
+set $gso			10
 set $fgcolor			#746c48
 set $bgcolor			#1a1a1a
 floating_modifier 		$mod
