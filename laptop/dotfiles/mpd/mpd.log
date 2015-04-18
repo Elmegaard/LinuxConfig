@@ -1,0 +1,542 @@
+Apr 08 22:19 : avahi: Initializing interface
+Apr 08 22:19 : avahi: Client changed to state 1
+Apr 08 22:19 : avahi: Client is REGISTERING
+Apr 08 22:19 : update: spawned thread for update job id 1
+Apr 08 22:19 : update: starting
+Apr 08 22:19 : state_file: Loading state file /home/elmegaard/.mpd/state
+Apr 08 22:19 : errno: Failed to open /home/elmegaard/.mpd/state: No such file or directory
+Apr 08 22:19 : inotify: initializing inotify
+Apr 08 22:19 : inotify: watching music directory
+Apr 08 22:19 : update: reading /Uppermost - Flow.mp3
+Apr 08 22:19 : update: added /Uppermost - Flow.mp3
+Apr 08 22:19 : simple_db: removing empty directories from DB
+Apr 08 22:19 : simple_db: sorting DB
+Apr 08 22:19 : simple_db: writing DB
+Apr 08 22:19 : update: finished
+Apr 08 22:19 : avahi: Client changed to state 2
+Apr 08 22:19 : avahi: Client is RUNNING
+Apr 08 22:19 : avahi: Registering service _mpd._tcp/MPD on laptop through HDA Intel MID - CX20585 Analog
+Apr 08 22:19 : avahi: Service group changed to state 0
+Apr 08 22:19 : avahi: Service group is UNCOMMITED
+Apr 08 22:19 : avahi: Service group changed to state 1
+Apr 08 22:19 : avahi: Service group is REGISTERING
+Apr 08 22:19 : avahi: Service group changed to state 2
+Apr 08 22:19 : avahi: Service 'MPD on laptop through HDA Intel MID - CX20585 Analog' successfully established.
+Apr 08 22:21 : avahi: Initializing interface
+Apr 08 22:21 : avahi: Client changed to state 2
+Apr 08 22:21 : avahi: Client is RUNNING
+Apr 08 22:21 : avahi: Registering service _mpd._tcp/MPD on laptop through HDA Intel MID - CX20585 Analog
+Apr 08 22:21 : avahi: Service group changed to state 0
+Apr 08 22:21 : avahi: Service group is UNCOMMITED
+Apr 08 22:21 : state_file: Loading state file /home/elmegaard/.mpd/state
+Apr 08 22:21 : errno: Failed to open /home/elmegaard/.mpd/state: No such file or directory
+Apr 08 22:21 : inotify: initializing inotify
+Apr 08 22:21 : inotify: watching music directory
+Apr 08 22:21 : avahi: Service group changed to state 1
+Apr 08 22:21 : avahi: Service group is REGISTERING
+Apr 08 22:21 : avahi: Service group changed to state 2
+Apr 08 22:21 : avahi: Service 'MPD on laptop through HDA Intel MID - CX20585 Analog' successfully established.
+Apr 08 22:22 : client: [0] opened from [::1]:43875
+Apr 08 22:22 : client: [0] process command "status"
+Apr 08 22:22 : client: [0] command returned 0
+Apr 08 22:22 : client: [0] process command "lsinfo "/""
+Apr 08 22:22 : client: [0] command returned 0
+Apr 08 22:22 : client: [0] process command "plchanges "0""
+Apr 08 22:22 : client: [0] command returned 0
+Apr 08 22:22 : client: [0] process command "outputs"
+Apr 08 22:22 : client: [0] command returned 0
+Apr 08 22:22 : client: [0] process command "decoders"
+Apr 08 22:22 : client: [0] command returned 0
+Apr 08 22:22 : client: [0] process command "outputs"
+Apr 08 22:22 : client: [0] command returned 0
+Apr 08 22:22 : client: [0] process command "outputs"
+Apr 08 22:22 : client: [0] command returned 0
+Apr 08 22:22 : client: [0] process command "idle"
+Apr 08 22:22 : client: [0] command returned 1
+Apr 08 22:22 : client: [0] closed
+Apr 08 22:22 : client: [1] opened from [::1]:43886
+Apr 08 22:22 : client: [1] process command "status"
+Apr 08 22:22 : client: [1] command returned 0
+Apr 08 22:22 : client: [1] process command "lsinfo "/""
+Apr 08 22:22 : client: [1] command returned 0
+Apr 08 22:22 : client: [1] process command "plchanges "0""
+Apr 08 22:22 : client: [1] command returned 0
+Apr 08 22:22 : client: [1] process command "outputs"
+Apr 08 22:22 : client: [1] command returned 0
+Apr 08 22:22 : client: [1] process command "decoders"
+Apr 08 22:22 : client: [1] command returned 0
+Apr 08 22:22 : client: [1] process command "outputs"
+Apr 08 22:22 : client: [1] command returned 0
+Apr 08 22:22 : client: [1] process command "outputs"
+Apr 08 22:22 : client: [1] command returned 0
+Apr 08 22:22 : client: [1] process command "idle"
+Apr 08 22:22 : client: [1] command returned 1
+Apr 08 22:22 : client: [1] process command "pause"
+Apr 08 22:22 : client: [1] command returned 0
+Apr 08 22:22 : client: [1] process command "idle"
+Apr 08 22:22 : client: [1] command returned 1
+Apr 08 22:25 : client: [1] process command "crossfade "5""
+Apr 08 22:25 : client: [1] command returned 0
+Apr 08 22:25 : client: [1] process command "idle"
+Apr 08 22:25 : client: [1] command returned 1
+Apr 08 22:25 : client: [1] process command "status"
+Apr 08 22:25 : client: [1] command returned 0
+Apr 08 22:25 : client: [1] process command "idle"
+Apr 08 22:25 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "crossfade "0""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "crossfade "5""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "crossfade "0""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "crossfade "5""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "crossfade "0""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "crossfade "5""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "crossfade "0""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "crossfade "5""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "crossfade "0""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "crossfade "5""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "addid "Uppermost - Flow.mp3""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "playid "1""
+Apr 08 22:29 : playlist: play 0:"Uppermost - Flow.mp3"
+Apr 08 22:29 : decoder_thread: probing plugin mad
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : decoder: audio_format=44100:24:2, seekable=true
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "plchanges "1""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : alsa_output: opened hw:0,0 type=HW
+Apr 08 22:29 : alsa_output: format=S32_LE (Signed 32 bit Little Endian)
+Apr 08 22:29 : alsa_output: buffer: size=32..524288 time=725..11888617
+Apr 08 22:29 : alsa_output: period: size=16..262144 time=362..5944309
+Apr 08 22:29 : alsa_output: default period_time = buffer_time/4 = 500000/4 = 125000
+Apr 08 22:29 : alsa_output: buffer_size=22050 period_size=4410
+Apr 08 22:29 : output: opened plugin=alsa name="HDA Intel MID - CX20585 Analog" audio_format=44100:32:2
+Apr 08 22:29 : output: converting from 44100:24:2
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "addid "Uppermost - Flow.mp3""
+Apr 08 22:29 : playlist: queue song 1:"Uppermost - Flow.mp3"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "playid "2""
+Apr 08 22:29 : playlist: play 1:"Uppermost - Flow.mp3"
+Apr 08 22:29 : player: played "Uppermost - Flow.mp3"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : decoder_thread: probing plugin mad
+Apr 08 22:29 : decoder: audio_format=44100:24:2, seekable=true
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "plchanges "2""
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "playid "1""
+Apr 08 22:29 : playlist: play 0:"Uppermost - Flow.mp3"
+Apr 08 22:29 : player: played "Uppermost - Flow.mp3"
+Apr 08 22:29 : decoder_thread: probing plugin mad
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : playlist: queue song 1:"Uppermost - Flow.mp3"
+Apr 08 22:29 : decoder: audio_format=44100:24:2, seekable=true
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "setvol "1""
+Apr 08 22:29 : client: [1] command returned 2
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "setvol "0""
+Apr 08 22:29 : client: [1] command returned 2
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "setvol "1""
+Apr 08 22:29 : client: [1] command returned 2
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "setvol "0""
+Apr 08 22:29 : client: [1] command returned 2
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "setvol "1""
+Apr 08 22:29 : client: [1] command returned 2
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:29 : client: [1] process command "status"
+Apr 08 22:29 : client: [1] command returned 0
+Apr 08 22:29 : client: [1] process command "idle"
+Apr 08 22:29 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command list
+Apr 08 22:30 : client: process command "delete "0""
+Apr 08 22:30 : playlist: play 1:"Uppermost - Flow.mp3"
+Apr 08 22:30 : player: played "Uppermost - Flow.mp3"
+Apr 08 22:30 : client: command returned 0
+Apr 08 22:30 : client: [1] process command list returned 0
+Apr 08 22:30 : decoder_thread: probing plugin mad
+Apr 08 22:30 : decoder: audio_format=44100:24:2, seekable=true
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "plchanges "3""
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command list
+Apr 08 22:30 : client: process command "delete "0""
+Apr 08 22:30 : player: played "Uppermost - Flow.mp3"
+Apr 08 22:30 : output: closed plugin=alsa name="HDA Intel MID - CX20585 Analog"
+Apr 08 22:30 : client: command returned 0
+Apr 08 22:30 : client: [1] process command list returned 0
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:30 : client: [1] process command "status"
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "plchanges "4""
+Apr 08 22:30 : client: [1] command returned 0
+Apr 08 22:30 : client: [1] process command "idle"
+Apr 08 22:30 : client: [1] command returned 1
+Apr 08 22:31 : client: [1] closed
+Apr 08 22:31 : state_file: Saving state file /home/elmegaard/.mpd/state
+Apr 09 02:27 : state_file: Saving state file /home/elmegaard/.mpd/state
+Apr 09 02:27 : state_file: Saving state file /home/elmegaard/.mpd/state
+Apr 09 02:27 : avahi: Shutting down interface
+Apr 09 02:27 : avahi: Shutting down interface
+Apr 09 11:39 : avahi: Service 'MPD on laptop through HDA Intel MID - CX20585 Analog' successfully established.
+Apr 18 16:14 : avahi: Service 'MPD on laptop through HDA Intel MID - CX20585 Analog' successfully established.
+Apr 18 16:27 : avahi: Service 'MPD on laptop through HDA Intel MID - CX20585 Analog' successfully established.
+Apr 18 16:49 : avahi: Service 'MPD on laptop through HDA Intel MID - CX20585 Analog' successfully established.
+Apr 18 16:54 : player: played "Uppermost - Flow.mp3"
+Apr 18 16:54 : player: played "Uppermost - Flow.mp3"

@@ -20,3 +20,4 @@ show_titlebar = False
 color_scheme = 'white_on_black'
 #use_theme_color = False
 foreground_color = '#FFFFFF'
+hide_tabbar = True

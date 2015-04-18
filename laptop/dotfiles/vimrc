@@ -29,6 +29,7 @@ Plugin 'gmarik/Vundle.vim'
 
 Plugin 'LaTeX-Box-Team/LaTeX-Box'
 Plugin 'ervandew/supertab'
+Plugin 'terryma/vim-multiple-cursors'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -77,9 +78,16 @@ let g:NERDTreeDirArrows=0
 
 " Special Characters
 set encoding=utf-8
-set dg
+"set dg
 
 " Tabbing
 set tabstop=4
 set shiftwidth=4
 set expandtab
+
+" Multiple Cursors
+let g:multi_cursor_use_default_mapping=0
+let g:multi_cursor_next_key='<S-n>'
+let g:multi_cursor_prev_key='<S-p>'
+let g:multi_cursor_skip_key='<S-x>'
+let g:multi_cursor_quit_key='<Esc>'

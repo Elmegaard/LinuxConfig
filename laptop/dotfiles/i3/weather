@@ -16,7 +16,7 @@ fi
 out=$(curl -s http://rss.accuweather.com/rss/liveweather_rss.asp\?metric\=${METRIC}\&locCode\=$1 |  perl -ne 'if (/Currently/) {chomp;/\<title\>Currently: (.*)?\<\/title\>/; print "$1"; }')
 first=$(echo $out | perl -ne '/(.*): /; print "$1"')
 temp=$(echo $out | perl -ne '/: (\d*)C/; print "$1"')
-echo "$first: "$temp"C"
+echo "$out"
 echo
 
 color=$(sh ~/.i3/color_chart $temp)
