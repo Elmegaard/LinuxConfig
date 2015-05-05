@@ -19,7 +19,7 @@ client.focused          	$fgcolor $fgcolor $bgcolor $fgcolor
 client.focused_inactive 	$bgcolor $bgcolor $fgcolor $bgcolor
 client.unfocused        	$bgcolor $bgcolor $fgcolor $bgcolor
 # Set font
-font 				pango:Source Code Pro 7
+font 				pango:DejaVu Sans Mono 4
 # Configure window borders
 gaps inner			$gsi
 gaps outer			$gso

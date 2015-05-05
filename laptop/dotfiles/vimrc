@@ -7,31 +7,31 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 " alternatively, pass a path where Vundle should install plugins
 "call vundle#begin('~/some/path/here')
-
 " let Vundle manage Vundle, required
 Plugin 'gmarik/Vundle.vim'
 
-" The following are examples of different formats supported.
-" Keep Plugin commands between vundle#begin/end.
-" plugin on GitHub repo
-"Plugin 'tpope/vim-fugitive'
-" plugin from http://vim-scripts.org/vim/scripts.html
-"Plugin 'L9'
-" Git plugin not hosted on GitHub
-"Plugin 'git://git.wincent.com/command-t.git'
-" git repos on your local machine (i.e. when working on your own plugin)
-"Plugin 'file:///home/gmarik/path/to/plugin'
-" The sparkup vim script is in a subdirectory of this repo called vim.
-" Pass the path to set the runtimepath properly.
-"Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
-" Avoid a name conflict with L9
-"Plugin 'user/L9', {'name': 'newL9'}
-
+" Plugins
+Plugin 'tpope/vim-fugitive'
 Plugin 'LaTeX-Box-Team/LaTeX-Box'
 Plugin 'ervandew/supertab'
 Plugin 'terryma/vim-multiple-cursors'
+Plugin 'Valloric/YouCompleteMe'
+Plugin 'scrooloose/syntastic'
+Plugin 'tpope/vim-surround'
+Plugin 'kien/ctrlp.vim'
+Plugin 'bling/vim-airline'
+Plugin 'scrooloose/nerdcommenter'
+Plugin 'Lokaltog/vim-easymotion'
+Plugin 'pangloss/vim-javascript'
+Plugin 'godlygeek/tabular'
+Plugin 'Raimondi/delimitMate'
+Plugin 'tpope/vim-endwise'
+Plugin 'mattn/emmet-vim'
+Plugin 'SirVer/ultisnips'
+Plugin 'honza/vim-snippets'
 
 " All of your Plugins must be added before the following line
+
 call vundle#end()            " required
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
@@ -73,7 +73,7 @@ set cpoptions+=n
 highlight LineNr term=bold cterm=NONE ctermfg=DarkGrey ctermbg=NONE gui=NONE guifg=DarkGrey guibg=NONE
 
 " NERDtree
-map <C-n> :NERDTreeToggle<CR>
+map <C-b> :NERDTreeToggle<CR>
 let g:NERDTreeDirArrows=0
 
 " Special Characters
@@ -87,7 +87,30 @@ set expandtab
 
 " Multiple Cursors
 let g:multi_cursor_use_default_mapping=0
-let g:multi_cursor_next_key='<S-n>'
-let g:multi_cursor_prev_key='<S-p>'
-let g:multi_cursor_skip_key='<S-x>'
+let g:multi_cursor_next_key='<C-n>'
+let g:multi_cursor_prev_key='<C-p>'
+let g:multi_cursor_skip_key='<C-x>'
 let g:multi_cursor_quit_key='<Esc>'
+
+" Syntastic
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
+
+" Airline
+set laststatus=2
+"let g:airline_powerline_fonts = 1
+
+" UltiSnips
+" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
+let g:UltiSnipsExpandTrigger="<c-e>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+
+" If you want :UltiSnipsEdit to split your window.
+let g:UltiSnipsEditSplit="vertical"
