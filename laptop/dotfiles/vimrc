@@ -5,14 +5,17 @@ filetype off                  " required
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
-" alternatively, pass a path where Vundle should install plugins
-"call vundle#begin('~/some/path/here')
+
 " let Vundle manage Vundle, required
 Plugin 'gmarik/Vundle.vim'
 
 " Plugins
+" git
 Plugin 'tpope/vim-fugitive'
+
+" latex
 Plugin 'LaTeX-Box-Team/LaTeX-Box'
+
 Plugin 'ervandew/supertab'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'Valloric/YouCompleteMe'
@@ -29,6 +32,9 @@ Plugin 'tpope/vim-endwise'
 Plugin 'mattn/emmet-vim'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
+
+" color
+Plugin 'junegunn/seoul256.vim'
 
 " All of your Plugins must be added before the following line
 
@@ -104,13 +110,26 @@ let g:syntastic_check_on_wq = 0
 
 " Airline
 set laststatus=2
-"let g:airline_powerline_fonts = 1
+let g:airline_powerline_fonts = 1
 
 " UltiSnips
 " Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
 let g:UltiSnipsExpandTrigger="<c-e>"
 let g:UltiSnipsJumpForwardTrigger="<c-b>"
 let g:UltiSnipsJumpBackwardTrigger="<c-z>"
-
 " If you want :UltiSnipsEdit to split your window.
 let g:UltiSnipsEditSplit="vertical"
+
+" Map leader and localleader key
+let mapleader = " "
+let g:mapleader = " "
+let maplocalleader = " "
+let g:maplocalleader = " "
+
+" easymotion
+map \ <Plug>(easymotion-prefix)
+
+" color
+" Unified color scheme (default: dark)
+let g:seoul256_background = 233
+colo seoul256

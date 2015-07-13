@@ -31,16 +31,17 @@ new_window			pixel 1
 ###############
 
 ### System Keybindings
-bindsym $mod + Return 		exec terminator -g $HOME/.terminator/config
+bindsym $mod + Return 	exec terminator -g $HOME/.terminator/config
 bindsym $mod+d 			exec dmenu_run -sb "#af652f" -x 95 -y 2 -w 500 -h 17 -p ">" -hist ~/.config/dmenu2/history
 bindsym $mod+g 			exec "googleapps"
-bindsym $mod+Shift+c 		reload
-bindsym $mod+Shift+r 		restart
-bindsym $mod+Shift+e 		exec "i3-exit"
-bindsym $mod+Shift+q 		kill
+bindsym $mod+Shift+c	reload
+bindsym $mod+Shift+r 	restart
+bindsym $mod+Shift+e 	exec "i3-exit"
+bindsym $mod+Shift+q 	kill
 bindsym Print			exec scrot
 bindsym $mod+n 			gaps inner all set 0;gaps outer all set 0
 bindsym $mod+m 			gaps inner all set $gsi;gaps outer all set $gso
+bindsym $mod+x          exec i3-msg bar mode toggle
 
 ### Audio Keybindings ###
 bindsym XF86AudioRaiseVolume 	exec "amixer -q sset Master,0 1+ unmute"
@@ -201,6 +202,6 @@ exec redshift
 
 
 ###
-exec --no-startup-id i3-msg 'workspace 2; exec chromium; workspace 1'
+exec --no-startup-id i3-msg 'workspace 2; exec firefox; workspace 1'
 exec --no-startup-id i3-msg 'workspace 3; exec skype; workspace 1'
 
