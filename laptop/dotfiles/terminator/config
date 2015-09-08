@@ -1,23 +1,27 @@
 [global_config]
-enabled_plugins = customcommandsmenu, inactivitywatch, testplugin, activitywatch, terminalshot, launchpadcodeurlhandler, apturlhandler, mavenpluginurlhandler, launchpadbugurlhandler, layoutmanager
-handle_size = 1      
-borderless = False
-focus = 'system'
-window_state = 'maximise'
-scrollbar_position=disabled
-
+  enabled_plugins = customcommandsmenu, inactivitywatch, testplugin, activitywatch, terminalshot, launchpadcodeurlhandler, apturlhandler, mavenpluginurlhandler, launchpadbugurlhandler, layoutmanager
+  window_state = maximise
+  handle_size = 1
+  focus = system
 [keybindings]
-full_screen = <Ctrl><Shift>F11
-
+  full_screen = <Ctrl><Shift>F11
 [profiles]
-[[default]]
-use_system_font = False
-font = Mono 8
-background_type = transparent
-background_darkness = 0.97
-force_no_bell = True
-show_titlebar = False
-color_scheme = 'white_on_black'
-#use_theme_color = False
-foreground_color = '#FFFFFF'
-hide_tabbar = True
+  [[default]]
+    use_system_font = False
+    background_darkness = 0.97
+    force_no_bell = True
+    background_type = transparent
+    background_image = None
+    foreground_color = "#FFFFFF"
+    show_titlebar = False
+    color_scheme = white_on_black
+    font = Mono 8
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]

@@ -8,7 +8,7 @@
 
 dir=~/git/LinuxConfig/laptop/dotfiles                    # dotfiles directory
 olddir=~/LinuxConfig_old             # old dotfiles backup directory
-files="oh-my-zsh i3 vim vimrc xinitrc bashrc gitconfig zshrc conkybar Xresources bash_aliases terminator zprofile mpd latexmkrc yaourtrc"    # list of files/folders to symlink in homedir
+files="oh-my-zsh i3 vim vimrc xinitrc bashrc gitconfig zshrc conkybar Xresources bash_aliases terminator zprofile mpd latexmkrc yaourtrc certificates"    # list of files/folders to symlink in homedir
 
 ##########
 
