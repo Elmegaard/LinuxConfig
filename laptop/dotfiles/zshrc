@@ -17,6 +17,8 @@ compinit
 zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
 
 alias ls='ls --color=auto'
+alias tma='tmux attach-session -t'
+alias tmux='tmux -2'
 
 case $TERM in
     xterm*)
