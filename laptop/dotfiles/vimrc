@@ -19,6 +19,7 @@ Plugin 'LaTeX-Box-Team/LaTeX-Box'
 Plugin 'ervandew/supertab'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'Valloric/YouCompleteMe'
+Plugin 'Valloric/ycmd'
 Plugin 'scrooloose/syntastic'
 Plugin 'tpope/vim-surround'
 Plugin 'kien/ctrlp.vim'
@@ -32,6 +33,7 @@ Plugin 'tpope/vim-endwise'
 Plugin 'mattn/emmet-vim'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
+Plugin 'FredKSchott/CoVim'
 
 " color
 Plugin 'junegunn/seoul256.vim'
@@ -51,6 +53,9 @@ filetype plugin indent on    " required
 "
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
+
+" Vim
+set noswapfile
 
 " LaTeX
 let g:LatexBox_latexmk_options = "-pvc -pdfps"
@@ -112,14 +117,6 @@ let g:syntastic_check_on_wq = 0
 set laststatus=2
 let g:airline_powerline_fonts = 1
 
-" UltiSnips
-" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
-let g:UltiSnipsExpandTrigger="<c-e>"
-let g:UltiSnipsJumpForwardTrigger="<c-b>"
-let g:UltiSnipsJumpBackwardTrigger="<c-z>"
-" If you want :UltiSnipsEdit to split your window.
-let g:UltiSnipsEditSplit="vertical"
-
 " Map leader and localleader key
 let mapleader = " "
 let g:mapleader = " "
@@ -133,3 +130,19 @@ map \ <Plug>(easymotion-prefix)
 " Unified color scheme (default: dark)
 let g:seoul256_background = 233
 colo seoul256
+
+"CoVim
+let CoVim_default_name = "Elmegaard"
+let CoVim_default_port = "1337"  
+
+" YouCompleteMe
+" make YCM compatible with UltiSnips (using supertab)
+let g:ycm_key_list_select_completion = ['<C-n>', '<Down>']
+let g:ycm_key_list_previous_completion = ['<C-p>', '<Up>']
+let g:SuperTabDefaultCompletionType = '<C-n>'
+
+" UltiSnips
+let g:UltiSnipsExpandTrigger = "<tab>"
+let g:UltiSnipsJumpForwardTrigger = "<tab>"
+let g:UltiSnipsJumpBackwardTrigger = "<s-tab>"
+let g:UltiSnipsEditSplit="vertical"

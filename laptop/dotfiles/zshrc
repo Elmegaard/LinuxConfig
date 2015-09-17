@@ -34,3 +34,14 @@ export PATH="$PATH:$GOPATH/bin"
 
 # thefuck
 eval "$(thefuck --alias fuck)"
+
+# python env
+venv() {
+    local activate=~/.python/$1/bin/activate
+    if [ -e "$activate" ] ; then
+        source "$activate"
+    else
+        echo "Error: Not found: $activate"
+    fi
+}
+venv27() { venv 27 ; }

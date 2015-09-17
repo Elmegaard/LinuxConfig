@@ -16,6 +16,7 @@
     show_titlebar = False
     color_scheme = white_on_black
     font = Mono 8
+    scrollbar_position = disabled
 [layouts]
   [[default]]
     [[[child1]]]
