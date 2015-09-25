@@ -1,3 +1,9 @@
 [submodule "laptop/scripts/puush-linux"]
 	path = laptop/scripts/puush-linux
 	url = git@github.com:sunmockyang/puush-linux.git
+[submodule "laptop/scripts/gitzsh/zsh-git-prompt"]
+	path = laptop/scripts/gitzsh/zsh-git-prompt
+	url = git@github.com:olivierverdier/zsh-git-prompt.git
+[submodule "laptop/scripts/zsh-git-prompt"]
+	path = laptop/scripts/zsh-git-prompt
+	url = git@github.com:olivierverdier/zsh-git-prompt.git

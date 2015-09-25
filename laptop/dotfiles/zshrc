@@ -31,6 +31,7 @@ esac
 export PATH="$PATH:/usr/local/texlive/2014/bin/x86_64-linux"
 export GOPATH=$HOME/go
 export PATH="$PATH:$GOPATH/bin"
+export DOTSCRIPTS="$HOME/git/LinuxConfig/laptop/scripts"
 
 # thefuck
 eval "$(thefuck --alias fuck)"
@@ -45,3 +46,6 @@ venv() {
     fi
 }
 venv27() { venv 27 ; }
+
+source "$DOTSCRIPTS/zsh-git-prompt/zshrc.sh"
+PROMPT='%B%m%~%b$(git_super_status) %# '
