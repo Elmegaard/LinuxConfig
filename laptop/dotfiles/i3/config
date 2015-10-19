@@ -99,6 +99,10 @@ bindsym $mod+Shift+8 		move container to workspace 8
 bindsym $mod+Shift+9 		move container to workspace 9
 bindsym $mod+Shift+0 		move container to workspace 10
 
+# Move workspace between screens
+bindsym $mod+Control+l move workspace to output right
+bindsym $mod+Control+h move workspace to output left
+
 ### Movement Keybindings
 #Home row
 bindsym $mod+Shift+h 		move left
@@ -123,6 +127,10 @@ bindsym $mod+v 			split v
 # Floating mode
 bindsym $mod+Shift+space 	floating toggle
 bindsym $mod+space 		focus mode_toggle
+
+
+### Lock Screen (i3lock) ###
+bindsym $mod+Escape 	exec "lock"
 
 ### Scratchpad Keybindings ###
 bindsym $mod+Shift+minus 	move scratchpad

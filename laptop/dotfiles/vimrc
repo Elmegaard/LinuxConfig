@@ -34,6 +34,7 @@ Plugin 'mattn/emmet-vim'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
 Plugin 'FredKSchott/CoVim'
+Plugin 'laurentgoudet/vim-howdoi'
 
 " color
 Plugin 'junegunn/seoul256.vim'
@@ -71,7 +72,7 @@ let g:tex_flavor = "latex"
 cmap w!! w !sudo tee > /dev/null % 
 cmap x!! x !sudo tee > /dev/null %
 vnoremap <C-c> "*y
-vnoremap <V-v> "+p
+vnoremap <C-v> "+p
 
 " Syntax
 syntax on
@@ -82,10 +83,6 @@ set number
 set numberwidth=2
 set cpoptions+=n
 highlight LineNr term=bold cterm=NONE ctermfg=DarkGrey ctermbg=NONE gui=NONE guifg=DarkGrey guibg=NONE
-
-" NERDtree
-map <C-b> :NERDTreeToggle<CR>
-let g:NERDTreeDirArrows=0
 
 " Special Characters
 set encoding=utf-8
@@ -118,10 +115,14 @@ set laststatus=2
 let g:airline_powerline_fonts = 1
 
 " Map leader and localleader key
-let mapleader = " "
-let g:mapleader = " "
-let maplocalleader = " "
-let g:maplocalleader = " "
+let mapleader = "\<Space>"
+let g:mapleader = "\<Space>"
+let maplocalleader = "\<Space>"
+let g:maplocalleader = "\<Space>"
+
+" NERDtree
+map <leader>b :NERDTreeToggle<CR>
+let g:NERDTreeDirArrows=0
 
 " easymotion
 map \ <Plug>(easymotion-prefix)
@@ -146,3 +147,6 @@ let g:UltiSnipsExpandTrigger = "<tab>"
 let g:UltiSnipsJumpForwardTrigger = "<tab>"
 let g:UltiSnipsJumpBackwardTrigger = "<s-tab>"
 let g:UltiSnipsEditSplit="vertical"
+
+" howdoi
+map <C-h> <Plug>Howdoi
