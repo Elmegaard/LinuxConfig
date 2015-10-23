@@ -32,7 +32,7 @@ new_window			pixel 1
 
 ### System Keybindings
 bindsym $mod + Return 	exec terminator -g $HOME/.terminator/config
-bindsym $mod+d 			exec dmenu_run -sb "#af652f" -x 95 -y 2 -w 500 -h 17 -p ">" -hist ~/.config/dmenu2/history
+bindsym $mod+d 			exec dmenu_run -sb "#af652f" -x 300 -y 200 -w 700 -l 10 -p ">" -hist ~/.config/dmenu2/history
 bindsym $mod+g 			exec "googleapps"
 bindsym $mod+Shift+c	reload
 bindsym $mod+Shift+r 	restart
@@ -130,7 +130,7 @@ bindsym $mod+space 		focus mode_toggle
 
 
 ### Lock Screen (i3lock) ###
-bindsym $mod+Escape 	exec "lock"
+bindsym XF86ScreenSaver     exec "lock"
 
 ### Scratchpad Keybindings ###
 bindsym $mod+Shift+minus 	move scratchpad
@@ -210,6 +210,12 @@ exec redshift
 
 
 ###
-exec --no-startup-id i3-msg 'workspace 2; exec firefox; workspace 1'
-exec --no-startup-id i3-msg 'workspace 3; exec skype; workspace 1'
+exec --no-startup-id i3-msg 'workspace 1; exec skype; workspace 1'
 
+# Firefox Setup
+bindsym $mod+comma          workspace FF
+exec --no-startup-id i3-msg 'workspace FF; exec firefox; workspace 1'
+
+# Thunderbird Setup
+bindsym $mod+period          workspace TB
+exec --no-startup-id i3-msg 'workspace TB; exec thunderbird; workspace 1'
