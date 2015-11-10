@@ -79,10 +79,10 @@ syntax on
 set backspace=indent,eol,start
 
 " Line numbers
-set number
-set numberwidth=2
-set cpoptions+=n
-highlight LineNr term=bold cterm=NONE ctermfg=DarkGrey ctermbg=NONE gui=NONE guifg=DarkGrey guibg=NONE
+"set number
+"set numberwidth=2
+"set cpoptions+=n
+"highlight LineNr term=bold cterm=NONE ctermfg=DarkGrey ctermbg=NONE gui=NONE guifg=DarkGrey guibg=NONE
 
 " Special Characters
 set encoding=utf-8
@@ -150,3 +150,5 @@ let g:UltiSnipsEditSplit="vertical"
 
 " howdoi
 map <C-h> <Plug>Howdoi
+
+" Caps rebind
