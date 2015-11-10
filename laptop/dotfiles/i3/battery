@@ -6,12 +6,15 @@ remaining=`acpi -b | awk '{ split($5,a,":"); print substr($3,0,2), $4, "["a[1]":
 if [ $state == 'Fu' ]; 
 then
     state=""
+    bat="100%"
 elif [ $state == 'Di' ]; 
 then 
     state="↓"
 elif [ $state == 'Un' ]; 
 then 
     state=""
+    bat="100%"
+    bat="100%"
 elif [ $state == 'Ch' ];
 then
     state="↑"
