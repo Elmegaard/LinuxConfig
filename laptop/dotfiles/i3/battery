@@ -1,0 +1,26 @@
+#!/bin/bash
+bat=`acpi -b | awk '{ split($5,a,":"); print substr($3,0,2), $4, "["a[1]":"a[2]"]" }' | tr -d ',' | awk -F ' ' '{print $2}'`
+state=`acpi -b | awk '{ split($5,a,":"); print substr($3,0,2), $4, "["a[1]":"a[2]"]" }' | tr -d ',' | awk -F ' ' '{print $1}'`
+remaining=`acpi -b | awk '{ split($5,a,":"); print substr($3,0,2), $4, "["a[1]":"a[2]"]" }' | tr -d ',' | awk -F ' ' '{print $3}'`
+
+if [ $state == 'Fu' ]; 
+then
+    state=""
+elif [ $state == 'Di' ]; 
+then 
+    state="↓"
+elif [ $state == 'Un' ]; 
+then 
+    state=""
+elif [ $state == 'Ch' ];
+then
+    state="↑"
+
+fi
+
+if [ $remaining == "[:]" ] 
+then
+    remaining=""
+fi
+
+echo $bat $state $remaining
