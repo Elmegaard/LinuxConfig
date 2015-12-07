@@ -34,7 +34,6 @@ Plugin 'mattn/emmet-vim'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
 Plugin 'FredKSchott/CoVim'
-Plugin 'laurentgoudet/vim-howdoi'
 Plugin 'majutsushi/tagbar'
 
 " color
@@ -149,7 +148,9 @@ let g:UltiSnipsJumpForwardTrigger = "<tab>"
 let g:UltiSnipsJumpBackwardTrigger = "<s-tab>"
 let g:UltiSnipsEditSplit="vertical"
 
-" howdoi
-map <C-h> <Plug>Howdoi
+" Tagbar binds
+map <leader>t :TagbarToggle<CR>
 
-" Caps rebind
+" Buffer binds
+map <C-h> :bp<CR>
+map <C-l> :bn<CR>

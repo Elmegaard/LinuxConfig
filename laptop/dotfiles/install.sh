@@ -8,7 +8,7 @@
 
 dir=~/git/LinuxConfig/laptop/dotfiles                    # dotfiles directory
 olddir=~/LinuxConfig_old             # old dotfiles backup directory
-files="oh-my-zsh i3 vim vimrc xinitrc bashrc gitconfig zshrc conkybar Xresources bash_aliases terminator zprofile mpd latexmkrc yaourtrc certificates tmux.conf"    # list of files/folders to symlink in homedir
+files="i3 vim vimrc xinitrc bashrc gitconfig conkybar Xresources bash_aliases terminator zprofile mpd latexmkrc yaourtrc certificates tmux.conf"    # list of files/folders to symlink in homedir
 
 ##########
 
@@ -29,6 +29,9 @@ for file in $files; do
     echo "Creating symlink to $file in home directory."
     ln -s $dir/$file ~/.$file
 done
+
+mv ~/.config/fish/config.fish $olddir
+ln -s $dir/config.fish ~/.config/fish/config.fish
 
 install_zsh () {
 # Test to see if zshell is installed.  If it is:
@@ -56,4 +59,4 @@ else
 fi
 }
 
-install_zsh
+#install_zsh

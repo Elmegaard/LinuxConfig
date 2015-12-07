@@ -17,10 +17,6 @@ if [ -f ~/.bash_aliases ]; then
 		. ~/.bash_aliases
 fi
 
-# exec gnome-session
-# exec startkde
-# exec startxfce4
-# ...or the Window Manager of your choice
 setxkbmap dk
 exec i3
 xrdb -merge ~/.Xresources
