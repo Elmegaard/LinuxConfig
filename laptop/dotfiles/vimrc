@@ -24,7 +24,6 @@ Plug 'tpope/vim-endwise'
 Plug 'mattn/emmet-vim'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
-Plug 'FredKSchott/CoVim'
 Plug 'majutsushi/tagbar'
 Plug 'benekastah/neomake'
 Plug 'kassio/neoterm'
@@ -100,7 +99,7 @@ let maplocalleader = "\<Space>"
 let g:maplocalleader = "\<Space>"
 
 " NERDtree
-map <leader>b :NERDTreeToggle<CR>
+map <leader>bb :NERDTreeToggle<CR>
 let g:NERDTreeDirArrows=0
 
 " easymotion
@@ -148,3 +147,13 @@ nnoremap <Leader>nt :let g:neomake_open_list = 1<CR>:Neomake<CR>
 nnoremap <Leader>nm :let g:neomake_open_list = 1<CR>:Neomake!<CR>
 nnoremap <Leader>m :T make<CR>
 nnoremap <Leader>bt :call neoterm#close()<CR>
+
+" git
+nnoremap <Leader>gs :T git status<CR>
+nnoremap <Leader>gpl :T gpull<CR>
+nnoremap <Leader>gps :T gpush<CR>
+nnoremap <Leader>gy :T gsync<CR>
+nnoremap <Leader>gb :T git blame %<CR>
+nnoremap <Leader>ga :T git add %<CR>
+nnoremap <Leader>gd :T git diff %<CR>
+nnoremap <Leader>gc :T git commit % -m "

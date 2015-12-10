@@ -37,6 +37,9 @@ alias gcommit "git commit"
 alias gpush "git push"
 alias gsync "git pull --rebase; git push"
 
+#display
+alias vga "xrandr --output LVDS1 --auto --primary --output VGA1 --auto --right-of LVDS1"
+
 # fish git prompt
 set __fish_git_prompt_showdirtystate 'yes'
 set __fish_git_prompt_showstashstate 'yes'
