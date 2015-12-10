@@ -4,7 +4,7 @@ alias tmux='tmux -2'
 
 #PATH
 set -gx GOPATH $HOME/go
-set -gx PATH /usr/local/texlive/2014/bin/x86_64-linux $GOPATH/bin $PATH
+set -U fish_user_paths /usr/local/texlive/2014/bin/x86_64-linux $GOPATH/bin $fish_user_paths
 set -gx DOTSCRIPTS $HOME/git/LinuxConfig/laptop/scripts
 
 # bind Capslock to Escape when tapped,
@@ -36,7 +36,7 @@ alias q "exit"
 alias r "ranger"
 alias update "sudo pacman -Syu; vim -c :PluginUpdate -c :q -c :q"
 
-## fish git prompt
+# fish git prompt
 set __fish_git_prompt_showdirtystate 'yes'
 set __fish_git_prompt_showstashstate 'yes'
 set __fish_git_prompt_showupstream 'yes'
@@ -64,3 +64,9 @@ function fish_prompt
        set_color normal
 end
 
+# start X at login
+if status --is-login
+    if test -z "$DISPLAY" -a $XDG_VTNR -eq 1
+        exec startx -- -keeptty
+    end
+end
