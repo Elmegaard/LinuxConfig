@@ -32,7 +32,7 @@ new_window			pixel 1
 ###############
 
 ### System Keybindings
-bindsym $mod + Return 	exec terminator -g $HOME/.terminator/config
+bindsym $mod + Return 	exec xterm
 bindsym $mod+d 			exec dmenu_run -sb "#af652f" 
 bindsym $mod+g 			exec "googleapps"
 bindsym $mod+Shift+c	reload

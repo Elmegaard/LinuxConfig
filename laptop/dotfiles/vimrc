@@ -133,3 +133,18 @@ map <leader>t :TagbarToggle<CR>
 " Buffer binds
 map <C-h> :bp<CR>
 map <C-l> :bn<CR>
+
+function! NeoFunc(...)
+  silent :let g:neomake_open_list = 0
+  :Neomake
+endfunction
+  
+
+" Toggle neomake open list
+autocmd! BufWritePost * call NeoFunc()
+let g:neomake_open_list = 0
+
+nnoremap <Leader>nt :let g:neomake_open_list = 1<CR>:Neomake<CR>
+nnoremap <Leader>nm :let g:neomake_open_list = 1<CR>:Neomake!<CR>
+nnoremap <Leader>m :T make<CR>
+nnoremap <Leader>bt :call neoterm#close()<CR>

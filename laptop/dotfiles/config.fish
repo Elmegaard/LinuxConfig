@@ -7,12 +7,6 @@ set -gx GOPATH $HOME/go
 set -U fish_user_paths /usr/local/texlive/2014/bin/x86_64-linux $GOPATH/bin $fish_user_paths
 set -gx DOTSCRIPTS $HOME/git/LinuxConfig/laptop/scripts
 
-# bind Capslock to Escape when tapped,
-# Bind Capslock to Control when pressed
-# depends on xcape
-setxkbmap -option 'caps:ctrl_modifier'
-xcape -e 'Caps_Lock=Escape;Control_L=Escape;Control_R=Escape'
-
 # thefuck
 function fuck -d "Correct your previous console command"
     set -l exit_code $status
@@ -31,10 +25,17 @@ end
 
 #Misc aliases
 alias c "clear"
-alias g "cd ~/git; clear; ls"
 alias q "exit"
 alias r "ranger"
-alias update "sudo pacman -Syu; vim -c :PluginUpdate -c :q -c :q"
+alias vim "nvim"
+alias update "sudo pacman -Syu; vim -c :PlugUpdate -c :q -c :q"
+
+#Git Aliases
+alias g "cd ~/git; clear; ls"
+alias gpull "git pull --rebase"
+alias gcommit "git commit"
+alias gpush "git push"
+alias gsync "git pull --rebase; git push"
 
 # fish git prompt
 set __fish_git_prompt_showdirtystate 'yes'
@@ -69,4 +70,9 @@ if status --is-login
     if test -z "$DISPLAY" -a $XDG_VTNR -eq 1
         exec startx -- -keeptty
     end
+    # bind Capslock to Escape when tapped,
+    # Bind Capslock to Control when pressed
+    # depends on xcape
+    setxkbmap -option 'caps:ctrl_modifier'
+    xcape -e 'Caps_Lock=Escape;Control_L=Escape;Control_R=Escape'
 end
