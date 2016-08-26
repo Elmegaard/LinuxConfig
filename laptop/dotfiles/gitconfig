@@ -3,3 +3,12 @@
 	name = Peter Elmegaard
 [push]
 	default = simple
+[merge]
+	tool = vimdiff3
+[mergetool]
+	path = nvim
+    prompt = true
+[core]
+	editor = nvim
+[mergetool "vimdiff3"]
+  cmd = nvim -d $BASE $LOCAL $REMOTE $MERGED -c '$wincmd w' -c 'wincmd J'

@@ -215,7 +215,7 @@ exec --no-startup-id i3-msg 'workspace 1; exec skype; workspace 1'
 
 # Firefox Setup
 bindsym $mod+comma          workspace FF
-exec --no-startup-id i3-msg 'workspace FF; exec firefox; workspace 1'
+exec --no-startup-id i3-msg 'workspace FF; exec vivaldi-stable; workspace 1'
 
 # Thunderbird Setup
 bindsym $mod+period          workspace TB

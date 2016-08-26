@@ -6,7 +6,7 @@ call plug#begin('~/.vim/plugged')
 
 " Plugins
 " latex
-Plug 'LaTeX-Box-Team/LaTeX-Box'
+Plug 'lervag/vimtex'
 
 Plug 'ervandew/supertab'
 Plug 'terryma/vim-multiple-cursors'
@@ -27,6 +27,10 @@ Plug 'honza/vim-snippets'
 Plug 'majutsushi/tagbar'
 Plug 'benekastah/neomake'
 Plug 'kassio/neoterm'
+Plug 'christoomey/vim-titlecase'
+Plug 'chip/vim-fat-finger'
+Plug 'mbbill/undotree'
+Plug 'scrooloose/nerdtree'
 
 " color
 Plug 'junegunn/seoul256.vim'
@@ -99,7 +103,7 @@ let maplocalleader = "\<Space>"
 let g:maplocalleader = "\<Space>"
 
 " NERDtree
-map <leader>bb :NERDTreeToggle<CR>
+map <F12> :NERDTreeToggle<CR>
 let g:NERDTreeDirArrows=0
 
 " easymotion
@@ -157,3 +161,17 @@ nnoremap <Leader>gb :T git blame %<CR>
 nnoremap <Leader>ga :T git add %<CR>
 nnoremap <Leader>gd :T git diff %<CR>
 nnoremap <Leader>gc :T git commit % -m "
+
+" title case
+let g:titlecase_map_keys = 0
+nmap <leader>gt <Plug>Titlecase
+vmap <leader>gt <Plug>Titlecase
+nmap <leader>gT <Plug>TitlecaseLine
+
+" spell control
+autocmd FileType tex setlocal spell spelllang=en_us
+hi clear SpellBad
+hi SpellBad cterm=underline
+
+" undo tree
+nnoremap <F11> :UndotreeToggle<cr>

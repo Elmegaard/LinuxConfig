@@ -7,6 +7,9 @@ set -gx GOPATH $HOME/go
 set -U fish_user_paths /usr/local/texlive/2014/bin/x86_64-linux $GOPATH/bin $fish_user_paths
 set -gx DOTSCRIPTS $HOME/git/LinuxConfig/laptop/scripts
 
+# Set Browser
+set -x BROWSER vivaldi-stable
+
 # thefuck
 function fuck -d "Correct your previous console command"
     set -l exit_code $status
@@ -30,6 +33,11 @@ alias r "ranger"
 alias vim "nvim"
 alias update "sudo pacman -Syu; vim -c :PlugUpdate -c :q -c :q"
 
+#Git Config
+#git config --global core.editor nvim
+#git config --global merge.tool vimdiff3
+#git config --global mergetool.path nvim
+
 #Git Aliases
 alias g "cd ~/git; clear; ls"
 alias gpull "git pull --rebase"
@@ -39,6 +47,7 @@ alias gsync "git pull --rebase; git push"
 
 #display
 alias vga "xrandr --output LVDS1 --auto --primary --output VGA1 --auto --right-of LVDS1"
+alias vncpres "x11vnc -ncache 10 -nap -wait 50 -noxdamage -passwd pass123edit -viewpasswd 123456 -display :0 -forever"
 
 # fish git prompt
 set __fish_git_prompt_showdirtystate 'yes'
@@ -73,9 +82,14 @@ if status --is-login
     if test -z "$DISPLAY" -a $XDG_VTNR -eq 1
         exec startx -- -keeptty
     end
+
+
     # bind Capslock to Escape when tapped,
     # Bind Capslock to Control when pressed
     # depends on xcape
     setxkbmap -option 'caps:ctrl_modifier'
     xcape -e 'Caps_Lock=Escape;Control_L=Escape;Control_R=Escape'
+
 end
+
+#xrdb -merge ~/.Xresources

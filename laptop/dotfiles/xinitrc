@@ -18,5 +18,5 @@ if [ -f ~/.bash_aliases ]; then
 fi
 
 setxkbmap dk
-exec i3
 xrdb -merge ~/.Xresources
+exec i3
